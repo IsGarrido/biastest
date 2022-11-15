@@ -1,0 +1,5237 @@
+[
+    [
+        "Ethnicity",
+        "Language \u0026 Origin",
+        "Primary homeland",
+        "Subgroups, tribes \u0026 castes",
+        "Majority (plurality) religion and sect"
+    ],
+    [
+        "!Kung",
+        "Kxʼa → !Kung",
+        "Kalahari Desert (Namibia)",
+        "",
+        "Animism"
+    ],
+    [
+        "Abazins",
+        "Northwest Caucasian → Abazgi → Abaza",
+        "Abazinia (Russia)",
+        "Significant populations in Turkey, Egypt and Ukraine",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Abenaki",
+        "Algic → Algonquian → Abenaki",
+        "Quebec (Canada), Maine, Vermont, New Hampshire (United States)",
+        "",
+        "Abenaki religion"
+    ],
+    [
+        "Abkhazians",
+        "Northwest Caucasian → Abazgi → Abkhaz",
+        "Abkhazia (Georgia)",
+        "Sadz",
+        "Christianity → Eastern Orthodoxy, Islam → Sunni Islam"
+    ],
+    [
+        "Acehnese",
+        "Austronesian → Chamic → Acehnese",
+        "Aceh (Indonesia)",
+        "",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Acholi",
+        "Nilo-Saharan → Nilotic → Luo → Acholi",
+        "Acholiland (Uganda, South Sudan)",
+        "",
+        "Christianity"
+    ],
+    [
+        "Adjoukrou",
+        "Niger–Congo → Kwa → Adjukru",
+        "Dabou (Ivory Coast)",
+        "",
+        "Christianity"
+    ],
+    [
+        "Afar",
+        "Afroasiatic → Cushitic → Afar",
+        "Afaria (Ethiopia, Djibouti, Eritrea)",
+        "",
+        "Islam"
+    ],
+    [
+        "Afemai",
+        "Niger–Congo → Edoid → Afenmai",
+        "Edo State (Nigeria)",
+        "",
+        "Christianity"
+    ],
+    [
+        "African-Americans",
+        "Indo-European → Germanic → English, Louisiana Creole, Gullah, Afro-Seminole Creole, Francosign → ASLic → American Sign → Black American Sign",
+        "United States",
+        "Gullah, Creoles of color, Black Seminoles, Mascogos, Cherokee Freedmen, Sierra Leonean Americans, African-American Jews, with significant populations in France, the United Kingdom, Africa (including Ghana), and Israel",
+        "Christianity → Protestantism → Baptists"
+    ],
+    [
+        "Afrikaners",
+        "Indo-European → Germanic → Afrikaans",
+        "South Africa",
+        "Boers",
+        "Christianity → Protestantism → Calvinism"
+    ],
+    [
+        "Afro-Brazilians",
+        "Indo-European → Romance → Portuguese, Indo-European → Romance → Cafundó",
+        "Brazil",
+        "Zambo",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Afro-Caribbean",
+        "Indo-European → Germanic → English → English Creole, Indo-European → Romance → Spanish → Caribbean Spanish, Indo-European → Romance → French → French Creole, Indo-European → Germanic → Dutch → Surinamese Dutch, Indo-European → Romance → Portuguese → Papiamento, Niger–Congo → Yoruba, Niger–Congo → Igbo",
+        "Caribbean",
+        "Afro-Antiguan and Barbudan, Afro-Arubans, Afro-Bahamians, Afro-Barbadians, Afro-Bermudians, Afro-Colombians, Afro-Costa Ricans, Afro-Cubans (including Ganga-Longoba), Afro-Curaçaoans, Afro-Dominicans (Dominica), Afro-Dominicans (Dominican Republic), Afro-Grenadians, Afro-Guatemalans, Afro-Guyanese, Afro-Haitians, Afro-Hondurans, Afro-Jamaicans, Afro-Kittitians and Nevisians, Afro-Panamanian, Afro-Puerto Ricans, Afro-Saint Lucian, Afro-Salvadoran, Afro-Surinamese, Afro-Trinidadians and Tobagonians, Afro-Venezuelans, Afro-Vincentians, and Afro-Antiguans and Barbudans (including Afro-Antiquans and Afro-Barbudans)",
+        "Christianity, Islam, Rastafari, Obeah, Santería, Orisha, Trinidad Orisha, Yoruba, Vodou, Traditional African religion, Afro-American religion, Baháʼí"
+    ],
+    [
+        "Agaw",
+        "Afroasiatic → Cushitic → Agaw",
+        "Horn of Africa (Ethiopia, Eritrea)",
+        "Bilen, Ximre, Awi, Qemant",
+        "Christianity → Oriental Orthodoxy"
+    ],
+    [
+        "Ahom",
+        "Kra–Dai → Tai → Ahom",
+        "Assam (India)",
+        "",
+        "Hinduism"
+    ],
+    [
+        "Aimaq",
+        "Indo-European → Iranian → Persian → Aimaq",
+        "Afghanistan",
+        "Aimaq Hazara, Firozkohi, Jamshidi, Kipchak, Timuri, Taymani",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Ainus",
+        "Ainu languages",
+        "Hokkaido, Tōhoku region (Japan), Sakhalin, Kamchatka Peninsula, Khabarovsk Krai (Russia), Kuril Islands (Russia or Japan)",
+        "Hokkaido Ainu (including Ishikari Ainu, Menasunkur Ainu, and Sumunkur Ainu), Tokyo Ainu, Sakhalin Ainu, and Russian Ainu",
+        "Animism → Ainu folk religion, Buddhism → Nichiren Shōshū, Shinto, Christianity → Eastern Orthodoxy → Russian Orthodoxy"
+    ],
+    [
+        "Aja",
+        "Niger–Congo → Kwa → Gbe → Adja",
+        "Benin, Togo",
+        "",
+        "Traditional African religions"
+    ],
+    [
+        "Akan",
+        "Niger–Congo → Kwa → Central Tano, Niger–Congo → Kwa → Avikam–Alladian, Niger–Congo → Kwa → Avatime, Niger–Congo → Kwa → Abé, Niger–Congo → Kwa → Abidji, Niger–Congo → Kwa → Attié, Niger–Congo → Kwa → M'Bato, Niger–Congo → Kwa → Abure, Francosign → American Sign → Ghanaian Sign, Adamorobe Sign, Nanabin Sign",
+        "Gold Coast (Ghana)",
+        "Twi (including Ashanti and Akuapem), Fante, Abbé, Abidji, Ahafo, Ahanta, Akwamu, Akyem, Anyi, Aowin, Assin, Attie, Avatime, Avikam, Baoulé, Brong, Chakosi, Evalue, M'Bato, Nzema, Sefwi (including House of Israel), Tchaman, Wasa, Abure, Alladian",
+        "Christianity"
+    ],
+    [
+        "Akha",
+        "Sino-Tibetan → Loloish → Hani → Akha",
+        "Yunnan (Pu'er and Xishuangbanna)",
+        "Akeu",
+        "Animism"
+    ],
+    [
+        "Alawites",
+        "Afro-Asiatic → Semitic → Arabic → Levantine Arabic",
+        "Syria, Lebanon",
+        "",
+        "Islam → Alawite"
+    ],
+    [
+        "Albanians",
+        "Indo-European → Paleo-Balkan → Albanian",
+        "Albania, Kosovo, Ilirida (North Macedonia), Chameria (Greece), Preševo Valley (Serbia)",
+        "Ghegs (including Arbanasi and Kosovars), Tosks (including Arbëreshë, Cham Albanians, Arvanites), along with significant populations in Turkey, Egypt, Syria, France, the United Kingdom Italy, Spain, Germany, the Netherlands, Austria, Belgium, Nordic countries, Switzerland, Greece (including Western Thrace), Ukraine, Romania, Hungary, Croatia, Montenegro, Bosnia and Herzegovina, Serbia, Bulgaria, North Macedonia, Australia, Canada, and the United States",
+        "Islam and Christianity"
+    ],
+    [
+        "Aleuts",
+        "Eskimo-Aleut → Aleut",
+        "Aleutian Islands (United States)",
+        "",
+        "Christianity → Orthodox Christianity"
+    ],
+    [
+        "Altaians",
+        "Turkic → Kipchak → Southern Altai, Turkic → Siberian Turkic → Northern Altai",
+        "Altai Republic and Altai Krai (Russia), Altai Mountains (Mongolia), Altay Prefecture (China)",
+        "",
+        "Altai faith"
+    ],
+    [
+        "Alur",
+        "Nilo-Saharan → Nilotic → Luo → Alur",
+        "West Nile sub-region (Uganda), Ituri (Democratic Republic of the Congo)",
+        "",
+        "Christianity"
+    ],
+    [
+        "Alutiiq",
+        "Eskimo–Aleut → Eskimo → Alutiiq",
+        "Alaska (United States)",
+        "Chugach",
+        "Christianity"
+    ],
+    [
+        "Alyutors",
+        "Chukotko-Kamchatkan → Alyutor",
+        "",
+        "Shamanism"
+    ],
+    [
+        "Ambonese",
+        "Austronesian → Malayic → Malay → Ambonese Malay",
+        "Ambon Island (Indonesia)",
+        "",
+        "Christianity → Protestantism → Calvinism"
+    ],
+    [
+        "Ambundu",
+        "Niger–Congo → Bantu → Kimbundu",
+        "Angola",
+        "",
+        "Christianity, Traditional African religions"
+    ],
+    [
+        "Americo-Liberians",
+        "Indo-European → Germanic → English, Indo-European → Germanic → English → Merico, Indo-European → Germanic → English → Liberian Kreyol",
+        "",
+        "",
+        ""
+    ],
+    [
+        "Amhara",
+        "Afroasiatic → Semitic → Ethiopic → Amharic",
+        "Amharia (Ethiopia)",
+        "",
+        "Christianity → Oriental Orthodoxy"
+    ],
+    [
+        "Amis",
+        "Austronesian → Formosan → Amis",
+        "Taiwan (Taitung and Hualien Counties)",
+        "",
+        "Animism, Christianity"
+    ],
+    [
+        "Amish",
+        "Indo-European → Germanic → Pennsylvania Dutch, Indo-European → Germanic → Alemannic German → Alsatian",
+        "Pennsylvania (United States)",
+        "Swiss Amish",
+        "Christianity → Anabaptism"
+    ],
+    [
+        "Anaang",
+        "Niger–Congo → Cross River → Ibibio-Efik → Anaang",
+        "Akwa Ibom State (Nigeria)",
+        "",
+        "Christianity"
+    ],
+    [
+        "Andalusians",
+        "Indo-European → Romance → Spanish → Andalusian Spanish",
+        "Andalusia (Spain)",
+        "",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Aneuk Jamee",
+        "Austronesian → Malayic → Minangkabau → Aneuk Jamee",
+        "Aceh (Indonesia)",
+        "",
+        ""
+    ],
+    [
+        "Anuak",
+        "Nilo-Saharan → Nilotic → Luo → Anuak",
+        "Anuakia (Ethiopia), Boma (South Sudan)",
+        "",
+        "Christianity"
+    ],
+    [
+        "Apache",
+        "Dené–Yeniseian → Na-Dene → Apachean",
+        "Apacheria (United States)",
+        "Chiricahua, Jicarilla, Lipan, Mescalero, Salinero, Plains Apache, Western Apache",
+        "Native American religion → Native American Church"
+    ],
+    [
+        "Arabs",
+        "Afroasiatic → Semitic → Arabic, Arab Sign, Al-Sayyid Bedouin Sign",
+        "Arabian Peninsula and Syrian Desert",
+        "Bedouins, Peninsular Arabs, Levantine Arabs, Egyptian Arabs, Maghrebi Arabs, Mesopotamian Arabs, Khuzestani Arabs, Sudanese Arabs, Marsh Arabs, Alawites",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Arapaho",
+        "Algic → Algonquian → Arapahoan → Arapaho",
+        "Colorado, Wyoming (United States)",
+        "",
+        "Christianity, Native American Church"
+    ],
+    [
+        "Aragonese",
+        "Indo-European → Romance → Aragonese, Indo-European → Romance → Spanish",
+        "Aragon (Spain)",
+        "",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Argobba",
+        "Afroasiatic → Semitic → Ethiopic → Argobba",
+        "Ethiopia (Afar, Harari, Amhara, and Oromia Regions)",
+        "",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Armenians",
+        "Indo-European → Armenian, Armenian Sign",
+        "Greater Armenia (Armenia, Republic of Artsakh, Turkey)",
+        "Turkish Armenians (including Armenians in Istanbul, Hemshin and Hidden Armenians), Cherkesogai, Armeno-Tats, Hayhurum Karabakhis, along with significant populations in Russia, Belarus, Bulgaria, Czech Republic, Serbia, Poland, Greece, Hungary, Moldova, Romania, Ukraine (including Crimea), Cyprus, the United States, Canada, Mexico, Argentina, Brazil, Uruguay, France, Spain, the United Kingdom Sweden, Switzerland, Italy, Malta, Georgia (including Samtskhe–Javakheti, Abkhazia, and Tbilisi), Azerbaijan, (including Baku), Egypt, Lebanon, Pakistan, Iran, Qatar, Iraq, Kuwait, Syria, the United Arab Emirates, Israel, Jordan, Ethiopia, China, India, Bangladesh, Myanmar, Singapore, Australia, Austria, Belgium, the Netherlands, and Germany",
+        "Christianity → Oriental Orthodoxy"
+    ],
+    [
+        "Aromanians",
+        "Indo-European → Romance → Aromanian",
+        "Balkans (Greece, Albania, North Macedonia, Serbia, Bulgaria, Romania)",
+        "Significant populations in Greece, Albania, Romania, Bulgaria, Serbia, and North Macedonia, along with diaspora populations",
+        "Christianity → Eastern Orthodoxy"
+    ],
+    [
+        "Arrernte",
+        "Pama-Nyungan → Arandic → Arrernte",
+        "Arrernte Land (Australia)",
+        "",
+        "Alcheringa"
+    ],
+    [
+        "Assiniboine",
+        "Siouan → Western Siouan → Assiniboine",
+        "Manitoba, Saskatchewan, and Alberta (Canada), North Dakota, Montana (United States)",
+        "Bizebina, Insaombi, Wokpanbi",
+        "Traditional Assiniboine religion"
+    ],
+    [
+        "Assyrians",
+        "Afroasiatic → Semitic → Neo-Aramaic",
+        "Assyria (Iraq, Iran, Syria, Turkey)",
+        "Iraqi Assyrians, Turkish Assyrians, Syrian Assyrians and Iranian Assyrians. Groupings include Chaldean Assyrians from Nineveh and Bohtan, Syriac Assyrians from Tur Abdin, Hakkari and Urmia tribes including; Tyari, Jilu, Baz, Tkhuma, Nochiya. Majority in diaspora",
+        "Christianity → Syriac Christianity"
+    ],
+    [
+        "Asturians",
+        "Indo-European → Romance → Asturleonese → Asturian, Indo-European → Romance → Galician and Asturleonese → Eonavian",
+        "Asturias",
+        "Eonavians",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Atacama",
+        "Kunza",
+        "Atacama Desert (Chile), (Argentina), (Bolivia)",
+        "",
+        "Inca Religion"
+    ],
+    [
+        "Atayals",
+        "Austronesian → Formosan → Atayal",
+        "Taiwan",
+        "",
+        "Animism, Christianity"
+    ],
+    [
+        "Atikamekw",
+        "Algic → Algonquian → Atikamekw",
+        "Nitaskinan (Canada)",
+        "",
+        ""
+    ],
+    [
+        "Atoni",
+        "Austronesian → Timoric → Uab Meto",
+        "West Timor (Indonesia), Oecusse (East Timor)",
+        "Amarasi",
+        "Christianity"
+    ],
+    [
+        "Atyap",
+        "Niger–Congo → Plateau → Atyap",
+        "Kaduna State (Nigeria)",
+        "",
+        "Christianity"
+    ],
+    [
+        "Austrians",
+        "Indo-European → Germanic → Bavarian, Francosign → Austro-Hungarian Sign → Austrian Sign",
+        "Austria, South Tyrol",
+        "Significant populations in United States, Canada, and Australia",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Avars",
+        "Northeast Caucasian → Avar",
+        "Dagestan (Russia)",
+        "",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Awa",
+        "Barbacoan → Awan → Awa",
+        "Nariño (Colombia), Carchi (Ecuador)",
+        "",
+        "Christinity"
+    ],
+    [
+        "Awadhis",
+        "Indo-European → Indo-Aryan → Hindustani → Awadhi",
+        "Awadh (India)",
+        "Barhai",
+        "Hinduism"
+    ],
+    [
+        "Aymara",
+        "Aymaran → Aymara",
+        "Bolivia, Peru, Chile",
+        "Mestizos such as Bolivians",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Azerbaijanis",
+        "Turkic → Oghuz → Azeri",
+        "Azerbaijan, Iranian Azerbaijan (Iran)",
+        "Ayrums, Bayat, Karadaghis, Qajars, Küresünni, Padar, Qarapapaqs, Shahsevan, Terekeme, Yeraz, Afshar, Iranian Azeris, along with significant populations in Georgia and Russia",
+        "Islam → Shia Islam"
+    ],
+    [
+        "Baharna",
+        "Afro-Asiatic → Semitic → Arabic → Bahrani Arabic",
+        "Bahrain",
+        "Significant population in Kuwait",
+        "Islam → Shia Islam"
+    ],
+    [
+        "Bahnar",
+        "Austroasiatic → Bahnar",
+        "Central Highlands, Vietnam",
+        "",
+        "Animism"
+    ],
+    [
+        "Bai",
+        "Sino-Tibetan → Bai",
+        "Dali Bai Autonomous Prefecture (China)",
+        "",
+        "Buddhism"
+    ],
+    [
+        "Bakossi",
+        "Niger–Congo → Bantu → Akoose",
+        "Bakossi Mountains (Cameroon)",
+        "",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Balanta",
+        "Niger–Congo → West Atlantic → Senegambian → Balanta",
+        "Guinea-Bissau, Senegal, The Gambia",
+        "",
+        "Traditional African religions"
+    ],
+    [
+        "Balinese",
+        "Austronesian → Balinese",
+        "Bali (Indonesia)",
+        "Bali Aga",
+        "Hinduism → Balinese Hinduism"
+    ],
+    [
+        "Balkars",
+        "Turkic → Kipchak → Balkar",
+        "Kabardino-Balkaria (Russia)",
+        "",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Balochs",
+        "Indo-European → Iranian → Balochi",
+        "Balochistan (Pakistan, Iran, Afghanistan)",
+        "Askani, Bajkani, Bangulzai, Barazani, Bhurgari, Bugti, Buledi, Chandio, Darzada, Dehwar, Dodai, Dombki, Gabol, Ghazini, Jamali, Jatoi, Kalmati, Khetran, Kunara, Langhani, Lango, Lashkrani, Loharani, Lund, Marri, Mazari, Mengal, Mirali, Mugheri, Muhammad Shahi, Mullazai, Nothazai, Pitafi, Qaisrani, Rind, Sadozai, Sethwi, Shaikhzadah, Talpur, Tauki, Umrani, Yarahmadzai, Zardari, Makrani, along with significant populations in the United Arab Emirates (including Al Balushi) and Turkmenistan",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Balti",
+        "Sino-Tibetan → Tibetic → Balti",
+        "Gilgit-Baltistan (Pakistan)",
+        "",
+        "Islam → Shia Islam"
+    ],
+    [
+        "Bamars",
+        "Sino-Tibetan → Burmese",
+        "Myanmar",
+        "Taungyo, Yaw, Intha, Danu, Anglo-Burmese",
+        "Buddhism → Theravada Buddhism"
+    ],
+    [
+        "Bambara",
+        "Niger–Congo → Mande → Manding → Bambara",
+        "Mali",
+        "Haratin",
+        "Islam"
+    ],
+    [
+        "Bamileke",
+        "Niger–Congo → Grassfields → Bamileke",
+        "Cameroon (West and Northwest regions)",
+        "Mengaka, Ngiemboon, Ngombale, Ngomba, Ngwe, Yemba, Fe'fe', Ghomala', Kwaʼ, Nda’nda', Medumba",
+        "Christianity"
+    ],
+    [
+        "Bamum",
+        "Niger–Congo → Grassfields → Bamum",
+        "West Region (Cameroon)",
+        "",
+        "Islam"
+    ],
+    [
+        "Banda",
+        "Niger–Congo → Ubangian → Banda",
+        "Central African Republic, South Sudan, Democratic Republic of the Congo",
+        "Central Banda, South Banda, West Banda",
+        "Christianity"
+    ],
+    [
+        "Banjarese",
+        "Austronesian → Malayic → Malay → Banjarese",
+        "South Kalimantan (Indonesia)",
+        "",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Banjara",
+        "Indo-European → Rajasthani → Lambadi",
+        "Mewar (India)",
+        "",
+        ""
+    ],
+    [
+        "Barak Turkmens",
+        "Turkic → Oghuz → Turkish",
+        "Turkey, Syria",
+        "",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Bari",
+        "Nilo-Saharan → Nilotic → Bari",
+        "Central Equatoria (South Sudan), Uganda",
+        "Pojulu, Kakwa, Nyangwara, Mandari, Kuku",
+        "Christianity"
+    ],
+    [
+        "Bariba",
+        "Niger–Congo → Gur → Bariba",
+        "Borgu (Benin, Nigeria)",
+        "",
+        "Islam"
+    ],
+    [
+        "Bashkirs",
+        "Turkic → Kipchak → Bashkir",
+        "Bashkortostan (Russia)",
+        "",
+        "Islam"
+    ],
+    [
+        "Basques",
+        "Basque",
+        "Basque Country (Spain, France)",
+        "Navarreans, Northern Basques, along with significant populations in Argentina, Chile, Colombia, the United States, Canada, Mexico, Venezuela, and Uruguay",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Bassa",
+        "Niger–Congo → Kru → Bassa",
+        "Bassaland (Liberia)",
+        "",
+        "Christianity → Protestantism → Anglicanism"
+    ],
+    [
+        "Batak",
+        "Austronesian → Northwest Sumatra–Barrier Islands → Batak",
+        "North Sumatra (Indonesia)",
+        "Angkola, Karo, Mandailing, Pakpak, Simalungun, Toba, Alas, Kluet, Singkil",
+        "Christianity → Protestantism → Lutheranism"
+    ],
+    [
+        "Bateri",
+        "Indo-European → Dardic → Bateri",
+        "Kohistan (Pakistan)",
+        "",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Bazigar",
+        "Indo-European → Indo-Aryan → Bazigar",
+        "North India (India), Punjab (India and Pakistan)",
+        "",
+        ""
+    ],
+    [
+        "Beja",
+        "Afroasiatic → Cushitic → Beja",
+        "Sudan, Egypt, Eritrea",
+        "Bishari, Hadendoa, Hedareb, Amarar, Beni-Amer",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Belarusians",
+        "Indo-European → Slavic → Belarusian",
+        "Belarus",
+        "Significant populations in the United States, Ukraine, and Russia",
+        "Christianity → Eastern Orthodoxy"
+    ],
+    [
+        "Belizean Creoles",
+        "Indo-European → Germanic → English → Belizean Creole",
+        "Belize",
+        "",
+        "Christianity → Protestantism"
+    ],
+    [
+        "Bemba",
+        "Niger–Congo → Bantu → Bemba",
+        "Zambia (Northern, Luapula, and Copperbelt Provinces), Katanga Province (Democratic Republic of the Congo)",
+        "",
+        "Christianity → Protestantism"
+    ],
+    [
+        "Bembe",
+        "Niger–Congo → Bantu → Bembe",
+        "Democratic Republic of the Congo, Tanzania",
+        "",
+        "Christianity"
+    ],
+    [
+        "Bena",
+        "Niger–Congo → Bantu → Bena",
+        "Njombe Region (Tanzania)",
+        "",
+        ""
+    ],
+    [
+        "Bengalis",
+        "Indo-European → Indo-Aryan → Bengali",
+        "Bengal (Bangladesh, India)",
+        "Bengali Muslims, Bengali Hindus, Bangladeshis, along with the Bengali Hindu diaspora, (British Bangladeshis, Middle Eastern Bangladeshis, Malaysian Bangladeshis, Bangladeshi Canadians, Italo-Bangladeshis, Polish Bangladeshis, Bangladeshi New Zealanders, Bangladeshi Australians, Maldivian Bangladeshis, Japanese Bangladeshis, Bengali Americans and Bangladeshi Americans), Bangals, Ghotis, Dhakaiyas",
+        "Islam → Sunni Islam, Hinduism"
+    ],
+    [
+        "Berbers",
+        "Afroasiatic → Berber,Afroasiatic → Semitic → Arabic",
+        "Maghreb",
+        "Central Atlas Berbers, Chaouis, Kabyle, Chenouas, Ghomaras, Hawwara, Matmatas, Mozabite, Nafusis, Rifian, Shilha, Siwi, Tuaregs, Awjila",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Berom",
+        "Niger–Congo → Plateau → Berom",
+        "Plateau State (Nigeria)",
+        "",
+        "Christianity"
+    ],
+    [
+        "Berta",
+        "Nilo-Saharan → Berta",
+        "Benishangul-Gumuz Region (Ethiopia), South Sudan",
+        "",
+        "Islam"
+    ],
+    [
+        "Betawis",
+        "Austronesian → Malayic → Malay → Betawian",
+        "Jakarta (Indonesia)",
+        "",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Beti",
+        "Niger–Congo → Bantu → Beti",
+        "Cameroon",
+        "Ewondo, Eton",
+        "Christianity"
+    ],
+    [
+        "Bezhta",
+        "Northeast Caucasian → Tsezic → Bezhta",
+        "Tsuntinsky District (Russia)",
+        "",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Bhils",
+        "Indo-European → Indo-Aryan → Bhil",
+        "India (Madhya Pradesh, Gujarat, Rajasthan, Maharashtra)",
+        "Barda, Bhagalia, Bhilala, Bhil Gametia, Bhil Garasia, Bhil Kataria, Bhil Mama, Bhil Mavchi, Dholi Bhil, Dungri Bhil, Damor, Dungri Garasia, Mewasi Bhil, Nirdhi Bhil, Rawal Bhil, Tadvi Bhil, Vasava, Bhil Meena, Chaudhri",
+        "Hinduism"
+    ],
+    [
+        "Bhojpuris",
+        "Indo-European → Indo-Aryan → Bihari → Bhojpuri",
+        "India, Nepal",
+        "Paswan, Thakur, Teli",
+        "Hinduism"
+    ],
+    [
+        "Bhumijs",
+        "Austroasiatic → Munda → Bhumij",
+        "India (West Bengal, Odisha, Jharkhand)",
+        "",
+        "Sarnaism"
+    ],
+    [
+        "Bicolanos",
+        "Austronesian → Philippine → Bikol",
+        "Bicol Region (Philippines)",
+        "Central Bikol, Sorsoganons, Catandunganons, Rinconada, Albayanon",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Bidayuh",
+        "Austronesian → Malayo-Polynesian → Land Dayak",
+        "Sarawak (Malaysia)",
+        "Kendayan, Selako, Bakatiʼ, Sara Bakati', Laraʼ, Bukar –Sadong, Biatah, Tringgus, Jagoi, Jangkang, Kembayan, Semandang, Ribun, Nyaduʼ, Sanggau",
+        "Christianity"
+    ],
+    [
+        "Bilala",
+        "Nilo-Saharan → Central Sudanic → Naba",
+        "Lake Fitri (Chad)",
+        "",
+        "Islam"
+    ],
+    [
+        "Bishnupriya Manipuris",
+        "Indo-European → Indo-Aryan → Bishnupriya Manipuri",
+        "Manipur (India), Bangladesh",
+        "",
+        "Hinduism"
+    ],
+    [
+        "Bissa",
+        "Niger–Congo → Mande → Bissa",
+        "Burkina Faso",
+        "",
+        "Islam"
+    ],
+    [
+        "Blaan",
+        "Austronesian → Philippine → Blaan",
+        "Soccsksargen (Philippines)",
+        "",
+        "Anitism"
+    ],
+    [
+        "Blackfoot",
+        "Algic → Algonquian → Blackfoot",
+        "Alberta (Canada), Montana (United States)",
+        "Kainai Nation, Piegan Blackfeet, Piikani Nation, Siksika Nation",
+        "Native American Church, Christianity"
+    ],
+    [
+        "Boa",
+        "Niger–Congo → Bantu → Boa",
+        "Bas-Uélé (Democratic Republic of the Congo)",
+        "",
+        "Christianity"
+    ],
+    [
+        "Bodo",
+        "Sino-Tibetan → Sal → Bodo",
+        "Bodoland (India)",
+        "Mech, Kachari",
+        "Bathouism, Hinduism"
+    ],
+    [
+        "Bokota",
+        "Chibchan → Buglere",
+        "Bocas del Toro (Panama)",
+        "",
+        "Native American religion"
+    ],
+    [
+        "Bondei",
+        "Niger–Congo → Bantu → Sueta → Bondei",
+        "Pangani District (Tanzania)",
+        "",
+        ""
+    ],
+    [
+        "Bosniaks",
+        "Indo-European → Slavic → Serbo-Croatian → Bosnian",
+        "Bosnia and Herzegovina, Sandžak (Serbia, Montenegro)",
+        "Significant populations in Serbia, Turkey, Austria, Germany and the United States",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Bouyei",
+        "Kra–Dai → Tai → Bouyei",
+        "Guizhou (China)",
+        "Giáy",
+        "Moism"
+    ],
+    [
+        "Bozo",
+        "Niger–Congo → Mande → Bozo",
+        "Mali",
+        "",
+        "Islam"
+    ],
+    [
+        "Brahuis",
+        "Dravidian → Brahui",
+        "Balochistan (Pakistan)",
+        "Raisani, Jhalawan, Sarawan, Mengal (including Zagar and Zakria Zae), Sasoli",
+        "Islam → Sunni Islam → Hanafi"
+    ],
+    [
+        "Bretons",
+        "Indo-European → Celtic → Breton",
+        "Brittany (France)",
+        "Significant populations in Canada and the United States",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Bribri",
+        "Chibchan → Talamanca → Bribri, Bribri Sign",
+        "Cordillera de Talamanca (Costa Rica)",
+        "",
+        "Talamancan mythology"
+    ],
+    [
+        "Bru",
+        "Austroasiatic → Katuic → Bru",
+        "Savannakhet province (Laos), Vietnam (Quảng Bình and Quảng Trị provinces)",
+        "",
+        "Animism"
+    ],
+    [
+        "Bubi",
+        "Niger–Congo → Bantu → Bube",
+        "Bioko (Equatorial Guinea)",
+        "",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Budu",
+        "Niger–Congo → Bantu → Budu",
+        "Wamba Territory (Democratic Republic of the Congo)",
+        "",
+        "Christianity"
+    ],
+    [
+        "Buduma",
+        "Afroasiatic → Chadic → Yedina",
+        "Lake Chad (Chad, Nigeria, Cameroon)",
+        "",
+        "Islam"
+    ],
+    [
+        "Buginese",
+        "Austronesian → South Sulawesi → Buginese",
+        "South Sulawesi (Indonesia)",
+        "",
+        "Islam"
+    ],
+    [
+        "Bulgarians",
+        "Indo-European → Slavic → Bulgarian, Francosign → Bulgarian Sign",
+        "Bulgaria",
+        "Pomaks, Paulicians, Macedonian Bulgarians, along with significant populations in Turkey, Ukraine and Moldova, Romania and Serbia, Croatia,  Germany, Spain, and the United States",
+        "Christianity → Eastern Orthodoxy"
+    ],
+    [
+        "Burghers",
+        "Indo-European → Indo-Aryan → Sinhala, Indo-European → Germanic → English, Indo-European → Romance → Portuguese → Sri Lankan Portuguese Creole",
+        "Sri Lanka",
+        "Dutch Burghers, Portuguese Burghers",
+        "Christianity"
+    ],
+    [
+        "Burushos",
+        "Burushaski",
+        "Gilgit-Baltistan (Pakistan)",
+        "",
+        "Islam → Shia Islam → Isma'ilism"
+    ],
+    [
+        "Butonese",
+        "Austronesian → Celebic → Butonese",
+        "Buton (Indonesia)",
+        "",
+        "Islam"
+    ],
+    [
+        "Bwa",
+        "Niger–Congo → Gur → Bwa",
+        "Burkina Faso, Mali",
+        "",
+        "Traditional African religions"
+    ],
+    [
+        "Camminanti",
+        "Indo-European → Romance → Sicilian → Baccagghiu",
+        "Sicily (Italy)",
+        "",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Canary Islanders",
+        "Indo-European → Romance → Spanish → Canarian Spanish, Silbo Gomero",
+        "Canary Islands (Spain)",
+        "Isleños",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Cape Verdeans",
+        "Indo-European → Romance → Portuguese → Cape Verdean Creole",
+        "Cabo Verde",
+        "",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Carolinians",
+        "Austronesian → Malayo-Polynesian → Oceanic → Micronesian → Carolinian",
+        "Northern Mariana Islands (United States)",
+        "",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Catalans",
+        "Indo-European → Romance → Catalan, Catalan Sign",
+        "Catalan Countries (Spain, France, Andorra)",
+        "Valencians, Balearics, Algherese, Andorrans, with significant populations in the United States",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Cayuga",
+        "Iroquoian → Northern Iroquoian → Cayuga",
+        "Ontario (Canada), New York, Oklahoma (United States)",
+        "",
+        ""
+    ],
+    [
+        "Chaga",
+        "Niger–Congo → Bantu → Chaga",
+        "Tanzania",
+        "",
+        "Christianity, Islam, Traditional African religions"
+    ],
+    [
+        "Chagossians",
+        "Indo-European → Bourbonnais Creole → Chagossian Creole",
+        "Chagos Archipelago",
+        "",
+        ""
+    ],
+    [
+        "Chaharmahali Turks",
+        "Turkic → Oghuz → Chaharmahali Turkic",
+        "Chaharmahal (Iran)",
+        "",
+        ""
+    ],
+    [
+        "Chakmas",
+        "Indo-European → Indo-Aryan → Chakma",
+        "Chittagong Hill Tracts (Bangladesh)",
+        "",
+        "Buddhism → Theravada Buddhism"
+    ],
+    [
+        "Chamorro",
+        "Austronesian → Chamorro",
+        "Mariana Islands (United States)",
+        "",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Chams",
+        "Austronesian → Chamic → Cham",
+        "Champa (Cambodia, Vietnam)",
+        "",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Chechens",
+        "Northeast Caucasian → Nakh → Chechen",
+        "Chechnya (Russia)",
+        "Kists, Chechen Kurds, with significant populations in Austria, France, Jordan, Syria, Turkey, and the United States",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Cherokee",
+        "Iroquoian → Southern Iroquoian → Cherokee",
+        "United States (North Carolina, Tennessee)",
+        "Cherokee Nation, Eastern Band, United Keetoowah Band, Cherokee Freedmen",
+        "Christianity"
+    ],
+    [
+        "Chewa",
+        "Niger–Congo → Bantu → Chewa",
+        "Malawi, Zambia, Zimbabwe, Mozambique",
+        "",
+        "Christianity"
+    ],
+    [
+        "Cheyennes",
+        "Algic → Algonquian → Cheyenne, Plains Indian Sign Language",
+        "United States (Montana, Oklahoma)",
+        "",
+        "Native American religion, Native American Church, Christianity"
+    ],
+    [
+        "Choctaw",
+        "Muskogean → Choctaw",
+        "United States (Alabama, Florida, Mississippi, Louisiana)",
+        "",
+        "Christianity"
+    ],
+    [
+        "Chokwe",
+        "Niger–Congo → Bantu → Chokwe",
+        "Angola, Democratic Republic of the Congo, Zambia",
+        "",
+        "Christianity"
+    ],
+    [
+        "Chukchis",
+        "Chukotko-Kamchatkan → Chukchi",
+        "Chukchia",
+        "Chuvans",
+        "Christianity → Eastern Orthodoxy → Russian Orthodoxy"
+    ],
+    [
+        "Chumash",
+        "Chumashan languages",
+        "California (United States)",
+        "",
+        "Christianity"
+    ],
+    [
+        "Chutiya",
+        "Sino-Tibetan → Sal → Deori",
+        "Assam (India)",
+        "Deori",
+        "Hinduism"
+    ],
+    [
+        "Chuukese",
+        "Austronesian → Micronesian → Chuukese",
+        "Chuuk Lagoon (Federated States of Micronesia)",
+        "",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Chuvash",
+        "Turkic → Oghur → Chuvash",
+        "Chuvashia (Russia)",
+        "Virjal, Anatri",
+        "Christianity → Eastern Orthodoxy"
+    ],
+    [
+        "Circassians",
+        "Northwest Caucasian → Circassian",
+        "Circassia (Russia)",
+        "Abzakhs, Adygeans, Besleneys, Bzhedugs, Chemirgoys, Cherkess, Kabardians, Natukhajs, Shapsugs, Ubykhs, Hatuqways",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Cofán",
+        "Cofán language",
+        "Sucumbios (Ecuador), Putumayo (Colombia)",
+        "",
+        "Animism"
+    ],
+    [
+        "Comanche",
+        "Uto-Aztecan → Numic → Comanche, Indo-European → Germanic → English",
+        "Comancheria (United States)",
+        "",
+        "Native American Church, Christianity"
+    ],
+    [
+        "Confederados",
+        "",
+        "Santa Bárbara d'Oeste, Americana (Brazil)",
+        "",
+        "Christianity → Protestantism"
+    ],
+    [
+        "Copts",
+        "Afroasiatic → Coptic, Egyptian Sign",
+        "Egypt",
+        "Sudan and Libya along with the Coptic diaspora",
+        "Christianity → Coptic Orthodoxy"
+    ],
+    [
+        "Cornish",
+        "Indo-European → Celtic → Cornish, BANZSL → British Sign",
+        "Cornwall (United Kingdom)",
+        "Significant populations in the United States and Australia",
+        "Christianity"
+    ],
+    [
+        "Corsicans",
+        "Indo-European → Romance → Corsican",
+        "Corsica (France)",
+        "Corsican Americans (including Corsican Puerto Ricans}",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Cree",
+        "Algic → Algonquian → Cree",
+        "Alberta, Saskatchewan, Manitoba, Ontario, Quebec, Newfoundland and Labrador (Canada)",
+        "James Bay Cree, Moose Cree, Swampy Cree, Woodland Cree, Papaschase",
+        "Christianity"
+    ],
+    [
+        "Croats",
+        "Indo-European → Slavic → Serbo-Croatian, Francosign → Austro-Hungarian Sign → Yugoslav Sign",
+        "Croatia, Federation of Bosnia and Herzegovina (Bosnia and Herzegovina)",
+        "Bunjevci, Krashovani, Janjevci, Šokci, Bosnian Croats, along with significant populations in Italy (including Molise Croats), Austria, United States, Chile, Argentina, Germany, Australia and Canada",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Crow",
+        "Siouan → Western Siouan → Crow",
+        "Montana (United States)",
+        "",
+        "Christianity, Crow religion"
+    ],
+    [
+        "Czechs",
+        "Indo-European → Slavic → Czech",
+        "Czech Republic",
+        "Bohemians, Moravians, along with significant populations in United States and Canada",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Dagaaba",
+        "Niger–Congo → Gur → Dagaare",
+        "Ghana, Burkina Faso",
+        "",
+        "Christianity"
+    ],
+    [
+        "Dagombas",
+        "Niger–Congo → Gur → Dagbani",
+        "Kingdom of Dagbon (Ghana)",
+        "",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Damara",
+        "Khoe → Khoekhoe",
+        "Damaraland (Namibia)",
+        "",
+        "Christianity"
+    ],
+    [
+        "Damia",
+        "Indo-European → Indo-Aryan → Dameli",
+        "Chitral District (Pakistan)",
+        "",
+        ""
+    ],
+    [
+        "Danes",
+        "Indo-European → Germanic → East Scandinavian, Francosign → DTSic → Danish Sign",
+        "Denmark",
+        "Significant populations in the United States, Canada, Greenland, and Germany.",
+        "Christianity → Protestantism → Lutheranism"
+    ],
+    [
+        "Dargins",
+        "Northeast Caucasian → Dargwa",
+        "Dagestan (Russia)",
+        "Kaitag, Kubachi, Itsari, Chirag",
+        "Islam"
+    ],
+    [
+        "Deccani",
+        "Indo-European → Indo-Aryan → Hindustani → Deccani",
+        "Deccan (South-Central India)",
+        "Hyderabadi",
+        "Islam"
+    ],
+    [
+        "Dinka",
+        "Nilo-Saharan → Nilotic → Dinka",
+        "South Sudan",
+        "",
+        "Christianity"
+    ],
+    [
+        "Dogon",
+        "Niger–Congo → Dogon, Bangime, Tebul Sign",
+        "Bandiagara Escarpment (Mali)",
+        "Ampari Dogon (including Nyamboli), Tebul U, Mombo Dogon, Escarpment Dogon (including Tommo So), Jamsai Dogon, Nanga Dogon, Yanda Bɔlɔm, Walo, Beente, Duleri Dogon, Pinia, Bondum Dogon, Dogul Dogon, Budu, Western Plains Dogon, Toro-tegu Dogon, Bangande",
+        "Traditional African religions"
+    ],
+    [
+        "Dogras",
+        "Indo-European → Indo-Aryan → Dogri",
+        "Jammu Division (India)",
+        "",
+        "Hinduism"
+    ],
+    [
+        "Druze",
+        "Afroasiastic → Arabic → Levantine Arabic, DGSic → Israeli Sign",
+        "Levant (Syria, Lebanon, Israel)",
+        "",
+        "Druzism"
+    ],
+    [
+        "Dubla",
+        "Indo-European → Indo-Aryan → Bhil → Dubli",
+        "Gujarat (India)",
+        "",
+        "Hinduism"
+    ],
+    [
+        "Dutch",
+        "Indo-European → Germanic → Dutch, Indo-European → Germanic → Zeelandic, Indo-European → Germanic → Afrikaans, Indo-European → Germanic → Gronings, Indo-European → Germanic → Limburgish, Indo-European → Germanic → Plautdietsch, Francosign → Dutch Sign",
+        "Netherlands",
+        "Groningers, Mennonites (including Russian Mennonites (including Old Colony Mennonites)), Zeeuws, Limburgers, and numerous colonial descendants such as Arubans, Bonairians, Curaçaoans, Sabans, St. Maarteners, St. Eustatians,  Indos, Cape Coloureds, along with significant populations in the United States, Canada, Australia, and New Zealand",
+        "Christianity"
+    ],
+    [
+        "Dyula",
+        "Niger–Congo → Mande → Manding → Dyula",
+        "Burkina Faso, Ivory Coast, Mali",
+        "",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Ebira",
+        "Niger–Congo → Nupoid → Ebira",
+        "Kogi State (Nigeria)",
+        "",
+        "Islam"
+    ],
+    [
+        "Edo",
+        "Niger–Congo → Edoid → Edo",
+        "Edo State (Nigeria)",
+        "Ika, Emai",
+        "Christianity"
+    ],
+    [
+        "Efik",
+        "Niger–Congo → Cross River → Ibibio-Efik → Efik",
+        "Cross River State (Nigeria)",
+        "",
+        "Christianity"
+    ],
+    [
+        "Egyptians",
+        "Afro-Asiatic → Semitic → Arabic → Egyptian Arabic, Afro-Asiatic → Semitic → Arabic → Sa'idi Arabic, Egyptian Sign",
+        "Egypt",
+        "Sa'idi",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Ekoi",
+        "Niger–Congo → Bantoid → Jagham",
+        "Nigeria, Cameroon",
+        "",
+        "Christianity"
+    ],
+    [
+        "Emberá",
+        "Choco → Emberá",
+        "Chocó Department (Colombia), Panama (Darién, Emberá)",
+        "",
+        "Shamanism"
+    ],
+    [
+        "English",
+        "Indo-European → Germanic → English, BANZSL → British Sign",
+        "England (United Kingdom)",
+        "Numerous colonial descendants include Americans, Canadians, Australians, New Zealanders, English South Africans, and significant populations in Commonwealth Caribbean, Saint Helena, Botswana, Kenya, Zambia, Zimbabwe, Namibia, Pakistan, Myanmar, India, Sri Lanka, Hong Kong, and Singapore.",
+        "Christianity → Protestantism → Anglicanism"
+    ],
+    [
+        "Esan",
+        "Niger–Congo → Edoid → Esan",
+        "Esanland (Nigeria)",
+        "",
+        "Christianity"
+    ],
+    [
+        "Esperantujo",
+        "Constructed language → Esperanto",
+        "",
+        "",
+        ""
+    ],
+    [
+        "Estonians",
+        "Uralic → Finnic → Estonian, Uralic → Finnic → South Estonian, Francosign → RSLic → Estonian Sign",
+        "Estonia, Setomaa",
+        "",
+        "Christianity → Protestantism → Lutheranism"
+    ],
+    [
+        "Evenks",
+        "Tungusic → Northern Tungusic → Evenki, Tungusic → Northern Tungusic → Negidal",
+        "Russia, China",
+        "Negidals",
+        "Shamanism"
+    ],
+    [
+        "Evens",
+        "Tungusic → Northern Tungusic → Even",
+        "Kamchatka Krai, Magadan Oblast, Sakha (Russia)",
+        "",
+        "Shamanism"
+    ],
+    [
+        "Ewe",
+        "Niger–Congo → Kwa → Gbe → Ewe",
+        "Togo, Ghana",
+        "Anlo Ewe, Waci",
+        "Christianity"
+    ],
+    [
+        "Fang",
+        "Niger–Congo → Bantu → Beti → Fang",
+        "Río Muni (Equatorial Guinea), Gabon",
+        "",
+        "Christianity"
+    ],
+    [
+        "Fantefolk",
+        "Rodi",
+        "Norway",
+        "",
+        "Christianity"
+    ],
+    [
+        "Faroese",
+        "Faroe Islands",
+        "Indo-European → Germanic → Faroese",
+        "",
+        "Christianity → Protestantism → Lutheranism"
+    ],
+    [
+        "Fijians",
+        "Austronesian → Malayo-Polynesian → Fijian",
+        "Fiji",
+        "Fijian Americans, Fijian Australians, Fijian British",
+        "Christianity → Protestantism → Methodism"
+    ],
+    [
+        "Finns",
+        "Uralic → Finnic → Finnish, Uralic → Finnic → Finnish → Meänkieli, Uralic → Finnic → Finnish → Kven, Indo-European → Germanic → Nordic → Swedish → Finland Swedish, SSLic → FSLic → Finland-Swedish Sign",
+        "Finland",
+        "Kvens, Forest Finns, Tornedalians, Ingrian Finns (including Siberian Finns), Savonians, Tavastians, Finns proper, Ostrobothnians, Finnish Karelians, Finland Swedes, Kainuu, and Murmansk Finns, along with significant populations in Sweden, Switzerland, Australia, United States (including Findians), Argentina, and Canada (including Findians).",
+        "Christianity → Protestantism → Lutheranism"
+    ],
+    [
+        "Fipa",
+        "Niger–Congo → Bantu (Zone M) → Fipa, Niger–Congo → Bantu → Mambwe-Lungu",
+        "Rukwa Region, Tanzania (Sumbawanga Rural District, Nkasi District)",
+        "",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Flemings",
+        "Indo-European → Germanic → Dutch → Flemish, Indo-European → Germanic → West Flemish, Indo-European → Germanic → Zeelandic, Francosign → Belgian Sign → Flemish Sign",
+        "Flanders (Belgium), French Flanders, Zeelandic Flanders",
+        "",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Fon",
+        "Niger–Congo → Kwa → Gbe → Fon",
+        "Dahomey (Benin)",
+        "",
+        "Christianity → Catholicism"
+    ],
+    [
+        "French",
+        "Indo-European → Romance → Langues d'oïl, Indo-European → Romance → Arpitan, Indo-European → Romance → Faetar, Francosign → French Sign, Francosign → Swiss-French Sign, Francosign → Belgian Sign → French Belgian Sign",
+        "France, Romandy (Switzerland), Aosta Valley (Italy)",
+        "Arpitans (including Savoyards, Faetani, and Cellese), Burgundians, Champenois, Comtois, Gallo, Lorrainers, Normans (including Channel Islanders such as Jèrriais, Guernésiais, and Sercquiais), Picards, Mayennais, Poitevins (including Saintongeais), Barthélemoise, Saint-Martinois, French Guianese, Caldoche, Réunionese (including Zoreilles), Huguenots (including Huguenots in South Africa, Huguenot Australians, and North America), Saint-Pierrais, along with numerous colonial descendants such as Pied-Noirs, French Canadians (including Quebecers, Acadians, Franco-Ontarians, Franco-Manitobans, Franco-Nunavois, Franco-Newfoundlanders, Franco-Ténois, Franco-Albertans, Franco-Yukonnais, Franco-Columbians, Muskrat French, Fransaskois, Brayons, and French-Canadian Americans), French Haitians, French Malagasy, Franco-Mauritians, Franco-Seychellois, French Americans (including French Puerto Ricans), French Senegalese, French Ivorians, French Hongkongers, French Japanese, French Koreans, French Pakistanis, French Lebanese, French Emiratis, French Hungarians, French Britons, French Cubans, French Guatemalans, French Mexicans, French Australians, French New Zealanders, French Argentines, French Brazilians, French Chileans, French Colombians, French Peruvians, French Uruguayans,",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Frisians",
+        "Indo-European → Germanic → Frisian, Indo-European → Germanic → East Frisian Low Saxon, Indo-European → Germanic → Dutch → West Frisian Dutch",
+        "Frisia (Netherlands, Germany, historically Denmark)",
+        "Westlauwers Frisians (including Terschelling Frisians, Schiermonnikoog Frisians, and Hindeloopen Frisians), East Frisians, North Frisians, Saterland Frisians, with significant populations in the United States",
+        "Christianity → Protestantism → Calvinism, Christianity → Protestantism → Lutheranism"
+    ],
+    [
+        "Friulians",
+        "Indo-European → Romance → Friulian",
+        "Friuli (Italy)",
+        "",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Fula",
+        "Niger–Congo → West Atlantic → Senegambian → Fula",
+        "West Africa (Guinea, Senegal, Mali, Mauritania, Nigeria, Cameroon, Niger, Burkina Faso, Benin, Chad)",
+        "Wodaabe, Haratin, Fula Jalon, Fulakunda, Maasina Fulfulde",
+        "Islam"
+    ],
+    [
+        "Fur",
+        "Nilo-Saharan → Fur",
+        "Darfur (Sudan)",
+        "",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Fuyu Kyrgyz",
+        "Turkic → Siberian Turkic → Fuyu Kyrgyz",
+        "Fuyu County (Qiqihar, Heilongjiang, China)",
+        "",
+        ""
+    ],
+    [
+        "Ga-Adangbe",
+        "Niger–Congo → Kwa → Ga–Dangme",
+        "Greater Accra (Ghana)",
+        "Ga, Adangbe",
+        "Christianity"
+    ],
+    [
+        "Gabrieleños",
+        "Indo-European → Germanic → English, Indo-European → Romance → Spanish, Uto-Aztecan → Takic → Gabrieleño",
+        "",
+        "",
+        "Native American religion, Christianity"
+    ],
+    [
+        "Gagauz",
+        "Turkic → Oghuz → Gagauz",
+        "Gagauzia (Moldova), Budjak (Ukraine)",
+        "",
+        "Christianity → Eastern Orthodoxy"
+    ],
+    [
+        "Galicians",
+        "Indo-European → Romance → Galician",
+        "Galicia (Spain)",
+        "",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Gamilaraay",
+        "Pama-Nyungan → Wiradhuric → Gamilaraay",
+        "New South Wales, Queensland (Australia)",
+        "Alcheringa"
+    ],
+    [
+        "Ganda",
+        "Niger–Congo → Bantu → Great Lakes → Luganda",
+        "Buganda (Uganda)",
+        "Abayudaya",
+        "Christianity"
+    ],
+    [
+        "Garhwalis",
+        "Indo-European → Indo-Aryan → Garhwali",
+        "Uttarakhand (India)",
+        "",
+        "Hinduism"
+    ],
+    [
+        "Garifunas",
+        "Arawakan → Ta-Arawakan → Garifuna",
+        "Saint Vincent and the Grenadines",
+        "Significant populations in the United States",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Garos",
+        "Sino-Tibetan → Sal → Garo",
+        "Garo Hills (India)",
+        "",
+        "Christianity"
+    ],
+    [
+        "Gayonese",
+        "Austronesian → Northwest Sumatra–Barrier Islands → Gayo",
+        "Indonesia (Bener Meriah, Central Aceh, and Gayo Lues Regencies)",
+        "",
+        "Islam"
+    ],
+    [
+        "Gbagyi",
+        "Niger–Congo → Nupoid → Gwari",
+        "Nigeria",
+        "",
+        "Traditional African religions"
+    ],
+    [
+        "Gbaya",
+        "Niger–Congo → Ubangian → Gbaya",
+        "Central African Republic, Cameroon",
+        "Bokoto, Kàrà, Buli (including Toongo), Ali, Mandja, Gbaya-Bossangoa, Bozom, Mbodomo, Gbanu, Bangandu",
+        "Islam"
+    ],
+    [
+        "Gedeo",
+        "Afroasiatic → Cushitic → Gedeo",
+        "Gedeo Zone (Ethiopia)",
+        "",
+        "Christianity → Protestantism → P'ent'ay"
+    ],
+    [
+        "Gelao",
+        "Kra–Dai → Kra → Gelao",
+        "Guizhou (China)",
+        "",
+        "Taoism, Buddhism"
+    ],
+    [
+        "Georgians",
+        "Kartvelian languages, Northeast Caucasian → Nakh → Bats, Georgian Sign",
+        "Georgia",
+        "Adjarians, Mingrelians, Svans, Tushetians, Meskhetians, Imerkhevians, Bats, with significant populations in Turkey (including Chveneburi, France, Belgium, Poland, Russia, Spain, Ukraine, the United States, and Iran",
+        "Christianity → Eastern Orthodoxy"
+    ],
+    [
+        "Germans",
+        "Indo-European → Germanic → High German, Indo-European → Germanic → Low German, DGSic → German Sign, Swiss-German Sign",
+        "Germany, Switzerland, Austria, Liechtenstein, Eastern Belgium, South Tyrol",
+        "Bavarians, Franconians, Hessians, Hunsriks, Upper Saxons, Lower Saxons, Swabians (including Danube Swabians (including Banat Swabians)), Rhinelanders (including Colognians), Alsatians, Deutschschweizer, Liechtensteiners, Pomeranians, Volga Germans, Baltic Germans, Silesian Germans, Carpathian Germans, North Schleswig Germans, Eastern Belgians, Transylvanian Saxons, Pennsylvania Dutch, Mennonites (including Russian Mennonites), Walsers, Bukovina Germans, Halcnovians, and Nordschleswiger, along with significant populations in the United States (including German Texans), Brazil, Mexico, Argentina, Venezuela (including Colonia Tovar Germans) Canada, Chile, Kazakhstan, Australia, Poland, Denmark, and New Zealand.",
+        "Christianity"
+    ],
+    [
+        "Gogo",
+        "Niger–Congo → Bantu → Gogo",
+        "Dodoma Region, Tanzania",
+        "",
+        ""
+    ],
+    [
+        "Gilaks",
+        "Indo-European → Iranian → Gilaki",
+        "Gilan, Iran",
+        "",
+        "Islam → Twelver Shi’ism"
+    ],
+    [
+        "Gitxsan",
+        "Tsimshianic → Gitxsan",
+        "Skeena Country (Canada)",
+        "",
+        "Native American religion"
+    ],
+    [
+        "Gola",
+        "Niger–Congo → Gola",
+        "Liberia, Sierra Leone",
+        "",
+        "Islam"
+    ],
+    [
+        "Gonds",
+        "Dravidian → Gondi",
+        "Gondwana (India)",
+        "Godha, Madia Gonds, Muria, Koya",
+        "Hinduism"
+    ],
+    [
+        "Gorani",
+        "Indo-European → Slavic → Gorani",
+        "Gora (Kosovo, Albania, North Macedonia)",
+        "",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Gorals",
+        "Indo-European → Slavic → Lechitic → Górolski",
+        "Southern Poland, northern Slovakia, Cieszyn Silesia (Poland, Czech Republic)",
+        "Silesian Gorals",
+        "Christianity → Catholicism, Christianity → Protestantism → Lutheranism"
+    ],
+    [
+        "Gorontalo",
+        "Austronesian → Philippine → Gorontaloan",
+        "Gorontalo (Indonesia)",
+        "",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Great Andamanese",
+        "Great Andamanese",
+        "Great Andaman (India)",
+        "",
+        "Animism"
+    ],
+    [
+        "Greeks",
+        "Indo-European → Hellenic, Turkic → Kipchak → Urum, Indo-European → Romance → Aromanian, Indo-European → Romance → Megleno-Romanian, Indo-European → Albanian → Arvanitika, Francosign → French Sign and American Sign → Greek Sign, Cypriot Sign",
+        "Greece, Cyprus",
+        "Greek Cypriots, Pontic Greeks, Cappadocian Greeks, Sarakatsani, Urums, Griko, Macedonian Greeks, Anatolian Greeks, Tsakonians, Antiochian Greeks and also sizeable populations of Arvanites, Aromanians and Megleno-Romanians who identify as ethnic Greeks, along with a significant diaspora in Albania (including Northern Epirotes), Turkey, Ukraine, Georgia, the United States, the United Kingdom, Germany, Australia, and Canada",
+        "Christianity → Eastern Orthodoxy"
+    ],
+    [
+        "Gros Ventre",
+        "Algic → Algonquian → Gros Ventre",
+        "Montana (United States)",
+        "",
+        ""
+    ],
+    [
+        "Guajajara",
+        "Tupian → Tenetehara",
+        "Maranhao (Brazil)",
+        "",
+        "Shamanism"
+    ],
+    [
+        "Guan",
+        "Niger–Congo → Kwa → Guang",
+        "Ghana (Brong-Ahafo and Volta Regions)",
+        "Gonja, Kyode, Cherepon, Efutu, Anyanga, Larteh, Chumburung, Krache, Anum-Boso",
+        "Christianity"
+    ],
+    [
+        "Guaraní",
+        "Tupian → Guarani",
+        "Paraguay, Misiones (Argentina), Bolivia",
+        "Chiriguanos, along with Mestizos such as Paraguayans",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Gujarati",
+        "Indo-European → Indo-Aryan → Gujarati",
+        "Gujarat (India)",
+        "Koli, Bharwad, Khoja, Patidar, Sunni Bohra, Lohana, Vagri, Kharva, Charan, Baria, Momna, Ghanchi, Shenva, Bhambi Khalpa, Zarabes, Bhoi, Luso-Indians, Gujarati Americans",
+        "Hinduism, Islam"
+    ],
+    [
+        "Gujjar / Gurjar",
+        "Indo-European → Indo-Aryan → Gujari",
+        "Primarily Pakistan \u0026 India, also Afghanistan at smaller numbers",
+        "Khatana, Solanki, Parihar, Tanwar, Parmar, chandel, Chauhan, Bhadana, Bhatti, Kohli, Tomar, Panwar, Pawar, Bainsla, Bagri, Hans, etc.",
+        "Islam, Hinduism"
+    ],
+    [
+        "Gumuz",
+        "Nilo-Saharan → Gumuz",
+        "Benishangul-Gumuz Region (Ethiopia)",
+        "",
+        "Traditional African religion"
+    ],
+    [
+        "Guna",
+        "Chibchan → Kuna",
+        "Guna Yala (Panama)",
+        "",
+        "Native American religion"
+    ],
+    [
+        "Gurage",
+        "Afroasiatic → Semitic → Ethiopic → Gurage",
+        "Guragia (Ethiopia)",
+        "Kistane, Zay, Inor, Mesqan, Sebat Bet (including Chaha and Muher)",
+        "Christianity"
+    ],
+    [
+        "Gurma",
+        "Niger–Congo → Gur → Gourmanché",
+        "Gurmaland (Burkina Faso, Ghana)",
+        "Ntcham, Bimoba",
+        "Islam"
+    ],
+    [
+        "Gurungs",
+        "Sino-Tibetan → Gurung",
+        "Nepal, Sikkim (India), West Bengal (India)",
+        "Ghale, Gurung",
+        "Hinduism, Buddhism"
+    ],
+    [
+        "Gurunsi",
+        "Niger–Congo → Gur → Gurunsi",
+        "Burkina Faso, Ghana, Togo",
+        "Lukpa, Kabye, Tem, Lamba, Delo, Bago-Kusuntu, Chala, Lyélé, Nuna, Kalamsé, Pana, Kassena, Winye, Deg, Puguli, Paasaal, Sisaala, Chakali, Siti, Tamprusi, Vagla",
+        "Traditional African religions"
+    ],
+    [
+        "Gwich'in",
+        "Na-Dene → Athabaskan → Gwich'in",
+        "Yukon Territory, Northwest Territories (Canada), Alaska (United States)",
+        "",
+        "Native American religion"
+    ],
+    [
+        "Ha",
+        "Niger–Congo → Bantu → Ha",
+        "Kigoma Region (Tanzania)",
+        "",
+        "Animism"
+    ],
+    [
+        "Hadiya",
+        "Afroasiatic → Cushitic → Hadiyya",
+        "Hadiya (Ethiopia)",
+        "",
+        "Islam"
+    ],
+    [
+        "Hadza",
+        "Hadza language",
+        "Karatu District (Tanzania)",
+        "",
+        "Hadza mythology"
+    ],
+    [
+        "Haida",
+        "Haida",
+        "Haida Gwaii (Canada)",
+        "",
+        "Haida Traditional Faith"
+    ],
+    [
+        "Haisla",
+        "Wakashan → Haisla",
+        "British Columbia (Canada)",
+        "",
+        "Native American religion"
+    ],
+    [
+        "Hän",
+        "Na-Dene → Athabaskan → Hän",
+        "Yukon Territory (Canada, Alaska (United States)",
+        "",
+        "Native American religion"
+    ],
+    [
+        "Han Chinese",
+        "Sino-Tibetan → Sinitic → Chinese, CSLic, JSLic → Taiwan Sign, Indo-European → Germanic → English → Manglish, Austronesian → Malayic → Malay → Bazaar Malay → Baba Malay",
+        "Mainland China, Macau (China), Hong Kong (China), Taiwan, Singapore, Kokang (Myanmar)",
+        "Subei, Cantonese (including Punti, Taishanese (including Taishanese Hongkongers), Hongkongers (including Hong Kong Americans, Hong Kong Canadians, Hong Kong Britons, Hong Kong Australians, and Hongkongers in the Netherlands), Macau, Namshun, Cantonese Cambodians, and Chuanqing), Tankas (including Dan and Fuzhou Tanka), Hui, Fujianese (including Fuzhounese (including Fuzhounese Americans), Hoklo (including Hoklo Taiwanese, Hoklo Cambodians, and Hoklo Americans), Hui'an maidens, Putianese, Fujianese Hongkongers, Fokien, and Teochew (including Teochew Cambodians)), Gaoshan Han, Gan, Tunbao, Pinghua (including Northern Pinghua and Southern Pinghua), Hakka (including Ngái (including Dan), Hakka Mauritians, Hakka Cambodians, and Hakka Americans), Hainanese (including Hainanese Cambodians), Hebei, Hunanese, Jianghuai, Shandong, Sichuanese, Wu (including Shanghainese, Ningbonese, and Wenzhounese (including Wenzhounese French)), Kokang Chinese, Han Taiwanese (including Hoklo Taiwanese), Sino-Singaporeans (including Straits Chinese), along with significant populations in the United States (including Hoklo Americans, Hong Kong Americans, Fuzhounese Americans, and Hakka Americans), Mongolia, Malaysia (including Penangite Chinese, Straits Chinese, and Peranakans (including Baba-Nyonya and Kiau–Seng)), Thailand, Indonesia (including Benteng), Myanmar, Canada (including Hong Kong Canadians), the Philippines (including Sangleys), Peru, Australia (including Hong Kong Australians), Vietnam (including Chinese Nùng and Ngái (including Dan)), Japan, Russia, France (including Chinois and Wenzhounese French), the United Kingdom (including Hong Kong Britons), South Africa, Italy, Bulgaria, Germany, Korea (including North Korea and South Korea), Fiji, Finland, Spain, India, Laos, Brazil, the Netherlands (including Hongkongers in the Netherlands), Argentina, Panama, Madagascar, Mauritius (including Namshun, Fokien, Hakka Mauritians, and Sino-creoles), Seychelles, Venezuela, Cambodia (including Teochew Cambodians, Cantonese Cambodians, Hainanese Cambodians, Hoklo Cambodians, and Hakka Cambodians), Belgium, Denmark, Iran, Ireland, Israel, Kazakhstan, Kyrgyzstan, the Czech Republic, Chinese Bangladeshis, the Caribbean (including Cuba, the Dominican Republic, Haiti, Jamaica, Puerto Rico, Trinidad and Tobago, Belize, Suriname, and Guyana), Chile, Costa Rica, Brazil, Nicaragua, Pakistan, Palau, Papua New Guinea, Portugal, Mozambique, Romania, Samoa, Serbia, Sri Lanka, Sweden, Turkey, the United Arab Emirates, Uruguay, Algeria, Angola, Botswana, Cameroon, Cape Verde, the Democratic Republic of the Congo, Egypt, Ethiopia, Ghana, Kenya, Lesotho, Libya, Malawi, Mali, Morocco, Namibia, Nigeria, the Republic of Congo, Senegal, Tanzania, Uganda, Zambia, Zimbabwe, and New Zealand",
+        "Chinese folk religion, Buddhism, Taoism, no religion (see also Religion in China and Religion in Taiwan)"
+    ],
+    [
+        "Hangaza",
+        "Niger–Congo → Bantu → Hangaza",
+        "Kagera Region, Tanzania",
+        "",
+        ""
+    ],
+    [
+        "Hani",
+        "Sino-Tibetan → Loloish → Hani",
+        "Yunnan (China)",
+        "",
+        "Animism"
+    ],
+    [
+        "Harari",
+        "Afroasiatic → Semitic → Ethiopic → Harari",
+        "Hararia (Ethiopia)",
+        "",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Hausa",
+        "Afroasiatic → Chadic → Hausa",
+        "Hausaland (Niger, Nigeria, Ghana)",
+        "",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Hawaiians",
+        "Austronesian → Polynesian → Hawaiian, Indo-European → Germanic → English Creole → Hawaiian Pidgin, Hawaiʻi Sign, Hawaiʻi Sign and American Sign → Creole Hawaiʻi Sign",
+        "Hawaii (United States)",
+        "",
+        "Christianity"
+    ],
+    [
+        "Haya",
+        "Niger–Congo → Bantu → Haya",
+        "Kagera Region, Tanzania",
+        "",
+        "Christianity, Ruhanga"
+    ],
+    [
+        "Hazaras",
+        "Indo-European → Iranian → Persian → Hazaragi",
+        "Hazarajat (Afghanistan)",
+        "Aimaq Hazara, Hazara Australians",
+        "Islam → Twelver Shi’ism"
+    ],
+    [
+        "Hehe",
+        "Niger–Congo → Bantu → Hehe",
+        "Iringa Region, Tanzania",
+        "",
+        ""
+    ],
+    [
+        "Heiltsuk",
+        "Wakashan → Northern Wakashan → Heiltsuk-Oowekyala → Heiltsuk",
+        "Central Coast Regional District (Canada)",
+        "",
+        "Native American religion"
+    ],
+    [
+        "Herero",
+        "Niger–Congo → Bantu → Herero",
+        "Hereroland (Namibia), Angola",
+        "OvaHimba, Ovambanderu",
+        "Christianity"
+    ],
+    [
+        "Highland Travellers",
+        "Indo-European → Celtic → Scottish Gaelic → Beurla Reagaird",
+        "Scottish Highlands (Scotland)",
+        "",
+        ""
+    ],
+    [
+        "Hinukh",
+        "Northeast Caucasian → Tsezic → Hinuq",
+        "Tsuntinsky District (Russia)",
+        "",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Hmong",
+        "Hmong–Mien → Hmongic",
+        "Guizhou (China)",
+        "A-Hmao, Gha-Mu, Xong, Pa-Hng, Hmong Americans",
+        "Hmong folk religion"
+    ],
+    [
+        "Hopi",
+        "Uto-Aztecan → Hopi",
+        "Hopi Reservation (United States)",
+        "",
+        "Christianity, Native American Church"
+    ],
+    [
+        "Huli",
+        "Trans–New Guinea → Engan  → Huli",
+        "Southern Highlands Province (Papua New Guinea)",
+        "",
+        "Christianity"
+    ],
+    [
+        "Hungarians",
+        "Uralic → Ugric → Hungarian, Francosign → Austro-Hungarian Sign → Hungarian Sign",
+        "Hungary, Székely Land (Romania), Felvidék (Slovakia)",
+        "Palóc, Matyó, along with significant populations in Romania (including Székelys and Csángós ), Slovakia, Serbia, Ukraine, Croatia, Slovenia, Germany, the United States, and Canada",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Hunzibs",
+        "Northeast Caucasian → Tsezic → Hunzib",
+        "Tsuntinsky District (Russia)",
+        "",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Hutterites",
+        "Indo-European → Germanic → German → Hutterite German",
+        "Great Plains",
+        "",
+        "Christianity → Anabaptism"
+    ],
+    [
+        "Hutu",
+        "Niger–Congo → Bantu → Great Lakes → Rwanda-Rundi",
+        "Rwanda, Burundi, Kivu (Democratic Republic of the Congo)",
+        "",
+        "Christianity"
+    ],
+    [
+        "Iban",
+        "Austronesian → Malayic → Iban",
+        "Sarawak (Malaysia)",
+        "Mualang",
+        "Christianity"
+    ],
+    [
+        "Ibanag",
+        "Austronesian → Philippine → Cordilleran → Ibanag",
+        "Philippines (Isabela, Cagayan)",
+        "",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Ibibio",
+        "Niger–Congo → Cross River → Ibibio-Efik → Ibibio",
+        "Akwa Ibom State (Nigeria)",
+        "Eket, Aro",
+        "Christianity"
+    ],
+    [
+        "Icelanders",
+        "Indo-European → Germanic → Nordic → Icelandic",
+        "Iceland",
+        "",
+        "Christianity → Protestantism → Lutheranism"
+    ],
+    [
+        "Idoma",
+        "Niger–Congo → Idomoid → Idoma",
+        "Benue State (Nigeria)",
+        "Agatu, Alago, Yala",
+        "Christianity"
+    ],
+    [
+        "Igbo",
+        "Niger–Congo → Igbo",
+        "Igboland (Nigeria)",
+        "Anioma, Aro, Edda, Ekpeye, Etche, Ezaa, Ika, Ikwerre, Ikwo, Isu, Izzi, Mbaise, Mgbo, Ngwa, Nri-Igbo, Ogba, Ohafia, Ohuhu, Onitsha-Ado, Ukwuani, Waawa, Igbo Jews",
+        "Christianity"
+    ],
+    [
+        "Igede",
+        "Niger–Congo → Idomoid → Igede",
+        "Benue State (Nigeria)",
+        "",
+        "Christianity"
+    ],
+    [
+        "Igorot",
+        "Austronesian → Philippine → Cordilleran",
+        "Cordillera Administrative Region (Philippines)",
+        "Balangao, Bontoc, Ibaloi, Ifugao (including Kalanguya), Isnag, Kalinga, Kankanaey",
+        "Anitism"
+    ],
+    [
+        "Ijaw",
+        "Niger–Congo → Ijaw",
+        "Nigeria (Rivers, Bayelsa, and Delta States)",
+        "Bille, Engenni, Ibani, Kalabari, Kula, Nkoro, Nkoroo, Obolo",
+        "Christianity"
+    ],
+    [
+        "Ili Turks",
+        "Turkic → Karluk → Ili Turki",
+        "Ili Kazakh Autonomous Prefecture (China), Kazakhstan",
+        "",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Ilocano",
+        "Austronesian → Philippine → Cordilleran → Ilocano",
+        "Ilocos Region (Philippines)",
+        "",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Indo-Caribbean",
+        "Indo-European → Germanic → English → English Creole, Indo-European → Romance → Spanish → Caribbean Spanish, Indo-European → Romance → French → French Creole, Indo-European → Germanic → Dutch → Surinamese Dutch, Indo-European → Romance → Portuguese → Papiamento, Indo-European → Indo-Aryan → Hindustani → Caribbean Hindustani, Dravidian → Tamil–Kannada → Tamil",
+        "Caribbean",
+        "Indo-Barbadian, Indo-Dominican, Indo-Grenadians, Indo-Guadeloupeans, Indo-Haitians, Indo-Jamaicans, Indo-Martiniquais, Indo-Kittitians and Indo-Nevisians, Indo-Saint Lucian, Indo-Trinidadian and Tobagonian, Indo-Vincentian, Indo-Belizeans, Indo-Guyanese, Indo-Surinamese",
+        "Hinduism, Christianity, Islam, Sikhism, Jainism, Buddhism, Zoroastrianism, Baháʼí"
+    ],
+    [
+        "Indus Kohistanis",
+        "Indo-European → Dardic → Indus Kohistani",
+        "Kohistan (Pakistan)",
+        "",
+        ""
+    ],
+    [
+        "Ingush",
+        "Northeast Caucasian → Nakh → Ingush",
+        "Ingushetia (Russia)",
+        "",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Innu",
+        "Algic → Algonquian → Innu-aimun, Algic → Algonquian → Naskapi",
+        "Labrador, Quebec",
+        "Naskapi",
+        ""
+    ],
+    [
+        "Inuit",
+        "Eskimo–Aleut → Inuit, Inuit Sign",
+        "Greenland (Denmark), Canada (Nunavut, Nunatsiavut, Nunavik, NunatuKavut), Alaska (United States)",
+        "Greenlandics (including Kalaallit, Tunumiit, Inughuit and Greenlandic Danes), Iñupiat, Inuktitut, Inuvialuit",
+        "Christianity"
+    ],
+    [
+        "Iranun",
+        "Austronesian → Philippine → Iranun",
+        "Mindanao (Philippines)",
+        "",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Iraqw",
+        "Afroasiatic → Cushitic → Iraqw",
+        "Tanzania",
+        "",
+        "Christianity"
+    ],
+    [
+        "Irish",
+        "Indo-European → Celtic → Irish, Indo-European → Celtic and Germanic → Shelta, Francosign → Irish Sign, BANZSL → British Sign → Northern Ireland Sign",
+        "Ireland (Republic of Ireland, United Kingdom)",
+        "Ulster Irish, Irish Catholics, Irish-Scots, along with significant populations in the United States, Australia, Canada, Argentina, Mexico, Great Britain, Russia, and New Zealand",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Irish Travellers",
+        "Indo-European → Shelta",
+        "Ireland",
+        "Significant populations in the United Kingdom, and the United States",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Isan",
+        "Kra–Dai → Tai → Lao → Isan",
+        "Isan (Thailand)",
+        "",
+        "Buddhism → Theravada Buddhism"
+    ],
+    [
+        "Isoko",
+        "Niger–Congo → Edoid → Isoko",
+        "Isoko region (Nigeria)",
+        "",
+        "Christianity"
+    ],
+    [
+        "Istro-Romanians",
+        "Indo-European → Romance → Istro-Romanian",
+        "Istria (Croatia)",
+        "",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Italians",
+        "Indo-European → Romance → Italo-Dalmatian, Indo-European → Romance → Gallo-Italic, Indo-European → Slavic → Slavomolisano, Francosign → LISic → Italian Sign, Francosign → LISic → Swiss-Italian Sign",
+        "Italy, Ticino (Switzerland)",
+        "Waldensians, Lazians, Marchigianos, Tuscans, Umbrians, Emilians, Romagnol (including Sammarinese (including Sammarinese Americans)), Trentinis, Ligurians (including Niçard Italians, Monégasques (including Monégasque Americans)), Lombards, Piedmontese, Apulians, Calabrians, Neapolitans (including Abruzzans, Molisans (including Molise Croats), Lucanians, and Campanians), Venetians (including Talians and Chipileños), Vastese, Istrian Italians (including Istriots), Dalmatian Italians, along with significant populations in Argentina, Brazil, the United States, Venezuela, Canada, France, Peru, Uruguay, Australia, Germany, Sweden, Switzerland, Croatia, Crimea, Romania, Chile and the United Kingdom",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Itawes",
+        "Austronesian → Philippine → Cordilleran → Itawis",
+        "Cagayan Valley (Philippines)",
+        "",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Itelmens",
+        "Chukotko-Kamchatkan → Kamchatkan → Itelmen",
+        "Kamchatka Peninsula (Russia)",
+        "",
+        "Shamanism"
+    ],
+    [
+        "Izhorians",
+        "Uralic → Finnic → Ingrian",
+        "Ingria (Russia)",
+        "",
+        "Christianity → Eastern Orthodoxy"
+    ],
+    [
+        "Japanese",
+        "Japonic → Japanese, Japonic → Hachijō, JSLic → Japanese Sign, Miyakubo Sign",
+        "Japan",
+        "Kantō, Kansai, Hokkaido, Tōhoku, Hōnichi, Satsugū, Chūgoku, Echigo, Tōkai, Shinshuu, Hokuriku, Hachijō, Miyakubo, along with significant populations in Brazil, the United States and the Philippines.",
+        "Shinto, Buddhism"
+    ],
+    [
+        "Jarai",
+        "Austronesian → Chamic → Jarai",
+        "Central Highlands, Vietnam",
+        "",
+        "Animism"
+    ],
+    [
+        "Jarawas",
+        "Ongan → Jarawa",
+        "South Andaman, Middle Andaman (India)",
+        "",
+        "Animism"
+    ],
+    [
+        "Javanese",
+        "Austronesian → Javanesic",
+        "Java (Indonesia)",
+        "Cirebonese, Osing, Tenggerese, Boyanese, Banyumasan, along with significant populations in Malaysia, Suriname, China, Sri Lanka, French Guiana, New Caledonia, and Saudi Arabia",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Jews",
+        "Afroasiatic → Semitic → Hebrew, Jewish languages, DGSic → Israeli Sign",
+        "Israel",
+        "Ashkenazim (including Galitzianers, Yekke), Sephardim (including Eastern Sephardim, Moroccan Jews, Algerian Jews, Tunisian Jews, Amazonian Jews, Iberian Jews, Sephardic Bnei Anusim, Sephardic Haredim, Maghrebim, North African Sephardim, and Toshavim), Mizrahim (including Bukharim, Juhurim, Syrian Jews, Teimanim (including Sharʿabi Jews, Habbanim, Banu al-Harith, and Adeni Jews), Persian Jews (including Mashhadi Jews), and Kaifeng Jews), Beta Israel (including Beta Abraham), Italkim (including San Nicandro Jews), Rusape Jews, Romaniotes, Constantinopolitan Karaites, Crimean Karaites, Krymchaks, Afghan Jews, Gruznim, Benei Sión, Bene Israel, Kochinim, Paradesi, Iraqi Jews, Lishanid Noshan, Israeli Jews, B'nai Moshe, Xuetes, Bnei Menashe, Urfalim (including Surucalim and Cermikalim), Meshuchrarim, Baghdadi Jews, Lithuanian Jews, Abayudaya, Shaposhniki, Karaimites, African-American Jews, and Bene Ephraim, along with significant populations in the United States (including Puerto Rico), Canada, Argentina, Brazil, Uruguay, Israel, China, India, Cambodia, Iran, Syria, Lebanon, Bangladesh, Indonesia, the Arabian Peninsula (including the United Arab Emirates, Iraq, Yemen, Saudi Arabia, and Bahrain), Taiwan, Europe (including Russia, Galicia, Belarus, the Czech lands, Ukraine, Moldova, Transnistria, Romania, Bulgaria, Bosnia and Herzegovina, Croatia, Slovenia, Montenegro, Serbia, Kosovo, Albania, Cyprus, North Macedonia, Poland, Turkey, Lithuania, Abkhazia, Armenia, Azerbaijan, Georgia, Iberia (including Spain, Andorra, Portugal), Germany, Austria, Italy, Malta, San Marino, Greece, Switzerland, Belgium, Denmark, Liechtenstein, the Netherlands, Iceland, France, Monaco, Gibraltar, and the United Kingdom), Africa (including Southern Africa (including Angola, Botswana, Eswatini, Mozambique, Namibia, South Africa, Zambia, Zimbabwe), Tunisia, Uganda, Morocco, Ethiopia, Algeria, the Democratic Republic of the Congo, Djibouti, Egypt, Eritrea, Ghana, Kenya, Morocco, Madagascar, Mali, Mauritius, Nigeria, Madeira, and Ivory Coast), and Oceania (including Australia, New Zealand)",
+        "Judaism, Christianity → Xueta Christianity"
+    ],
+    [
+        "Jingpo",
+        "Sino-Tibetan → Sal → Jingpho",
+        "Kachin State (Myanmar), Yunnan (China) Northeast India",
+        "",
+        "Animism"
+    ],
+    [
+        "Jita",
+        "",
+        "Mara Region (Tanzania)",
+        "",
+        ""
+    ],
+    [
+        "Jola",
+        "Niger–Congo → West Atlantic → Senegambian → Jola",
+        "Jolaland (Senegal)",
+        "Banjaal, Bayot, Fogni, Gusilay, Karon, Kasa, Kuwaataay, Mlomp",
+        "Traditional African religions"
+    ],
+    [
+        "Jukun",
+        "Niger–Congo → Jukun Takum",
+        "Wukari (Nigeria)",
+        "Wannu",
+        "Traditional African religions"
+    ],
+    [
+        "Kadazan-Dusun",
+        "Austronesian → Malayo-Polynesian → Dusunic",
+        "Sabah (Malaysia)",
+        "Kadazan, Dusun, Dumpas, Ida'an, Kwijau, Lotud, Mangka'ak, Maragang, Minokok, Orang Sungai, Rumanau, Rungus, Tambanuo",
+        "Christianity"
+    ],
+    [
+        "Kaguru",
+        "Niger–Congo → Bantu → Kagulu",
+        "Ukaguru Mountains (Tanzania)",
+        "",
+        ""
+    ],
+    [
+        "Kaingang",
+        "Je → Kaingang",
+        "Parana, Santa Catarina, Rio Grande do Sul, Sao Paulo",
+        "",
+        "Shamanism"
+    ],
+    [
+        "Kalanga",
+        "Niger–Congo → Bantu → Shona → Kalanga",
+        "Zimbabwe, Botswana",
+        "Nambya",
+        "Christianity"
+    ],
+    [
+        "Kalash",
+        "Indo-European → Indo-Aryan → Kalasha",
+        "Chitral District (Pakistan)",
+        "",
+        "Hinduism"
+    ],
+    [
+        "Kalenjin",
+        "Nilo-Saharan → Nilotic → Kalenjin",
+        "Rift Valley Province (Kenya)",
+        "Keiyo, Tugen, Marakwet, Nandi, Kipsigis, Sabaot, Pökoot, Okiek, Terik",
+        "Christianity"
+    ],
+    [
+        "Kalinago",
+        "Indo-European → Germanic → English, Arawakan → Ta-Arawakan → Kalinago → Garifuna, Vincentian Creole",
+        "Lesser Antilles",
+        "",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Kamba",
+        "Niger–Congo → Bantu → Kamba",
+        "Ukambani (Kenya)",
+        "",
+        "Christianity"
+    ],
+    [
+        "Kamëntsá",
+        "Camsá language",
+        "Putumayo (Colombia)",
+        "",
+        "Christianity"
+    ],
+    [
+        "Kanaks",
+        "Austronesian → Kanak",
+        "Kanakia (France)",
+        "Haveke, Ajië, Arhâ, Xârâgurè, Haeke",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Kannadigas",
+        "Dravidian → Kannada",
+        "Karnataka (India)",
+        "Vokkaliga",
+        "Hinduism"
+    ],
+    [
+        "Kanuri",
+        "Nilo-Saharan → Saharan → Kanuri",
+        "Kanuriland (Nigeria, Niger, Chad, Cameroon)",
+        "Kanembu, Yerwa Kanuri",
+        "Islam"
+    ],
+    [
+        "Kapampangans",
+        "Austronesian → Philippine → Kapampangan",
+        "Pampanga (Philippines)",
+        "",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Kapsiki",
+        "Afroasiatic → Chadic → Kapsiki",
+        "Mandara Mountains (Nigeria, Cameroon)",
+        "",
+        "Islam"
+    ],
+    [
+        "Karamanlides",
+        "Turkic → Oghuz → Turkish → Karamanli Turkish",
+        "Karaman Province, Cappadocia (Turkey)",
+        "",
+        "Christianity → Eastern Orthodoxy → Greek Orthodoxy"
+    ],
+    [
+        "Karachays",
+        "Turkic → Kipchak → Karachay",
+        "Karachay-Cherkessia (Russia)",
+        "",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Karakalpaks",
+        "Turkic → Kipchak → Karakalpak",
+        "Karakalpakstan (Uzbekistan)",
+        "",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Karbi",
+        "Sino-Tibetan → Kuki-Chin–Naga → Karbi",
+        "Karbi Anglong district (India)",
+        "Amri",
+        "Hinduism"
+    ],
+    [
+        "Karelians",
+        "Uralic → Finnic → Karelian, Uralic → Finnic → Ludic, Uralic → Finnic → Livvi-Karelian",
+        "Karelia (Finland, Russia)",
+        "Tver Karelians, Olonets Karelians",
+        "Christianity → Eastern Orthodoxy"
+    ],
+    [
+        "Karen",
+        "Sino-Tibetan → Karenic",
+        "Karen State, Kayah State, Pa'O Self-Administered Zone (Myanmar), Thailand",
+        "S'gaw Karen, Pwo Karen, Karenni (including Kayan), Pa'O",
+        "Buddhism → Theravada Buddhism"
+    ],
+    [
+        "Karuk",
+        "Karuk",
+        "California (United States)",
+        "",
+        "Christianity"
+    ],
+    [
+        "Kashmiris",
+        "Indo-European → Indo-Aryan → Dardic → Kashmiri",
+        "Kashmir (India, Pakistan)",
+        "Kashmiri Pandits, Kashmiris in Punjab",
+        "Islam → Sunni Islam, Hinduism, Sikhism"
+    ],
+    [
+        "Kashubians",
+        "Indo-European → Slavic → Kashubian",
+        "Kashubia (Poland)",
+        "",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Kaska Dena",
+        "Na-Dene → Athabaskan → Kaska",
+        "British Columbia, Yukon Territory (Canada)",
+        "",
+        "Native American religion"
+    ],
+    [
+        "Kazakhs",
+        "Turkic → Kipchak → Kazakh",
+        "Kazakhstan",
+        "Argyn, significant populations in China, and Russia",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Kereks",
+        "Chukotko-Kamchatkan → Chukotkan → Kerek",
+        "Chukotka (Russia)",
+        "",
+        "Shamanism"
+    ],
+    [
+        "Kerewe",
+        "Niger–Congo → Bantu → Kerewe",
+        "Ukerewe Island (Tanzania)",
+        "",
+        ""
+    ],
+    [
+        "Kerinci",
+        "Austronesian → Malayic → Kerinci",
+        "Kerinci Regency (Indonesia)",
+        "",
+        ""
+    ],
+    [
+        "Ket",
+        "Dene-Yeniseian → Yeniseian → Ket",
+        "Krasnoyarsk Krai (Russia)",
+        "",
+        "Shamanism"
+    ],
+    [
+        "Khakas",
+        "Turkic → Siberian Turkic → Khakas",
+        "Khakassia (Russia)",
+        "",
+        "Christianity → Eastern Orthodoxy → Russian Orthodoxy, Shamanism → Tengrism"
+    ],
+    [
+        "Khalaj",
+        "Turkic → Common Turkic → Khalaj",
+        "Iran",
+        "",
+        ""
+    ],
+    [
+        "Khanty",
+        "Uralic → Ugric → Khanty",
+        "Khanty-Mansi Autonomous Okrug (Russia)",
+        "",
+        ""
+    ],
+    [
+        "Khas",
+        "Indo-European → Indo-Aryan → Nepali",
+        "Nepal, India (Uttarakhand, Sikkim, Assam, West Bengal)",
+        "Chhetri, Thakuri, Rana, Vaisya, Kami, Damai, Sarki, Sunar, Gandarbha",
+        "Hinduism"
+    ],
+    [
+        "Khinalugs",
+        "Northeast Caucasian → Khinalug",
+        "Khinalug (Azerbaijan)",
+        "",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Khmer",
+        "Austroasiatic → Khmer",
+        "Cambodia, Mekong Delta, Isan",
+        "Northern Khmer people, Khmer Krom and Significant populations in the United States",
+        "Buddhism → Theravada Buddhism"
+    ],
+    [
+        "Khonds",
+        "Dravidian → Kui",
+        "Kandhamal (India)",
+        "",
+        "Hinduism"
+    ],
+    [
+        "Khorasani Turks",
+        "Turkic → Oghuz → Khorasani Turkic",
+        "Khorasan (Iran)",
+        "",
+        "Islam → Shia Islam"
+    ],
+    [
+        "Khwarshi",
+        "Northeast Caucasian → Tsezic → Khwarshi",
+        "Tsumadinsky District (Russia)",
+        "",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Kiga",
+        "Niger–Congo → Bantu → Nkore-Kiga → Kiga",
+        "Uganda, Rwanda",
+        "",
+        "Christianity → Catholicism, Christianity → Protestantism"
+    ],
+    [
+        "Kikuyu",
+        "Niger–Congo → Bantu → Kikuyu",
+        "Central Province (Kenya)",
+        "",
+        "Christianity"
+    ],
+    [
+        "Kilba",
+        "Afroasiatic → Chadic → Huba",
+        "Hong (Nigeria)",
+        "",
+        "Christianity"
+    ],
+    [
+        "Kinga",
+        "Niger–Congo → Bantu → Kinga",
+        "Kipengere Range (Njombe Region, Tanzania)",
+        "",
+        "Christianity, Traditional African religion"
+    ],
+    [
+        "Kiowa",
+        "Tanoan → Kiowa",
+        "Oklahoma (United States)",
+        "",
+        "Christianity, Native American Church"
+    ],
+    [
+        "Kirantis",
+        "Sino-Tibetan → Kiranti",
+        "Eastern Region (Nepal)",
+        "Limbu, Sunuwar, Yakkha (including Athpare), Rai (including Kulung, Bantawa, and Bahing)",
+        "Kirat Mundhum"
+    ],
+    [
+        "Kiribati",
+        "Austronesian → Malayo-Polynesian → Oceanic → Micronesian → Gilbertese",
+        "Gilbert Islands (Kiribati)",
+        "",
+        "Christianity"
+    ],
+    [
+        "Kissi",
+        "Niger–Congo → West Atlantic → Mel → Kissi",
+        "Guinea, Sierra Leone",
+        "",
+        "Christianity"
+    ],
+    [
+        "Kofyar",
+        "Afroasiatic → Chadic → Kofyar",
+        "Plateau State (Nigeria)",
+        "",
+        "Traditional African religions"
+    ],
+    [
+        "Komi",
+        "Uralic → Permic → Komi",
+        "Russia (Komi Republic, Permyakia)",
+        "Komi-Zyrians, Komi-Permyaks, Izhma Komi",
+        "Christianity → Eastern Orthodoxy"
+    ],
+    [
+        "Kongo",
+        "Niger–Congo → Bantu → Kongo",
+        "Kongoland (Democratic Republic of the Congo, Republic of the Congo, Angola)",
+        "Lari, Vili, Yombe, Suundi, Dondo, Hangala, Kugni, Manyanga, Beembe",
+        "Christianity"
+    ],
+    [
+        "Konjo",
+        "Niger–Congo → Bantu → Konjo",
+        "Rwenzori Mountains (Democratic Republic of the Congo, Uganda)",
+        "Nande",
+        "Christianity"
+    ],
+    [
+        "Konkani",
+        "Indo-European → Indo-Aryan → Konkani",
+        "Konkan (India)",
+        "Luso-Indians",
+        "Hinduism"
+    ],
+    [
+        "Konso",
+        "Afroasiatic → Cushitic → Konso",
+        "Konso (Ethiopia)",
+        "",
+        "Traditional African religions"
+    ],
+    [
+        "Koreans",
+        "Koreanic languages, JSLic → Korean Sign",
+        "Korea (North Korea, South Korea)",
+        "North Koreans (including North Koreans in South Korea), South Koreans, Jeju Islanders, Koryo-saram, Sakhalin Koreans, Zainichi Koreans, along with significant populations in the United States, Canada, Mexico, Cuba, Guatemala,  Russia (including North Koreans, Koryo-saram, and Sakhalin Koreans), China, Japan (including Zainichi Koreans), Vietnam, Thailand, Singapore, the Philippines, Indonesia, Mongolia, Iran, Nepal, Taiwan, Sri Lanka, India, the Arab world, Africa (including South Africa), Argentina, Brazil, Paraguay, Venezuela, Australia, New Zealand, Micronesia, Peru, Chile, Uruguay, Germany, the United Kingdom, the Netherlands, and the Czech Republic",
+        "Christianity → Protestantism and Catholicism, Buddhism → Mahayana Buddhism → Korean Buddhism, Korean shamanism, Cheondoism"
+    ],
+    [
+        "Koryaks",
+        "Chukotko-Kamchatkan → Chukotkan → Koryak",
+        "Koryak Okrug (Russia)",
+        "",
+        "Christianity → Orthodox Christianity, Shamanism"
+    ],
+    [
+        "Kosraeans",
+        "Austronesian → Malayo-Polynesian → Oceanic → Micronesian → Kosraean",
+        "Kosrae (Federated States of Micronesia)",
+        "",
+        "Christianity"
+    ],
+    [
+        "Kpelle",
+        "Niger–Congo → Mande → Kpelle",
+        "Liberia, Guinea",
+        "",
+        "Traditional African religions"
+    ],
+    [
+        "Kposo",
+        "Niger–Congo → Kwa → Ghana–Togo Mountain → Kposo",
+        "Plateaux (Togo), Ghana",
+        "",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Kristang",
+        "Indo-European → Romance → Portuguese → Kristang",
+        "Malaysia, Singapore",
+        "",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Kru",
+        "Niger–Congo → Kru",
+        "Liberia (Grand Kru and Maryland Counties)",
+        "Aizi, Bété, Bakwé, Grebo, Krahn (including Sapo), Kuwaa",
+        "Christianity"
+    ],
+    [
+        "Kulin",
+        "Pama-Nyungan → Kulinic → Kulin",
+        "Victoria (Australia)",
+        "",
+        "Alcheringa"
+    ],
+    [
+        "Kumandins",
+        "Turkic → Siberian Turkic → Northern Altai → Kumandy",
+        "Russia (Altai Krai, Altai Republic)",
+        "",
+        "Christianity → Eastern Orthodoxy → Russian Orthodoxy"
+    ],
+    [
+        "Kumyks",
+        "Turkic → Kipchak → Kumyk",
+        "Dagestan (Russia)",
+        "",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Kumzari",
+        "Indo-European → Indo-Iranian → Iranian → Western Iranian → Southwestern",
+        "Kumzar (Oman)",
+        "",
+        "Islam → Ibadi Islam, Sunni Islam"
+    ],
+    [
+        "Kunama",
+        "Nilo-Saharan → Kunama",
+        "Eritrea, Ethiopia",
+        "",
+        "Christianity → Oriental Orthodoxy"
+    ],
+    [
+        "Kurds",
+        "Indo-European → Iranian → Kurdish, Indo-European → Indo-Iranian → Zaza–Gorani, Kurdish Sign",
+        "Kurdistan (Iraq, Iran, Syria, Turkey, Armenia)",
+        "Bajalan, Zazas, Feylis, Iranian Laks, Yazidis, Shabak, Muzuri, along with significant populations in France and Germany",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Kuria",
+        "Niger–Congo → Bantu → Kuria",
+        "Kenya, Tanzania",
+        "",
+        "Traditional African religions, Christianity"
+    ],
+    [
+        "Kurukh",
+        "Dravidian → Kurukh",
+        "Chota Nagpur Plateau (India)",
+        "Kisan",
+        "Sarnaism, Christianity, Hinduism, Animism"
+    ],
+    [
+        "Kuteb",
+        "Niger–Congo → Jukunoid → Kuteb",
+        "Taraba State (Nigeria)",
+        "",
+        "Christianity"
+    ],
+    [
+        "Kwakwaka'wakw",
+        "Wakashan → Kwak'wala",
+        "British Columbia (Canada)",
+        "",
+        "Native American religion"
+    ],
+    [
+        "Kwaya",
+        "Niger–Congo → Bantu → Kwaya",
+        "Mara Region (Tanzania)",
+        "",
+        ""
+    ],
+    [
+        "Kwere",
+        "Niger–Congo → Bantu → Kwere",
+        "Bagamoyo District (Pwani Region, Tanzania)",
+        "",
+        ""
+    ],
+    [
+        "Kwinti",
+        "Indo-European → Germanic → English → Kwinti",
+        "Suriname",
+        "",
+        "Christianity → Moravian Church"
+    ],
+    [
+        "Kyrgyz",
+        "Turkic → Kipchak → Kyrgyz",
+        "Kyrgyzstan",
+        "",
+        "Islam → Sunni Islam → Hanafi"
+    ],
+    [
+        "Ladins",
+        "Indo-European → Romance → Ladin",
+        "Ladinia (Italy)",
+        "",
+        ""
+    ],
+    [
+        "Laks",
+        "Northeast Caucasian → Lak",
+        "Lakia (Russia)",
+        "",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Lamaholot",
+        "Austronesian → Flores–Lembata → Lamaholot",
+        "Solor (Indonesia)",
+        "",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Lampungs",
+        "Austronesian → Lampung",
+        "Lampung (Indonesia)",
+        "",
+        "Islam"
+    ],
+    [
+        "Lao",
+        "Kra–Dai → Tai → Lao",
+        "Laos",
+        "",
+        "Buddhism → Theravada Buddhism"
+    ],
+    [
+        "Larrakia",
+        "Larrakia",
+        "Northern Territory (Australia)",
+        "",
+        "Alcheringa"
+    ],
+    [
+        "Latvians",
+        "Indo-European → Baltic → Latvian",
+        "Latvia",
+        "Latgalians, Kursenieki, Selonians",
+        "Christianity → Protestantism → Lutheranism"
+    ],
+    [
+        "Laz",
+        "Kartvelian → Laz",
+        "Lazistan (Turkey, Georgia)",
+        "Turkish Laz, Georgian Laz",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Lega",
+        "Niger–Congo → Bantu → Lega",
+        "Democratic Republic of the Congo",
+        "",
+        "Traditional African religions"
+    ],
+    [
+        "Lemba",
+        "Niger–Congo → Bantu → Venda, Niger–Congo → Bantu → Shona",
+        "Zimbabwe, South Africa, Malawi, Mozambique",
+        "",
+        "Christianity, Islam, Judaism"
+    ],
+    [
+        "Lenape",
+        "Algonquin → Munsee, Unami",
+        "United States",
+        "",
+        "traditional Lenape religion"
+    ],
+    [
+        "Lezgins",
+        "Northeast Caucasian → Lezgic → Lezgian",
+        "Lezgistan (Russia, Azerbaijan)",
+        "Aghuls, Archin, Budukhs, Jeks, Kryts, Rutuls, Tabasarans, Tsakhurs",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Lhoba",
+        "Adi, Bokar, Idu Mishmi",
+        "Tibet (Arunachal Pradesh)",
+        "Nishi, Na, Galo, Mishmi people, Tagin, Adi",
+        "Animism, Buddhism"
+    ],
+    [
+        "Li",
+        "Kra–Dai → Hlai",
+        "Hainan (China)",
+        "",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Limba",
+        "Niger–Congo → Limba",
+        "Sierra Leone (Bombali and Koinadugu Districts)",
+        "",
+        "Christianity"
+    ],
+    [
+        "Lisu",
+        "Sino-Tibetan → Loloish → Lisu",
+        "China, Myanmar",
+        "Lipo",
+        "Christianity → Protestantism → Lisu Christianity"
+    ],
+    [
+        "Lithuanians",
+        "Indo-European → Baltic → Lithuanian, Lithuanian Sign",
+        "Lithuania",
+        "Samogitians, Aukstaitians, Lietuvninkai, along with significant populations in the United States, Canada, Brazil, Poland and the United Kingdom",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Livonians",
+        "Uralic → Finnic → Livonian",
+        "Latvia, Estonia",
+        "",
+        "Christianity → Protestantism → Lutheranism"
+    ],
+    [
+        "Louisiana Creoles",
+        "Indo-European → Romance → French → Louisiana Creole, Indo-European → Romance → Louisiana French, Indo-European → Germanic → English",
+        "Louisiana (United States)",
+        "Cajuns, Creoles of color, Alabama Creoles",
+        "Christianity → Catholicism, Louisiana Voodoo"
+    ],
+    [
+        "Luba",
+        "Niger–Congo → Bantu → Luban",
+        "Lubaland (Democratic Republic of the Congo)",
+        "Luba-Kasai, Luba-Katanga, Hemba (including Bangubangu), Songe, Lulua",
+        "Christianity"
+    ],
+    [
+        "Luhya",
+        "Niger–Congo → Bantu → Luhya",
+        "Western Province (Kenya)",
+        "Bukusu, Idakho, Isukha, Kabras, Khayo, Kisa, Marachi, Maragoli, Marama, Nyole, Samia, Tachoni, Tiriki, Tsotso, Wanga,",
+        "Christianity"
+    ],
+    [
+        "Luo",
+        "Nilo-Saharan → Nilotic → Luo → Dholuo",
+        "Kenya",
+        "",
+        "Christianity"
+    ],
+    [
+        "Lurs",
+        "Indo-European → Iranian → Luri",
+        "Iran (Lorestan, Kohgiluyeh and Boyer-Ahmad, Khuzestan, Bushehr, and Chaharmahal and Bakhtiari Provinces)",
+        "Bakhtiari, Iranian Laks",
+        "Islam → Shia Islam"
+    ],
+    [
+        "Luritja",
+        "Pama-Nyungan → Wati → Luritja",
+        "Northern Territory (Australia)",
+        "",
+        "Alcheringa"
+    ],
+    [
+        "Luxembourgers",
+        "Indo-European → Germanic → Moselle Franconian → Luxembourgish",
+        "Luxembourg, Arelerland (Belgium)",
+        "Significant populations in Brazil and the United States",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Maasai",
+        "Nilo-Saharan → Nilotic → Maasai",
+        "Maasailand (Tanzania, Kenya)",
+        "Samburu, Arusha, Kwavi",
+        "Traditional African religions"
+    ],
+    [
+        "Macanese",
+        "Indo-European → Romance → Portuguese → Macanese Patois, Sino-Tibetan → Sinitic → Cantonese",
+        "Macau (China)",
+        "",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Macedonians",
+        "Indo-European → Slavic → Macedonian",
+        "North Macedonia",
+        "Torbesh, Mijaks, along with significant populations in Australia, Germany, Italy, Switzerland and Greece",
+        "Christianity → Eastern Orthodoxy"
+    ],
+    [
+        "Macushi",
+        "Cariban → Macushi",
+        "Rupununi (Guyana), Roraima (Brazil)",
+        "",
+        "Shamanism"
+    ],
+    [
+        "Madi",
+        "Nilo-Saharan → Central Sudanic → Ma'di",
+        "Democratic Republic of the Congo, South Sudan, Uganda",
+        "",
+        "Christianity"
+    ],
+    [
+        "Madurese",
+        "Austronesian → Madurese",
+        "Madura (Indonesia)",
+        "Boyanese",
+        "Islam → Sunni Islam → Shafi'i"
+    ],
+    [
+        "Mafa",
+        "Afroasiatic → Chadic → Mafa",
+        "Cameroon",
+        "",
+        "Christianity"
+    ],
+    [
+        "Magahi",
+        "Indo-European → Indo-Aryan → Bihari → Magahi",
+        "Magadha (India)",
+        "",
+        "Hinduism"
+    ],
+    [
+        "Magars",
+        "Sino-Tibetan → Magar",
+        "Nepal",
+        "Ale, Gharti, Chantayal, Saru, Pun",
+        "Hinduism, Buddhism"
+    ],
+    [
+        "Maguindanao",
+        "Austronesian → Philippine → Maguindanao",
+        "Maguindanao (Philippines)",
+        "",
+        "Islam"
+    ],
+    [
+        "Maithils",
+        "Indo-European → Indo-Aryan → Bihari → Maithili",
+        "Mithila (India, Nepal)",
+        "Karan Kayastha, Brahmin, Chhetri, Vaisya",
+        "Hinduism"
+    ],
+    [
+        "Makah",
+        "Wakashan → Makah",
+        "Washington (United States)",
+        "",
+        "Native American religion"
+    ],
+    [
+        "Makassarese",
+        "Austronesian → South Sulawesi → Makassarese",
+        "South Sulawesi (Indonesia)",
+        "",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Makonde",
+        "Niger–Congo → Bantu → Makonde",
+        "Tanzania, Mueda Plateau (Mozambique)",
+        "Machinga",
+        "Islam"
+    ],
+    [
+        "Makua",
+        "Niger–Congo → Bantu → Makhuwa",
+        "Mozambique",
+        "Lomwe, Chuwabu, Moniga, Koti, Nathembo",
+        "Traditional African religions"
+    ],
+    [
+        "Malagasy",
+        "Austronesian → Malagasy",
+        "Madagascar, Comoros, Mayotte, Réunion, Mauritius",
+        "Merina, Sihanaka, Betsileo, Zafimaniry, Antaifasy, Antemoro, Antaisaka, Antambahoaka, Tandroy, Antankarana, Antanosy, Bara, Betsimisaraka, Bezanozano, Mahafaly, Makoa, Mikea, Sakalava, Tanala, Tsimihety, Vezo",
+        "Christianity"
+    ],
+    [
+        "Malayali",
+        "Dravidian → Malayalamoid → Malayalam",
+        "Kerala (India)",
+        "Ambalavasi, Dheevara, Nair, Paravar, Mappilas, Ezhava, Latheen Mappilas, St. Thomas Christians along with significant populations in the United Arab Emirates, Saudi Arabia, Oman, Qatar, Kuwait and Bahrain",
+        "Hinduism,Islam,Christianity"
+    ],
+    [
+        "Malays",
+        "Austronesian → Malayic → Malay, Austronesian → Malayic → Malay → Sri Lanka Malay",
+        "Malay world (Malaysia, Singapore, Indonesia, Brunei)",
+        "Bruneians, Kedahans, Pattani, Pahang, Musi, Palembangese, Pontianaks, Terengganuarians, Kelantanese, Perakians, Berau, Proto-Malay (including Orang Kuala, Jakun, Orang Rimba, Orang Seletar, and Temuan), Lubu, Palembangnese, Cape Malays, Cocos Malays, Bangka Malays, Sri Lankan Malays",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Maldivians",
+        "Indo-European → Indo-Aryan → Maldivian",
+        "Maldives, Minicoy",
+        "Mahls",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Maltese",
+        "Afroasiatic → Semitic → Arabic → Maltese",
+        "Malta",
+        "Gozitans",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Mambila",
+        "Niger–Congo → Mambila",
+        "Mambilla Plateau (Nigeria, Cameroon)",
+        "Somyev",
+        "Traditional African religions"
+    ],
+    [
+        "Manchus",
+        "Tungusic → Southern Tungusic → Manchu",
+        "Manchuria",
+        "Significant populations in Taiwan",
+        "Shamanism"
+    ],
+    [
+        "Mandaeans",
+        "Afroasiatic → Semitic → Aramaic → Mandaic",
+        "Southern Mesopotamia",
+        "Iraq, Iran",
+        "Mandaeism"
+    ],
+    [
+        "Mandarese",
+        "Austronesian → South Sulawesi → Mandar",
+        "West Sulawesi (Indonesia)",
+        "",
+        "Islam"
+    ],
+    [
+        "Mandinka",
+        "Niger–Congo → Mande → Manding",
+        "Mali, The Gambia, Guinea, Senegal",
+        "Bolon",
+        "Islam"
+    ],
+    [
+        "Manggarai",
+        "Austronesian → Sumba–Flores → Manggarai",
+        "Manggarai (Indonesia)",
+        "",
+        "Christianity"
+    ],
+    [
+        "Manjak",
+        "Niger–Congo → West Atlantic → Senegambian → Manjak",
+        "Guinea-Bissau, Senegal",
+        "",
+        "Traditional African religions"
+    ],
+    [
+        "Manx",
+        "Indo-European → Celtic → Manx",
+        "Isle of Man (Crown Dependency)",
+        "Significant populations in the United States",
+        "Christianity → Protestantism"
+    ],
+    [
+        "Māori",
+        "Austronesian → Polynesian → New Zealand Māori, Austronesian → Polynesian → Cook Islands Māori, Austronesian → Polynesian → Penrhyn, Austronesian → Polynesian → Rakahanga-Manihiki, Austronesian → Polynesian → Pukapukan",
+        "New Zealand",
+        "Cook Islanders, Māori Indians",
+        "Christianity"
+    ],
+    [
+        "Mapuche",
+        "Mapudungun",
+        "Araucanía (Chile, Argentina)",
+        "Huilliche, along with Mestizos such as Chileans",
+        "Christianity"
+    ],
+    [
+        "Maranao",
+        "Austronesian → Philippine → Maranao",
+        "Lanao (Philippines)",
+        "",
+        "Islam"
+    ],
+    [
+        "Marathi",
+        "Indo-European → Indo-Aryan → Marathi",
+        "Maharashtra (India)",
+        "Mahar, Maratha, Kunbi, Dhangar, Bhoi",
+        "Hinduism"
+    ],
+    [
+        "Maris",
+        "Uralic → Mari",
+        "Mari El (Russia)",
+        "Meadow Mari, Hill Mari, Northwestern Mari, Eastern Mari, Mountain Mari",
+        "Christianity → Eastern Orthodoxy, Mari Native Religion"
+    ],
+    [
+        "Maronites",
+        "Afroasiatic → Semitic → Western Aramaic",
+        "Lebanon",
+        "Significant populations in Syria, Cyprus and Israel along with the greater Lebanese diaspora",
+        "Christianity → Maronite Catholicism"
+    ],
+    [
+        "Marshallese",
+        "Austronesian → Malayo-Polynesian → Oceanic → Micronesian → Marshallese",
+        "Marshall Islands",
+        "",
+        "Christianity → Protestantism"
+    ],
+    [
+        "Masa",
+        "Afroasiatic → Chadic → Masana",
+        "Cameroon, Chad",
+        "",
+        "Christianity, Islam"
+    ],
+    [
+        "Masalit",
+        "Nilo-Saharan → Masalit",
+        "Sudan, Chad",
+        "",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Matagi",
+        "",
+        "Ani, Shirakami-Sanchi (Japan)",
+        "",
+        ""
+    ],
+    [
+        "Matawai",
+        "Indo-European → Germanic → English → Saramaccan",
+        "Suriname",
+        "",
+        "Christianity → Moravian Church"
+    ],
+    [
+        "Mauritian Creoles",
+        "Indo-European → Romance → French → Mauritian Creole",
+        "Mauritius",
+        "",
+        "Christianity → Catholicism, Rastafarianism"
+    ],
+    [
+        "Maya",
+        "Mayan, Mayan Sign",
+        "Guatemala, Belize, Mexico (Yucatán, Campeche, Quintana Roo, Tabasco, Chiapas)",
+        "Maya, Achi, Chuj, Chʼortiʼ, Itza, Kʼicheʼ, Qʼeqchiʼ, Xinca, Tektitek, Huastecan, Mopan, Lacandon, Chontal, Akatek, Jakaltek, Qʼanjobʼal, Tzeltal, Mochoʼ, Tojolab'al, Mam, Ixil, Tzotzil, Poqomam, Yucatecan Maya, Motozintlecos, Awakatek, Kaqchikel, Sakapultek, Sipakapense, Uspantek, Ch'ol, Tzʼutujil, along with Mestizos such as Guatemalans (including Hispanic Belizeans) and Mexicans",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Mazahua",
+        "Oto-Manguean → Oto-Pamean → Mazahua",
+        "State of Mexico (Mexico)",
+        "",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Mazandaranis",
+        "Indo-European → Iranian → Western Iranian → Mazanderani",
+        "Mazandaran, Iran",
+        "",
+        "Islam → Shia Islam"
+    ],
+    [
+        "Mazatec",
+        "Oto-Manguean → Popolocan → Mazatecan",
+        "Oaxaca (Mexico)",
+        "Ayautla",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Mbaka",
+        "Niger–Congo → Ubangian → Mbaka",
+        "Central African Republic, Democratic Republic of the Congo",
+        "",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Megleno-Romanians",
+        "Indo-European → Romance → Megleno-Romanian",
+        "Almopia (Greece)",
+        "",
+        "Christianity → Eastern Orthodoxy, Islam → Sunni Islam"
+    ],
+    [
+        "Mehri",
+        "Afroasiatic → Semitic → Mehri",
+        "Mahra (Yemen, Oman)",
+        "",
+        "Islam"
+    ],
+    [
+        "Meitei",
+        "Sino-Tibetan → Kuki-Chin–Naga → Meitei",
+        "Manipur (India)",
+        "Loi",
+        "Hinduism → Vaishnavism"
+    ],
+    [
+        "Melanau",
+        "Austronesian → Malayo-Polynesian → Melanau",
+        "Sarawak (Malaysia)",
+        "",
+        "Islam"
+    ],
+    [
+        "Mende",
+        "Niger–Congo → Mande → Mende",
+        "Sierra Leone (Southern and Eastern Provinces)",
+        "",
+        "Islam"
+    ],
+    [
+        "Métis",
+        "Indo-European → Romance → French → Michif, Indo-European → Romance → French language → Métis French, Indo-European → Germanic → English → Bungi",
+        "Canadian Prairies (Canada)",
+        "",
+        "Christianity"
+    ],
+    [
+        "Mien",
+        "Hmong–Mien → Mienic",
+        "China (Hunan, Guizhou), Vietnam",
+        "Iu Mien, Kim Mun, Dzao Min, Biao Min, Bunu, Lakkia, Biao Mon, San Diu",
+        "Yao folk religion"
+    ],
+    [
+        "Mijikenda",
+        "Niger–Congo → Bantu → Mijikenda",
+        "Coast Province (Kenya)",
+        "Chonyi, Giriama, Digo, Segeju",
+        "Christianity"
+    ],
+    [
+        "Minahasan",
+        "Austronesian → Philippine → Minahasan, Austronesian → Malayic → Malay → Manado Malay",
+        "Minahasa Peninsula (Indonesia)",
+        "Tonsawang, Tontemboan, Tondano, Tombulu, Tonsea",
+        "Christianity → Protestantism"
+    ],
+    [
+        "Minangkabau",
+        "Austronesian → Malayic → Minangkabau",
+        "Minangkabau Highlands (Indonesia)",
+        "Aneuk Jamee",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Mising",
+        "Sino-Tibetan → Tani → Mising",
+        "India (Assam, Arunachal Pradesh)",
+        "",
+        "Donyi-Polo"
+    ],
+    [
+        "Miskito",
+        "Misumalpan → Miskito",
+        "Mosquito Coast (Nicaragua, Honduras)",
+        "Including Miskito Sambu",
+        "Christianity → Protestantism → Moravian Church"
+    ],
+    [
+        "Mixe",
+        "Mixe–Zoque → Mixe",
+        "Oaxaca (Mexico)",
+        "",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Mixtec",
+        "Oto-Manguean → Mixtecan → Mixtec",
+        "La Mixteca (Mexico)",
+        "Triqui, Cuicatecs, Amoltepec",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Miꞌkmaq",
+        "Algic → Algonquian → Miꞌkmaq",
+        "Miꞌkmaꞌki (Canada)",
+        "",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Mohawk",
+        "Iroquoian → Northern Iroquoian → Mohawk",
+        "Quebec, Ontario (Canada), New York (United States)",
+        "",
+        "Animism, Christianity"
+    ],
+    [
+        "Moldovans",
+        "Indo-European → Romance → Romanian → Moldovan, Francosign → Austro-Hungarian Sign → Moldova Sign",
+        "Moldova",
+        "Significant populations in Romania, Ukraine, Russia, and the United States",
+        "Christianity → Eastern Orthodoxy"
+    ],
+    [
+        "Mon",
+        "Austroasiatic → Mon",
+        "Mon State (Myanmar)",
+        "",
+        "Buddhism → Theravada Buddhism"
+    ],
+    [
+        "Monacans",
+        "Siouan → Ohio Valley Siouan → Tutelo"
+    ],
+    [
+        "Mongo",
+        "Niger–Congo → Bantu → Mongo",
+        "Democratic Republic of the Congo (Équateur, Tshuapa, Mongala, Nord-Ubangi, Sud-Ubangi)",
+        "Bolia, Ntomba, Ngando, Iyaelima, Mbole, Mpama, Nkutu, Sengele, Hendo, Dengese, Tetela",
+        "Christianity"
+    ],
+    [
+        "Mongols",
+        "Mongolic, Francosign → Austro-Hungarian Sign → Mongolian Sign",
+        "Inner Mongolia, Dorbetia, Bayingolin, Dzungaria, Subei-Mongolia, Santania, Kharchinia (China), Mongolia, Buryatia, Ust-Orda, Aginia, Kalmykia\n(Russia)",
+        "Khalkha, Buryats (including Barga), Oirats, Kalmyks, Daur, Moghols, Hamnigan, Tsagaan, Yugur, Khatso, Bonan, Sart Kalmyks, Soyot, Sichuan Mongols, Sogwo Arig, Altai Uriankhai, Ordos, Kanja, Sogwo Arig, Mughals, Santa, Naimans, Dariganga, Khorchin, Kharchin, Köke Nuur, Chaharian, Jalairs, Gorlos, Sartuul, Myangad, Tubalar, Uzemchin, Uradian, Tumed, Baarins, Tofalar, Zakhchin, Hishigten, Dorbet, Muumyangan, Dukhan, Jalaids, Abaganar, Chantuu, Olot, Sunud, Eastern Dorbet, Aohans, Onnigud, Khoshut, Abagas, Khotons, Alasha, Khoid, Eljigin, Choros, Qaidam, Fujin",
+        "Buddhism → Tibetan Buddhism,"
+    ],
+    [
+        "Mongondow",
+        "Austronesian → Philippine → Mongondow",
+        "Mongondowia (Indonesia)",
+        "",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Montenegrins",
+        "Indo-European → Slavic → Serbo-Croatian → Montenegrin",
+        "Montenegro",
+        "Significant populations in Serbia and the United States",
+        "Christianity → Eastern Orthodoxy"
+    ],
+    [
+        "Mordvins",
+        "Uralic → Mordvinic",
+        "Mordovia (Russia)",
+        "Erzyas, Mokshas, Qaratays, Teryukhans, Tengushev, Shoksha",
+        "Christianity → Eastern Orthodoxy"
+    ],
+    [
+        "Moriori",
+        "Austronesian → Polynesian → Tahitic → Māori–Moriori → Moriori",
+        "Chatham Islands (New Zealand)",
+        "",
+        "Christianity including Rātana"
+    ],
+    [
+        "Mormon",
+        "English",
+        "Mountain States (United States)",
+        "",
+        "Mormonism"
+    ],
+    [
+        "Mossi",
+        "Niger–Congo → Gur → Mossi",
+        "Mossiland (Burkina Faso)",
+        "",
+        "Islam"
+    ],
+    [
+        "Motu",
+        "Austronesian → Malayo-Polynesian → Motu",
+        "Central Province (Papua New Guinea)",
+        "",
+        "Christianity, Shamanism"
+    ],
+    [
+        "Mumuye",
+        "Niger–Congo → Adamawa → Mumuye",
+        "Taraba State (Nigeria)",
+        "",
+        "Traditional African religions"
+    ],
+    [
+        "Munanese",
+        "Austronesian → Celebic → Munanese",
+        "Muna (Indonesia)",
+        "",
+        "Islam"
+    ],
+    [
+        "Mundas",
+        "Austroasiatic → Munda → Mundari",
+        "India (Jharkhand, Odisha, West Bengal)",
+        "Sabar, Mahali",
+        "Sarnaism"
+    ],
+    [
+        "Murut",
+        "Austronesian → Malayo-Polynesian → Murutic",
+        "Murutia (Malaysia)",
+        "Okolod, Keningau, Tagal, Paluan, Selungai, Timugon, Serudung, Sembakung, Tidong, Kalabakan, Bulungan, Bookan",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Muscogee",
+        "Muskogean → Eastern Muskogean → Muscogee, Muskogean → Eastern Muskogean → Mikasuki, Yuchi language",
+        "United States (Alabama, Tennessee, Georgia)",
+        "Coushatta, Alibamu, Hitchiti, Natchez, Seminoles (including Black Seminoles and Mascogos), Yuchi, Shawnee, Creoles of color, Miccosukee",
+        "Native American religion → Creek mythology"
+    ],
+    [
+        "Musgum",
+        "Afroasiatic → Chadic → Musgu",
+        "Far North Region (Cameroon), Chad (Chari-Baguirmi, Mayo-Kebbi Est)",
+        "",
+        "Islam"
+    ],
+    [
+        "Mwera",
+        "Niger–Congo → Bantu → Mwera",
+        "Tanzania (Mtwara and Ruvuma Regions)",
+        "",
+        "Islam"
+    ],
+    [
+        "Nagas",
+        "Sino-Tibetan → Tibeto-Burman → Kuki-Chin–Naga",
+        "India (Nagaland, Manipur, Arunachal Pradesh, Assam), Myanmar (Naga Self-Administered Zone)",
+        "Angami, Ao, Chakhesang (including Chokri and Khezha), Chang, Khiamniungan, Konyak, Lotha, Mao, Maram, Maring, Nocte, Phom, Pochury, Poumai, Rengma, Sangtam, Sümi, Tangkhul, Tangsa, Tikhir, Wancho, Yimkhiung, Zeliangrong (Zemi, Liangmei, Rongmei/Kabui), Lamkang Naga",
+        "Christianity → Protestantism → Baptists"
+    ],
+    [
+        "Nagpuri",
+        "Indo-European → Indo-Aryan  → Bihari → Sadri",
+        "Chota Nagpur Plateau (India)",
+        "Chik Baraik",
+        "Hinduism"
+    ],
+    [
+        "Nahuas",
+        "Uto-Aztecan → Nahuan → Nahuatl",
+        "Mexico",
+        "Huasteca Nahuas, Mexicaneros, Sierra Puebla Nahuas, Guerrero Nahuas, Orizaba Nahuas, Southeastern Puebla Nahuas, Central Nahuas, Pipil, along with Mestizos such as Mexicans",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Nakoda",
+        "Siouan → Western Siouan → Stoney",
+        "Alberta, Saskatchewan (Canada)",
+        "Wood Stoney, Mountain Stoney",
+        ""
+    ],
+    [
+        "Nama",
+        "Khoe → Khoekhoe",
+        "Namaland (Namibia), South Africa",
+        "Oorlams",
+        "Christianity"
+    ],
+    [
+        "Naso",
+        "Chibchan → Talamanca → Teribe",
+        "Bocas del Toro (Panama)",
+        "",
+        "Native American religion"
+    ],
+    [
+        "Nauruans",
+        "Austronesian → Malayo-Polynesian → Nauruan",
+        "Nauru",
+        "",
+        "Christianity → Protestantism"
+    ],
+    [
+        "Navajo",
+        "Dené–Yeniseian → Na-Dene → Apachean → Navajo, Navajo Family Sign",
+        "Navajo Nation (United States)",
+        "",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Newars",
+        "Sino-Tibetan → Newar",
+        "Kathmandu Valley (Nepal)",
+        "Rajupadhaya, Rajbhandari, Pradhan, Malla, Shrestha, Shakya, Chitrakar",
+        "Hinduism, Buddhism"
+    ],
+    [
+        "Nez Perce",
+        "Plateau Penutian → Sahaptian → Nez Perce, Indo-European → Germanic → English",
+        "Idaho, Washington (United States)",
+        "",
+        "Waashat Religion, Christianity"
+    ],
+    [
+        "Ngabe",
+        "Chibchan → Guaymi",
+        "Ngabe-Bugle Comarca (Panama)",
+        "",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Ngaju",
+        "Austronesian → Malayo-Polynesian → Barito → Ngaju",
+        "Central Kalimantan (Indonesia)",
+        "Bakumpai, Meratus",
+        "Kaharingan"
+    ],
+    [
+        "Ngalop",
+        "Sino-Tibetan → Tibetic → Dzongkha",
+        "Bhutan",
+        "Kheng, Bumthang",
+        "Buddhism → Tibetan Buddhism"
+    ],
+    [
+        "Ngbandi",
+        "Niger–Congo → Ubangian → Ngbandi",
+        "Democratic Republic of the Congo, Central African Republic",
+        "Yakoma",
+        "Christianity"
+    ],
+    [
+        "Nias",
+        "Austronesian → Northwest Sumatra–Barrier Islands → Nias",
+        "Nias (Indonesia)",
+        "",
+        "Christianity"
+    ],
+    [
+        "Nicobarese",
+        "Austroasiatic → Nicobarese",
+        "Nicobar Islands (India)",
+        "",
+        "Christianity, Animism"
+    ],
+    [
+        "Nivkhs",
+        "Nivkh",
+        "Khabarovsk Krai, Sakhalin Oblast (Russia)",
+        "",
+        "Shamanism"
+    ],
+    [
+        "Nkole",
+        "Niger–Congo → Bantu → Nkore-Kiga → Nkore",
+        "Ankole, Uganda",
+        "",
+        "Christianity, Ruhanga"
+    ],
+    [
+        "Nogais",
+        "Turkic → Kipchak → Nogai",
+        "Stavropol Krai, Dagestan (Russia)",
+        "Ak Nogai, Karagash",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Norfolk Islanders",
+        "Indo-European → Germanic → English, Indo-European → Germanic → English Creoles → Pitcairn-Norfolk → Norfuk",
+        "Norfolk Island (Australia)",
+        "",
+        "Irreligion, Christianity → Protestantism → Anglicanism"
+    ],
+    [
+        "Northern Tutchone",
+        "Na-Dene → Athabaskan → Tutchone",
+        "Yukon Territory (Canada)",
+        "",
+        "Native American religion"
+    ],
+    [
+        "Norwegians",
+        "Indo-European → Germanic → Nordic → Norwegian",
+        "Norway",
+        "Kola Norwegians, Svalbarders, along with Significant populations in the United States, and Norwegian Canadians",
+        "Christianity → Protestantism → Lutheranism"
+    ],
+    [
+        "Nubians",
+        "Nilo-Saharan → Nubian",
+        "Nubia (Egypt, Sudan)",
+        "Nobiin, Mattokki, Dongolawi, Midob, Birgid, Hill Nubians (including Dilling, Debri, Ghulfan, Kadaru, Karko, and Wali)",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Nuer",
+        "Nilo-Saharan → Nilotic → Nuer",
+        "Nuerland (South Sudan)",
+        "",
+        "Traditional African religions"
+    ],
+    [
+        "Nùng",
+        "Kra–Dai → Tai → Zhuang → Nung",
+        "Vietnam, Guangxi (China)",
+        "",
+        "Animism"
+    ],
+    [
+        "Nuristanis",
+        "Indo-European → Nuristani",
+        "Nuristan (Afghanistan)",
+        "Safed-Posh Kaffirs (including Askunis), Kamkata-viris (including Kata and Kom)",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Nuu-chah-nulth",
+        "Wakashan → Nuu-chah-nulth",
+        "British Columbia (Canada)",
+        "",
+        "Native American religion"
+    ],
+    [
+        "Nuxalk",
+        "Salishan → Nuxalk",
+        "British Columbia (Canada)",
+        "",
+        "Native American religion"
+    ],
+    [
+        "Nyambo",
+        "Niger–Congo → Bantu → Nyambo",
+        "Karagwe District, Kagera Region, Tanzania",
+        "",
+        ""
+    ],
+    [
+        "Nyishi",
+        "Sino-Tibetan → Tani → Nishi",
+        "Arunachal Pradesh (India)",
+        "",
+        "Christianity"
+    ],
+    [
+        "Ōbeikei Islanders",
+        "Indo-European → Germanic → English language → Bonin English",
+        "Bonin Islands (Japan)",
+        "",
+        "Christianity, Buddhism, Shintoism"
+    ],
+    [
+        "Occitans",
+        "Indo-European → Romance → Occitan",
+        "Occitania (France, Italy, Spain)",
+        "Aranese, Auvergnats, Provençals, Languedociens, Gascons, Niçois",
+        "Christianity"
+    ],
+    [
+        "Odawa",
+        "Algic → Algonquian → Ottawa",
+        "Ontario (Canada), Oklahoma, Michigan (United States)",
+        "",
+        ""
+    ],
+    [
+        "Odia",
+        "Indo-European → Indo-Aryan → Odia",
+        "Odisha (India)",
+        "Utkala Brahmins, Khandayat, Bonaz, Badu; Bairagi (Oriya); Barika; Chaikwa; Chatarkheya; Dhobi, Oriya; Ganrar; Ghantarghada; Girigiria; Gond (Oriya); Haddi; Jhodia; Kobari; Koraga; Kuliya; Lohar, Oriya; Mali, Oriya; Malia; Panka (Oriya); Paroja; Patra; Radhi; Sannyasi; Teli, Oriya; Thanapati; Thoria",
+        "Hinduism"
+    ],
+    [
+        "Ogoni",
+        "Niger–Congo → Cross River → Ogoni",
+        "Ogoniland (Nigeria)",
+        "Baan, Eleme, Gokana, Tẹẹ",
+        "Christianity"
+    ],
+    [
+        "Ogu",
+        "Niger–Congo → Kwa → Gbe → Gun",
+        "Lagos, Ogun State (Nigeria), Benin",
+        "",
+        ""
+    ],
+    [
+        "Oji-Cree",
+        "Algic → Algonquian → Oji-Cree",
+        "Ontario, Manitoba (Canada)",
+        "",
+        ""
+    ],
+    [
+        "Ojibwe",
+        "Algic → Algonquian → Ojibwe",
+        "Anishinaabeland (Canada, United States)",
+        "Mississaugas, Findians",
+        "Midewiwin"
+    ],
+    [
+        "Oku",
+        "Indo-European → Germanic → English Creole → Krio, Indo-European → Germanic → English",
+        "Sierra Leone, The Gambia",
+        "",
+        "Islam"
+    ],
+    [
+        "Oneida",
+        "Iroquoian → Northern Iroquoian → Oneida",
+        "Ontario (Canada), New York, Wisconsin (United States)",
+        "",
+        ""
+    ],
+    [
+        "Onge",
+        "Ongan → Onge",
+        "Little Andaman Island (India)",
+        "",
+        "Animism"
+    ],
+    [
+        "Onondaga",
+        "Iroquoian → Northern Iroquoian → Onondaga",
+        "Ontario (Canada), New York (United States)",
+        "",
+        ""
+    ],
+    [
+        "Oromo",
+        "Afroasiatic → Cushitic → Oromo",
+        "Oromia (Ethiopia), Kenya",
+        "Boorana, Barento, Salale, Machaa, Arsi, Wollo",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Oroqens",
+        "Tungusic → Northern Tungusic → Oroqen",
+        "Heilongjiang, Inner Mongolia (China)",
+        "",
+        ""
+    ],
+    [
+        "Ossetians",
+        "Indo-European → Iranian → Ossetian",
+        "South Ossetia, North Ossetia–Alania (Russia)",
+        "Iron, Digor, Jasz, Kudar, Trialeti Ossetians",
+        "Christianity → Eastern Orthodoxy"
+    ],
+    [
+        "Ot Danum",
+        "Austronesian → Malayo-Polynesian → Ot Danum",
+        "Indonesia (West and Central Kalimantan)",
+        "Lawangan, Ma'anyan",
+        "Kaharingan"
+    ],
+    [
+        "Otomi",
+        "Oto-Manguean → Otomian → Otomi",
+        "Mexico (Hidalgo, Puebla, Veracruz, State of Mexico, Querétaro)",
+        "",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Ovambo",
+        "Niger–Congo → Bantu → Ovambo",
+        "Ovamboland (Namibia), Angola",
+        "",
+        "Christianity → Protestantism → Lutheranism"
+    ],
+    [
+        "Ovimbundu",
+        "Niger–Congo → Bantu → Umbundu",
+        "Angola",
+        "",
+        "Christianity"
+    ],
+    [
+        "Palau",
+        "Austronesian → Malayo-Polynesian → Palauan",
+        "Palau",
+        "",
+        "Christianity, Modekngei"
+    ],
+    [
+        "Palawa",
+        "Indo-European → Germanic → English, Palawa kani, Tasmanian languages",
+        "Tasmania (Australia)",
+        "",
+        "Alcheringa"
+    ],
+    [
+        "Palula",
+        "Indo-European → Dardic → Palula",
+        "Chitral District (Pakistan)",
+        "",
+        ""
+    ],
+    [
+        "Pamiris",
+        "Indo-European → Iranian → Pamir",
+        "Pamir Mountains (Tajikistan, Afghanistan, China)",
+        "Shughni, Sarikoli (including Tajiks of Xinjiang), Yazghulami, Munji, Yidgha, Sanglechi, Ishkashimi, Wakhi",
+        "Islam → Shia Islam → Isma'ilism"
+    ],
+    [
+        "Pangasinese",
+        "Austronesian → Philippine → Pangasinan",
+        "Pangasinan (Philippines)",
+        "",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Papel",
+        "Niger–Congo → Atlantic → Senegambian → Papel",
+        "Biombo Region (Guinea-Bissau)",
+        "",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Paramaccan",
+        "Indo-European → Germanic → English → Ndyuka",
+        "Pamacca (Suriname)",
+        "",
+        "Winti"
+    ],
+    [
+        "Pare",
+        "Niger–Congo → Bantu → Pare",
+        "Pare Mountains (Tanzania)",
+        "",
+        "Islam"
+    ],
+    [
+        "Parsis",
+        "Indo-European → Indo-Aryan → Gujaratic → Gujarati",
+        "Indian subcontinent",
+        "India and Pakistan",
+        "Zoroastrianism"
+    ],
+    [
+        "Pashayi",
+        "Indo-European → Indo-Aryan → Dardic → Pashayi",
+        "Afghanistan (Laghman, Kapisa and Nangarhar Provinces)",
+        "",
+        "Islam"
+    ],
+    [
+        "Pashtuns",
+        "Indo-European → Iranian → Pashto",
+        "Pashtunistan (Afghanistan, Pakistan)",
+        "Kakar, Ghilji (including Lodi (including Niazi, Hotak (including Babai), and Lohani (including Marwat))), Punjabi Pathans (including Malerkotla Pathans and Multani Pathans), Tareen, Bettani (including Shirani), Afridi, Bangash, Durrani, with significant populations in the United States, India, Sri Lanka,",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Pataxo",
+        "Maxakalian → Pataxo",
+        "Bahia (Brazil)",
+        "",
+        "Shamanism"
+    ],
+    [
+        "Pedi",
+        "Niger–Congo → Bantu → Sotho–Tswana → Sepedi",
+        "Limpopo (South Africa)",
+        "",
+        "Christianity"
+    ],
+    [
+        "Pende",
+        "Niger–Congo → Bantu → Pende",
+        "Democratic Republic of the Congo",
+        "",
+        "Christianity"
+    ],
+    [
+        "Persians",
+        "Indo-European → Iranian → Persian",
+        "Iran",
+        "Tat, along with significant populations in the United States, the United Arab Emirates, Canada, Germany, the United Kingdom, Bahrain, Australia, and Sweden",
+        "Islam → Shia Islam"
+    ],
+    [
+        "Pitcairn Islanders",
+        "Indo-European → Germanic → English, Indo-European → Germanic → English Creoles → Pitcairn-Norfolk → Pitkern",
+        "Pitcairn Islands",
+        "Significant population in Norfolk Island, along with a diaspora in Australia, and New Zealand",
+        "Christianity → Protestantism"
+    ],
+    [
+        "Pitjantjara",
+        "Pama-Nyungan → Wati → Pitjantjara",
+        "Central Australia",
+        "",
+        "Alcheringa"
+    ],
+    [
+        "Podlashuks",
+        "Indo-European → Slavic → Ukrainian or Belarusian → Podlachian",
+        "Podlachia (Poland)",
+        "",
+        "Christianity → Eastern Orthodoxy, Christianity → Catholicism"
+    ],
+    [
+        "Pohnpeian",
+        "Austronesian → Malayo-Polynesian → Oceanic → Micronesian → Pohnpeian",
+        "Pohnpei (Federated States of Micronesia)",
+        "",
+        "Christianity"
+    ],
+    [
+        "Poles",
+        "Indo-European → Slavic → Polish",
+        "Poland",
+        "Podlachians, Masurians, Greater Polish, and Warmians, as well as Significant populations in the United States, Brazil, Germany, Canada, Iceland, Sweden, France, the United Kingdom, Argentina, Belarus, Russia, Australia, Lithuania, Ukraine, Ireland, and Norway",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Portuguese",
+        "Indo-European → Romance → Portuguese, Indo-European → Romance → Minderico, Indo-European → Romance → Portuguese and Spanish → Barranquenho, SSLic → Portuguese Sign",
+        "Portugal",
+        "Azoreans, Madeirans, Barranquenhos, Minderico, along with numerous colonial descendants such as Brazilians (including Ribeirinhos and Pardo Brazilians), São Toméans, Portuguese Angolans, Portuguese Mozambicans, Luso-Indians",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Potawatomi",
+        "Algic → Algonquian → Potawatomi",
+        "Ontario (Canada), Illinois, Indiana, Kansas, Michigan, Oklahoma, Wisconsin (United States)",
+        "",
+        ""
+    ],
+    [
+        "Potiguara",
+        "Tupian → Potiguara, Indo-European → Romance → Portuguese",
+        "Paraiba (Brazil)",
+        "",
+        "Shamanism"
+    ],
+    [
+        "Punjabis",
+        "Indo-European → Indo-Aryan → Punjabi",
+        "Punjab (Pakistan, India)",
+        "Sikhs, Gujjars, Jat, Khatris, Arain, Awan, along with significant populations in the United Kingdom, Canada, and the United States.",
+        "Islam → Sunni Islam, Hinduism, Sikhism"
+    ],
+    [
+        "Purépecha",
+        "Purépecha",
+        "Michoacán (Mexico)",
+        "",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Qashqai",
+        "Turkic → Oghuz → Qashqai",
+        "Fars Province (Iran)",
+        "",
+        "Islam → Shia Islam"
+    ],
+    [
+        "Qiang",
+        "Sino-Tibetan → Qiangic",
+        "Ngawa Tibetan and Qiang Autonomous Prefecture (China)",
+        "",
+        "Qiang folk religion"
+    ],
+    [
+        "Quechua",
+        "Quechuan",
+        "Peru, Bolivia, Ecuador, Colombia, Argentina",
+        "Ayacucho,  North Bolivian, South Bolivian, Cajamarca-Cañaris, Chachapoyas, Central, Cusco, Inga, Lamas, Kichwa, Pacaraos, Puno, Santiagueño along with Mestizos such as Peruvians, Ecuadorians, and Bolivians",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Quileute",
+        "Chimakuan → Quileute",
+        "Washington (United States)",
+        "",
+        "Native American religion"
+    ],
+    [
+        "Rade",
+        "Austronesian → Chamic → Rade",
+        "Central Highlands, Vietnam",
+        "",
+        "Christianity"
+    ],
+    [
+        "Raizal",
+        "Indo-European → Germanic → English → San Andres-Providencia Creole",
+        "Archipelago of San Andres, Providencia, and Santa Catalina (Colombia)",
+        "",
+        "Christianity"
+    ],
+    [
+        "Rajasthanis",
+        "Indo-European → Indo-Aryan → Hindustani → Rajasthani",
+        "Rajasthan (India)",
+        "Gurjars, Rajputs (including Mahyavanshi, Chandels, and Molesalam), Marwari, Charan, Kachhi, Meena",
+        "Hinduism"
+    ],
+    [
+        "Rajbongshi",
+        "Indo-European → Indo-Aryan → Kamtapuri",
+        "India (Assam, West Bengal), Bangladesh",
+        "",
+        "Hinduism"
+    ],
+    [
+        "Rakhine",
+        "Sino-Tibetan → Burmese → Arakanese",
+        "Rakhine State (Myanmar)",
+        "Marma",
+        "Buddhism → Theravada Buddhism"
+    ],
+    [
+        "Rapa Nui",
+        "Austronesian → Polynesian → Rapa Nui",
+        "Easter Island (Chile)",
+        "",
+        "Christianity →  Catholicism"
+    ],
+    [
+        "Rejangese",
+        "Austronesian → Malayo-Polynesian → Land Dayak → Rejang",
+        "Rejang Lebong Regency (Indonesia)",
+        "",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Rohingyas",
+        "Indo-European → Indo-Aryan → Rohingya",
+        "Rakhine State (Myanmar)",
+        "",
+        "Islam"
+    ],
+    [
+        "Roma",
+        "Indo-European → Indo-Aryan → Romani",
+        "Europe (Bulgaria, Hungary, Romania, North Macedonia, Serbia, Slovakia, Czech Republic)",
+        "Roma (including Austrian Roma), Iberian Kale, Finnish Kale, Welsh Kale, Romanichal, Sinti, Manush, Romanisæl, Ashkali and Balkan Egyptians, Boyash, Lom, Dom (including Halebi, Lori, and Madari), along with significant populations in the United States, and Brazil.",
+        "Christianity"
+    ],
+    [
+        "Romanians",
+        "Indo-European → Romance → Romanian",
+        "Romania, Moldova",
+        "Wallachians (including Oltenians and Muntenians), Moldavians, along with significant populations in Italy, Germany, Spain, Ukraine, the United Kingdom, France, and the United States.",
+        "Christianity → Eastern Orthodoxy"
+    ],
+    [
+        "Romansh",
+        "Indo-European → Romance → Romansh",
+        "Grisons (Switzerland)",
+        "",
+        "Christianity"
+    ],
+    [
+        "Russians",
+        "Indo-European → Slavic → Russian, Francosign → Russian Sign",
+        "Russia, Donetsk, Luhansk",
+        "Cossacks, Pomors, Lipovans, Subbotniks, Molokans (including Subbotnik Molokans) along with significant populations in Ukraine, Kazakhstan, Germany, the United States, Uzbekistan, Israel, Brazil, Belarus, Canada, Latvia, Kyrgyzstan, Moldova, Estonia, Turkmenistan, France, Lithuania, China (including Hong Kong), Taiwan, and Azerbaijan.",
+        "Christianity → Eastern Orthodoxy"
+    ],
+    [
+        "Rusyns",
+        "Indo-European → Slavic → Rusyn",
+        "Carpathian Ruthenia (Ukraine, Slovakia, Poland)",
+        "Pannonian Rusyns, Lemkos, Hutsuls, Boykos",
+        "Christianity"
+    ],
+    [
+        "Ryukyuans",
+        "Japonic → Ryukyuan, Koniya Sign",
+        "Ryukyu Islands (Japan)",
+        "Amami (including Kikai, Amami Ōshima (including Setouchi), Tokunoshima, Okinoerabu, and Yoron), Okinawans (including Kunigami) Miyako, Yaeyama, Yonaguni, with significant populations in Brazil, Bolivia [ja] and the United States (including Hawaii)",
+        "Ryukyuan religion"
+    ],
+    [
+        "Saho",
+        "Afroasiatic → Cushitic → Saho",
+        "Eritrea",
+        ""
+    ],
+    [
+        "Sahrawis",
+        "Afro-Asiatic → Semitic → Arabic → Hassaniya Arabic",
+        "Western Sahara",
+        "Reguibat, Oulad Delim, Oulad Tidrarin, Laaroussien, Tekna",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Saint Thomas Christians",
+        "Dravidian → Malayalam",
+        "Kerala (India)",
+        "Knanayas",
+        "Christianity → Saint Thomas Christianity"
+    ],
+    [
+        "Sakizaya",
+        "Austronesian → East Formosan → Sakizaya",
+        "Hualien County (Taiwan)",
+        "",
+        "Animism, Christianity"
+    ],
+    [
+        "Salar",
+        "Turkic → Oghuz → Salar",
+        "China (Qinghai, Gansu)",
+        "",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Sama-Bajau",
+        "Austronesian → Malayo-Polynesian → Barito → Sama–Bajaw",
+        "Maritime Southeast Asia (Philippines, Malaysia, Indonesia, Brunei)",
+        "Sama (including Banguingui), Bajaw, Abaknon",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Samaná Americans",
+        "Indo-European → Germanic → English → Samaná English",
+        "Samaná Province (Dominican Republic)",
+        "",
+        "Christianity → Protestantism → Methodism"
+    ],
+    [
+        "Samaritans",
+        "Afro-Asiatic → Semitic → Hebrew",
+        "Israel",
+        "",
+        "Samaritanism"
+    ],
+    [
+        "Sambal",
+        "Austronesian → Philippine → Sambalic",
+        "Zambales (Philippines)",
+        "Bolinao, Botolan (including Banguingui)",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Sámi",
+        "Uralic → Sámi",
+        "Sápmi (Norway, Sweden, Finland, Russia)",
+        "Inari Sámi, Kildin Sami, Lule Sami, Northern Sami, Pite Sami, Skolt Sami, Southern Sámi, Ter Sami, Ume Sámi",
+        "Christianity → Protestantism → Lutheranism"
+    ],
+    [
+        "Samoans",
+        "Austronesian → Polynesian → Samoan",
+        "Samoan Islands (Samoa, American Samoa)",
+        "American Samoans",
+        "Christianity"
+    ],
+    [
+        "Sangirese",
+        "Austronesian → Philippine → Sangirese",
+        "Sangihe Islands (Indonesia)",
+        "",
+        "Christianity → Protestantism"
+    ],
+    [
+        "Santal",
+        "Austroasiatic → Munda → Santali",
+        "India (West Bengal, Jharkhand, Odisha)",
+        "",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Sara",
+        "Nilo-Saharan → Central Sudanic → Sara",
+        "Chad, Central African Republic",
+        "Ngambay, Doba, Laka, Kabba, Sar, Mbay, Ngam, Dagba, Gulay",
+        "Traditional African religions"
+    ],
+    [
+        "Saramaka",
+        "Indo-European → Germanic → English → Saramaccan",
+        "Suriname",
+        "",
+        "Winti, Christianity → Moravian Church"
+    ],
+    [
+        "Sardinians",
+        "Indo-European → Romance → Sardinian, Indo-European → Romance → Sassarese, Indo-European → Romance → Gallurese",
+        "Sardinia (Italy)",
+        "Logudorese, Campidanese, Sassarese, Gallurese",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Sasak",
+        "Austronesian → Sasak",
+        "Lombok (Indonesia)",
+        "",
+        "Islam"
+    ],
+    [
+        "Saurashtras",
+        "Indo-European → Indo-Aryan → Saurashtra",
+        "South India (India)",
+        "",
+        "Hinduism → Vaishnavism, Hinduism → Shaivism"
+    ],
+    [
+        "Savu",
+        "Austronesian → Sumba–Flores → Sumba → Hawu",
+        "Savu (Indonesia)",
+        "",
+        "Christianity → Protestantism"
+    ],
+    [
+        "Scots",
+        "Indo-European → Germanic → Scots, Indo-European → Celtic → Scottish Gaelic, Indo-European → Celtic → Beurla Reagaird, BANZSL → British Sign",
+        "Scotland (United Kingdom)",
+        "Ulster Scots, Orcadians, Shetlanders, Highlanders, Lowlanders, along with significant populations in the United States (including Scotch-Irish Americans), Canada (including Scotch-Irish Canadians), Australia, Argentina, Russia, and the Bahamas",
+        "Christianity → Protestantism → Calvinism"
+    ],
+    [
+        "Semnanis",
+        "Indo-European → Iranian → Western Iranian → Semnani",
+        "Semnan, Iran",
+        "",
+        "Islam → Shia Islam → Twelver Shi'ism"
+    ],
+    [
+        "Seneca",
+        "Iroquoian → Northern Iroquoian → Seneca",
+        "Ontario (Caanada), New York, Oklahoma (United States)",
+        "",
+        ""
+    ],
+    [
+        "Sentinelese",
+        "Sentinelese",
+        "North Sentinel Island (India)",
+        "",
+        ""
+    ],
+    [
+        "Senufo",
+        "Niger–Congo → Senufo",
+        "Mali, Ivory Coast, Burkina Faso",
+        "Nafana, Minyanka",
+        "Traditional African religions"
+    ],
+    [
+        "Serbs",
+        "Indo-European → Slavic → Serbo-Croatian → Serbian",
+        "Serbia, Republika Srpska (Bosnia and Herzegovina), Montenegro",
+        "Kosovo Serbs, Triestine Serbs, along with significant populations in Croatia, Germany, Austria, France, and Sweden",
+        "Christianity → Eastern Orthodoxy"
+    ],
+    [
+        "Serer",
+        "Niger–Congo → West Atlantic → Senegambian → Serer",
+        "Senegal",
+        "Laalaa, Ndut, Niominka, Serer-Noon, Palor, Saafi",
+        "Islam"
+    ],
+    [
+        "Setos",
+        "Uralic → Finnic → South Estonian → Seto",
+        "Setomaa (Setomaa Parish, Estonia and Pechorsky District, Russia)",
+        "",
+        "Christianity → Eastern Orthodoxy, Folk religion"
+    ],
+    [
+        "Seychellois Creoles",
+        "Indo-European → Romance → French → Seychellois Creole",
+        "Seychelles",
+        "",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Shan",
+        "Kra–Dai → Tai → Shan",
+        "Shan State (Myanmar)",
+        "",
+        "Buddhism → Theravada Buddhism"
+    ],
+    [
+        "Sharchops",
+        "Sino-Tibetan → Tshangla",
+        "Bhutan (Lhuntse, Mongar, Pemagatshel, Samdrup Jongkhar, Trashigang, and Trashiyangtse Districts)",
+        "",
+        "Buddhism → Tibetan Buddhism"
+    ],
+    [
+        "Sherbro",
+        "Niger–Congo → Atlantic → Mel → Sherbro",
+        "Sherbro Island (Sierra Leone)",
+        "",
+        "Traditional African religions"
+    ],
+    [
+        "Shilluk",
+        "Nilo-Saharan → Nilotic → Luo → Shilluk",
+        "South Sudan",
+        "Gule",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Shina",
+        "Indo-European → Dardic → Shina, Indo-European → Dardic → Kohistani Shina",
+        "Gilgit-Baltistan (Pakistan)",
+        "Kohistani Shina",
+        "Islam"
+    ],
+    [
+        "Shirazi",
+        "Niger-Congo → Atlantic-Congo → Bantu → Swahili",
+        "Swahili Coast (Tanzania), (Kenya), (Mozambique), (Comoros)",
+        "Zanzibaris, Comorians and Maore",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Shompen",
+        "Shompen",
+        "Great Nicobar Island (India)",
+        "",
+        "Animism"
+    ],
+    [
+        "Shona",
+        "Niger–Congo → Bantu → Shona",
+        "Mashonaland (Zimbabwe)",
+        "Manyika, Ndau",
+        "Christianity"
+    ],
+    [
+        "Shopi",
+        "Indo-European → Slavic → Bulgarian",
+        "Shopluk (Bulgaria, Serbia, North Macedonia)",
+        "",
+        ""
+    ],
+    [
+        "Shoshone",
+        "Uto-Aztecan → Numic → Shoshoni",
+        "Wyoming, Idaho, Nevada, Utah (United States)",
+        "Eastern Shoshone, Northern Shoshone, Western Shoshone, Goshute",
+        "Native American Church, Christianity"
+    ],
+    [
+        "Sibe",
+        "Tungusic → Xibe",
+        "China (Liaoning, Jilin, Xinjiang)",
+        "",
+        "Shamanism"
+    ],
+    [
+        "Siberian Yupik",
+        "Eskimo–Aleut → Eskimo → Siberian Yupik, Eskimo–Aleut → Eskimo → Naukan",
+        "Chukchi Peninsula (Russia), St. Lawrence Island (United States)",
+        "Naukan",
+        "Shamanism"
+    ],
+    [
+        "Sicilians",
+        "Indo-European → Romance → Sicilian",
+        "Sicily (Italy)",
+        "Sicilian Americans",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Sidama",
+        "Afroasiatic → Cushitic → Sidaama",
+        "Sidamia (Ethiopia)",
+        "",
+        "Christianity"
+    ],
+    [
+        "Siddi",
+        "Niger–Congo → Bantu → Swahili → Sidi",
+        "Pakistan (Baluchistan, Sindh), India (Karnataka, Gujarat, Hyderabad)",
+        "",
+        "Islam"
+    ],
+    [
+        "Sierra Leone Creoles",
+        "Indo-European → Germanic → English → Krio, Indo-European → Germanic → English → Pichinglis",
+        "Sierra Leone",
+        "Gambian Creoles, Saros, Krio Fernandinos, with significant populations in the United States",
+        "Christianity"
+    ],
+    [
+        "Sika",
+        "Austronesian → Flores–Lembata → Sika",
+        "Sikka Regency (Indonesia)",
+        "",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Silesians",
+        "Indo-European → Slavic → Silesian, Indo-European → Germanic → High German → Silesian German",
+        "Silesia (Poland, Germany, Czech Republic)",
+        "Significant populations in the United States (including Texas)",
+        "Christianity → Catholicism, Christianity → Protestantism → Lutheranism"
+    ],
+    [
+        "Siltʼe",
+        "Afroasiatic → Semitic  → Ethiopic → Gurage → Siltʼe",
+        "Siltia (Ethiopia)",
+        "",
+        "Islam"
+    ],
+    [
+        "Sindhis",
+        "Indo-European → Indo-Aryan → Sindhi",
+        "Sindh (Pakistan)",
+        "Jat, Memon, Arain, Indian Sindhis",
+        "Islam → Sunni Islam → Hanafi, Hinduism"
+    ],
+    [
+        "Sinhalese",
+        "Indo-European → Indo-Aryan → Sinhala",
+        "Sri Lanka",
+        "Dewa, British Sri Lankans, Burghers (including Portuguese Burghers and Dutch Burghers)",
+        "Buddhism → Theravada Buddhism"
+    ],
+    [
+        "Siona",
+        "Tucanoan → Western Tucanoan → Siona",
+        "Sucumbios (Ecuador), Putumayo (Colombia)",
+        "",
+        "Animism"
+    ],
+    [
+        "Sioux",
+        "Siouan → Western Siouan → Sioux",
+        "Lakotah (United States)",
+        "Lakota (including Brulé, Oglala, Sans Arc, Hunkpapa, Miniconjou, Two Kettles, and Sihasapa) and Dakota (including Mdewakanton)",
+        "Native American religion"
+    ],
+    [
+        "Sirenik",
+        "Eskimo–Aleut → Eskimo → Siberian Yupik",
+        "Sireniki (Russia)",
+        "",
+        ""
+    ],
+    [
+        "Slovaks",
+        "Indo-European → Slavic → Slovak",
+        "Slovakia",
+        "significant populations in Czech Republic, Serbia, Hungary, United States and Canada",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Slovenes",
+        "Indo-European → Slavic → Slovene",
+        "Slovenia",
+        "Significant populations in the United States, Canada, Australia, Carinthia, Hungary, Uruguay, Venezuela, Argentina, Croatia, and Italy",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Soga",
+        "Niger–Congo → Bantu → Soga",
+        "Busoga (Uganda)",
+        "",
+        "Christianity, Traditional African religions"
+    ],
+    [
+        "Somalis",
+        "Afroasiatic → Cushitic → Somali",
+        "Greater Somalia (Somalia, Ethiopia, Djibouti, Kenya)",
+        "Hawiye, Darod (including Majeerteen), Isaaq, Dir, Rahanweyn, Madhiban, Yibir, Ajuran along with significant populations in the United States, the United Kingdom, Sweden, and Canada",
+        "Islam → Sunni Islam → Shafi'i"
+    ],
+    [
+        "Songhai",
+        "Nilo-Saharan → Songhai",
+        "Mali, Niger",
+        "Zarma",
+        "Islam"
+    ],
+    [
+        "Soninke",
+        "Niger–Congo → Mande → Soninke",
+        "Mali",
+        "Haratin",
+        "Islam → Sunni Islam → Maliki"
+    ],
+    [
+        "Sonsorolese",
+        "Austronesian → Malayo-Polynesian → Oceanic → Micronesian → Sonsorolese",
+        "Sonsorol",
+        "",
+        "Christianity"
+    ],
+    [
+        "Soqotris",
+        "Afroasiatic → Semitic → Soqotri",
+        "Socotra (Yemen)",
+        "",
+        "Islam"
+    ],
+    [
+        "Sorbs",
+        "Indo-European → Slavic → Sorbian",
+        "Lusatia (Germany), (Poland)",
+        "Upper Sorbs, Lower Sorbs",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Sotho",
+        "Niger–Congo → Bantu → Sotho–Tswana → Sotho",
+        "Free State (South Africa), Lesotho",
+        "",
+        "Christianity"
+    ],
+    [
+        "Spaniards",
+        "Indo-European → Romance → Castilian, Indo-European → Romance → Asturleonese, Indo-European → Romance → Portuguese and Spanish → Barranquenho, Spanish Sign",
+        "Spain",
+        "Castilians, Leonese, Cantabrians, Riojans, Manchegans, Madrilenians, Extremadurans, Murcians, Mirandese, Criollos, Mercheros, Barranquenhos, along with numerous colonial descendants such as Floridanos, Hispanos (including Californios, Tejanos, and Neomexicanos), Mexicans (including Chicanos), Guatemalans (including Hispanic Belizeans), Salvadorans, Hondurans, Nicaraguans, Costa Ricans, Panamanians, Colombians, Venezuelans, Ecuadorians, Peruvians, Bolivians, Paraguayans, Chileans, Argentines, Uruguayans, Cubans, Dominicans, Puerto Ricans (including Nuyoricans), Fernandinos, Spanish Filipinos, Spanish Hawaiians, and Hispanic and Latino Americans",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Sri Lankan Chetties",
+        "Dravidian → Tamil–Kannada → Tamil, Indo-European → Indo-Aryan → Sinhala",
+        "Sri Lanka",
+        "",
+        "Christianity → Catholicism, Christianity → Protestantism → Anglicanism, Christianity → Protestantism → Calvinism"
+    ],
+    [
+        "Sui",
+        "Kra–Dai → Kam–Sui → Sui",
+        "Sandu Shui Autonomous County (China)",
+        "",
+        "Animism"
+    ],
+    [
+        "Sukuma",
+        "Niger–Congo → Bantu → Sukuma",
+        "Tanzania",
+        "",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Sumba",
+        "Austronesian → Sumba–Flores → Sumba",
+        "Sumba (Indonesia)",
+        "Anakalangu, East Sumbanese, Kodi, Lamboya, West Sumbanese, Mamboru, Wanukaka",
+        "Christianity → Protestantism"
+    ],
+    [
+        "Sumbawa",
+        "Austronesian → Sumbawa",
+        "Sumbawa (Indonesia)",
+        "",
+        "Islam"
+    ],
+    [
+        "Sundanese",
+        "Austronesian → Malayo-Polynesian → Sundanese-Baduy",
+        "Java (Indonesia)",
+        "Bantenese, Baduy, Cirebonese",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Surma",
+        "Nilo-Saharan → Surmic",
+        "Ethiopia, South Sudan",
+        "Me'en, Mursi, Kichepo",
+        "Traditional African religions"
+    ],
+    [
+        "Susu",
+        "Niger–Congo → Mande → Susu",
+        "Guinea, Kambia (Sierra Leone)",
+        "",
+        "Islam"
+    ],
+    [
+        "Swahili",
+        "Niger–Congo → Bantu → Swahili",
+        "Swahili coast (Kenya, Tanzania, Mozambique, Comoros)",
+        "Shirazi (including Zanzibaris, Comorians and Maore)",
+        "Islam"
+    ],
+    [
+        "Swazi",
+        "Niger–Congo → Bantu → Nguni → Swazi",
+        "Mpumalanga (South Africa), Eswatini",
+        "",
+        "Christianity → African Zionism"
+    ],
+    [
+        "Swedes",
+        "Indo-European → Germanic → Nordic → Swedish, Indo-European → Germanic → Nordic → Dalecarlian, SSLic → Swedish Sign",
+        "Sweden",
+        "Scanians, Jamtish, Gutnish, Dalecarlians, along with significant populations in the United States, Canada, Estonia, Argentina and the United Kingdom",
+        "Christianity → Protestantism → Lutheranism"
+    ],
+    [
+        "Sylhetis",
+        "Indo-European → Indo-Aryan → Sylheti",
+        "Sylhet Division, Bangladesh\nBarak Valley, Assam, India",
+        "",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Tagalogs",
+        "Austronesian → Philippine → Tagalog",
+        "Philippines",
+        "Filipino Americans",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Tahitians",
+        "Austronesian → Polynesian → Tahitian",
+        "Tahiti (France)",
+        "",
+        "Christianity"
+    ],
+    [
+        "Tajiks",
+        "Indo-European → Iranian → Persian → Tajik, Francosign → Austro-Hungarian Sign → Russian Sign → Tajik Sign",
+        "Afghanistan, Tajikistan, Uzbekistan",
+        "Chagatai, Kharduri",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Talysh",
+        "Indo-European → Iranian → Talysh",
+        "Azerbaijan, Iran",
+        "",
+        "Islam → Shia Islam"
+    ],
+    [
+        "Tama",
+        "Nilo-Saharan → Tama",
+        "Chad, Sudan",
+        "",
+        "Islam"
+    ],
+    [
+        "Tamangs",
+        "Sino-Tibetan → Tamang",
+        "Nepal, Sikkim",
+        "Waiba, Lopchan, Thokar, Lama",
+        "Hinduism, Buddhism"
+    ],
+    [
+        "Tamils",
+        "Dravidian → Tamil–Kannada → Tamil, Austronesian → Malayic → Malay → Malay Chetty",
+        "Tamil Nadu (India), Sri Lanka (Northern and Eastern Provinces)",
+        "Indian Tamils (including Indian Tamils of Sri Lanka), Sri Lankan Tamils (including Sri Lankan Moors and Negombo Tamils), Chitty, along with significant populations in Malaysia, South Africa, the United States, Singapore, Canada, the United Kingdom, and France (including Malbars)",
+        "Hinduism,Islam,Christianity"
+    ],
+    [
+        "Tampuans",
+        "Austroasiatic → Bahnaric → Tampuan",
+        "Ratanakiri (Cambodia)",
+        "",
+        "Animism"
+    ],
+    [
+        "Tarok",
+        "Niger–Congo → Plateau → Tarok",
+        "Plateau State (Nigeria)",
+        "",
+        "Christianity"
+    ],
+    [
+        "Tatars",
+        "Turkic → Kipchak → Tatar, Turkic → Kipchak → Crimean Tatar, Turkic → Kipchak → Siberian Tatar",
+        "Tatarstan (Russia)",
+        "Volga Tatars (including Astrakhan Tatars, Kryashens, Nağaybäks), Crimean Tatars (including Yaliboylu), Lipka Tatars, Siberian Tatars (including Baraba Tatars, Chats, Eushta Tatars, Kalmak Tatars, Siberian Bukharans, and Zabolotnie Tatars), Mishar Tatars, Finnish Tatars, Dobruja Tatars, Chinese Tatars, Lithuanian Tatars with diaspora populations (including the Crimean Tatar diaspora) in Canada, Japan, Ukraine, Bulgaria, and Turkey",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Tausūg",
+        "Austronesian → Philippine → Bisayan → Tausug",
+        "Sulu Archipelago (Philippines)",
+        "",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Tboli",
+        "Austronesian → Philippine → Tboli",
+        "South Cotabato (Philippines)",
+        "",
+        "Anitism"
+    ],
+    [
+        "Teke",
+        "Niger-Congo → Atlantic-Congo → Bantu → Teke",
+        "Republic of the Congo, Democratic Republic of the Congo",
+        "",
+        ""
+    ],
+    [
+        "Telugu",
+        "Dravidian → Telugu",
+        "India (Andhra Pradesh, Telangana)",
+        "Kamma, Reddy, Velama, Kapu, Raju, Madiga, Mala",
+        "Hinduism,Islam,Christianity"
+    ],
+    [
+        "Temne",
+        "Niger–Congo → West Atlantic → Mel → Temne",
+        "Northern Sierra Leone (Sierra Leone)",
+        "",
+        "Islam"
+    ],
+    [
+        "Terena",
+        "Arawakan → Terena, Brazilian Sign, Terena Sign",
+        "Mato Grosso, Mato Grosso do Sul (Brazil)",
+        "",
+        "Shamanism"
+    ],
+    [
+        "Thais",
+        "Kra–Dai → Tai → Thai",
+        "Thailand",
+        "Southern Thai, Khorat, Lanna, Tai Lue, Thai Americans",
+        "Buddhism → Theravada Buddhism"
+    ],
+    [
+        "Tharus",
+        "Indo-European → Indo-Aryan → Tharu",
+        "Terai Region (India, Nepal)",
+        "Kathariya, Danuwar, Lampucchwa, Kochila, Sonha, Dangaura, Rana",
+        "Hinduism, Buddhism"
+    ],
+    [
+        "Tibetans",
+        "Sino-Tibetan → Tibetic, Tibetan Sign",
+        "Tibet (China), Nepal, Bhutan",
+        "Amdolese (including Golok and Tebbu), Khams, Ü-Tsang (including Ngari and Walung), Changpa, Baima, Kachee",
+        "Buddhism → Tibetan Buddhism"
+    ],
+    [
+        "Ticuna",
+        "Ticuna-Yuri → Ticuna",
+        "Amazonas (Brazil)",
+        "",
+        "Shamanism"
+    ],
+    [
+        "Tigrayans",
+        "Afroasiatic → Semitic → Ethiopic → Tigrinya",
+        "Eritrean Highlands (Eritrea), Tigrayia (Ethiopia)",
+        "",
+        "Christianity → Oriental Orthodoxy"
+    ],
+    [
+        "Tigre",
+        "Afroasiatic → Semitic → Ethiopic → Tigre",
+        "Eritrea",
+        "",
+        "Islam"
+    ],
+    [
+        "Tiv",
+        "Niger–Congo → Tiv",
+        "Benue State (Nigeria)",
+        "",
+        "Christianity"
+    ],
+    [
+        "Tiwa",
+        "Sino-Tibetan → Sal → Tiwa",
+        "India (Assam, Meghalaya)",
+        "",
+        "Hinduism"
+    ],
+    [
+        "Tiwi",
+        "Tiwi",
+        "Tiwi Islands (Australia)",
+        "",
+        "Alcheringa"
+    ],
+    [
+        "Tlapanec",
+        "Oto-Manguean → Tlapanec",
+        "Guerrero (Mexico)",
+        "",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Tlingit",
+        "Na-Dene → Tlingit",
+        "British Columbia, Yukon Territory (Canada), Alaska, Washington (United States)",
+        "",
+        "Alaska Native Religion"
+    ],
+    [
+        "Tokelauans",
+        "Austronesian → Malayo-Polynesian → Tokelauan",
+        "Tokelau",
+        "",
+        "Christianity → Congregationalism"
+    ],
+    [
+        "Toraja",
+        "Austronesian → South Sulawesi → Toraja",
+        "Tana Toraja (Indonesia)",
+        "",
+        "Christianity → Protestantism"
+    ],
+    [
+        "Toro",
+        "Niger–Congo → Bantu → Tooro",
+        "Tooro Kingdom, Uganda",
+        "",
+        "Christianity, Ruhanga"
+    ],
+    [
+        "Torres Strait Islanders",
+        "Pama-Nyungan → Kalaw Lagaw Ya, Eastern Trans-Fly → Meriam, Indo-European → Germanic → English → Torres Strait Creole",
+        "Torres Strait Islands (Australia)",
+        "",
+        ""
+    ],
+    [
+        "Toubou",
+        "Nilo-Saharan → Saharan → Tebu",
+        "Toubouland (Chad, Niger, Sudan, Libya)",
+        "Daza, Teda",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Toucouleur",
+        "Niger–Congo → West Atlantic → Senegambian → Fula → Pulaar",
+        "Futa Tooro (Senegal)",
+        "",
+        "Islam"
+    ],
+    [
+        "Trawara",
+        "Indo-European → Dardic → Mankiyali",
+        "Danna, Khyber Pakhtunkhwa (Pakistan)",
+        "",
+        ""
+    ],
+    [
+        "Tripuri",
+        "Sino-Tibetan → Sal → Kokborok",
+        "Tripura (India)",
+        "Jamatia, Murasing",
+        "Hinduism"
+    ],
+    [
+        "Tsez",
+        "Northeast Caucasian → Tsezic → Tsez",
+        "Tsuntinsky District (Russia)",
+        "",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Tsimshian",
+        "Tsimshianic → Tsimshian",
+        "British Columbia (Canada), Alaska (United States)",
+        "",
+        "Alaskan Native Faith"
+    ],
+    [
+        "Tsonga",
+        "Niger–Congo → Bantu → Tsonga",
+        "Mozambique (Maputo City and Maputo Province, Gaza Province), South Africa (Limpopo, Mpumalanga)",
+        "",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Tswana",
+        "Niger–Congo → Bantu → Tswana",
+        "Botswana, South Tswanaland (South Africa)",
+        "Balete, Mangwato, Bangwaketse, Bakwena, Batlokwa, Bahurutshe, Bakgatla, Rolong",
+        "Christianity"
+    ],
+    [
+        "Tujia",
+        "Sino-Tibetan → Tujia",
+        "Wuling Mountains (China)",
+        "",
+        "Nuo folk religion"
+    ],
+    [
+        "Tuluvas",
+        "Tulu",
+        "Karnataka (India)",
+        "",
+        "Hinduism"
+    ],
+    [
+        "Tupuri",
+        "Niger–Congo → Adamawa → Tupuri",
+        "Far North Region (Cameroon), Mayo-Kébbi (Chad)",
+        "",
+        "Christianity"
+    ],
+    [
+        "Turkana",
+        "Nilo-Saharan → Nilotic → Turkana",
+        "Turkanaland (Kenya)",
+        "",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Turkmens",
+        "Turkic → Oghuz → Turkmen",
+        "Turkmenistan, Turkmen Sahra, Afghanistan",
+        "",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Turks",
+        "Turkic → Oghuz → Turkish, Turkish Sign",
+        "Turkey, Northern Cyprus",
+        "Turkish Cypriots, Meskhetian Turks, Yörüks, Iraqi Turkmen, along with significant populations in Bulgaria, Greece, North Macedonia, Germany, France, the United Kingdom, the Netherlands, Austria, Belgium, Sweden, the United States, Syria, and Iraq",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Tuscarora",
+        "Iroquoian → Northern Iroquoian → Tuscarora",
+        "Ontario (Canada), New York, North Carolina (United States)",
+        "",
+        ""
+    ],
+    [
+        "Tutsi",
+        "Niger–Congo → Bantu → Great Lakes → Rwanda-Rundi",
+        "Rwanda, Burundi, Kivu (Democratic Republic of the Congo)",
+        "Banyamulenge",
+        "Christianity, Islam"
+    ],
+    [
+        "Tuvans",
+        "Turkic → Siberian → Tuvan",
+        "Tuva (Russia)",
+        "Tozhu Tuvans (including Dukha)",
+        "Buddhism → Tibetan Buddhism"
+    ],
+    [
+        "Udis",
+        "Northeast Caucasian → Lezgic → Caucasian Albanian → Udi",
+        "Azerbaijan",
+        "",
+        "Christianity → Oriental Orthodoxy"
+    ],
+    [
+        "Udmurts",
+        "Uralic → Permic → Udmurt",
+        "Udmurtia (Russia)",
+        "Besermyan",
+        "Christianity → Eastern Orthodoxy"
+    ],
+    [
+        "Ukrainians",
+        "Indo-European → Slavic → Ukrainian, Francosign → Austro-Hungarian Sign → Ukrainian Sign",
+        "Ukraine",
+        "Poleshuks, Cossacks, Litvins, Pinchuks along with significant populations in the United States, Brazil, Kazakhstan, Germany, Canada, Italy, Argentina, the Czech Republic, and Romania",
+        "Christianity → Eastern Orthodoxy"
+    ],
+    [
+        "Ulchi",
+        "Tungusic → Southern Tungusic → Ulch",
+        "Ulchsky District (Russia)",
+        "",
+        ""
+    ],
+    [
+        "Ulster Protestants",
+        "Indo-European → Germanic → Scots, Indo-European → Germanic → English",
+        "Ulster (United Kingdom, Republic of Ireland)",
+        "",
+        "Christianity → Protestantism"
+    ],
+    [
+        "Umatilla",
+        "Plateau Penutian → Sahaptian → Umatilla",
+        "Oregon (United States)",
+        "",
+        "Native American religion"
+    ],
+    [
+        "Urhobos",
+        "Niger–Congo → Edoid → Urhobo",
+        "Delta State (Nigeria)",
+        "",
+        "Christianity"
+    ],
+    [
+        "Ute",
+        "Uto-Aztecan → Numic → Colorado River Numic → Ute",
+        "Colorado, Utah",
+        "",
+        "Native American Church, Christianity"
+    ],
+    [
+        "Uyghurs",
+        "Turkic → Karluk → Uyghur",
+        "Uyghuristan (China)",
+        "Kashgartsy and Tor Uyghurs, with significant populations in Kazakhstan",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Uzbeks",
+        "Turkic → Karluk → Uzbek",
+        "Uzbekistan",
+        "Uzbeks in Russia",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Venda",
+        "Niger–Congo → Bantu → Tshivenda",
+        "Vendaland (South Africa)",
+        "",
+        "Christianity, Traditional African religions"
+    ],
+    [
+        "Vepsians",
+        "Uralic → Finnic → Veps",
+        "Former Veps National Volost (Republic of Karelia, Russia)"
+    ],
+    [
+        "Vietnamese",
+        "Austroasiatic → Vietic → Vietnamese",
+        "Vietnam",
+        "Muong, Gin, Phen, Chứt, Thổ, Nùng, Giáy, along with significant populations in the United States, Cambodia, France, Australia, Canada, Taiwan, Japan, Korea, Germany, Hong Kong, and Laos",
+        "Buddhism → Mahayana"
+    ],
+    [
+        "Vilamovians",
+        "Indo-European → Germanic → Wymysorys",
+        "Wilamowice (Poland)",
+        "",
+        ""
+    ],
+    [
+        "Visayans",
+        "Austronesian → Philippine → Visayan",
+        "Visayas (Philippines)",
+        "Aklanon, Butuanon, Cebuano (including Boholano and Eskaya), Caluyanon, Capiznon, Cuyunon, Hiligaynon, Karay-a, Masbateños, Negrenses, Porohanon, Romblomanon (including Bantoanons), Waray",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Võros",
+        "Uralic → Finnic → South Estonian → Võro",
+        "Võru County (Estonia)",
+        "",
+        "Christianity → Eastern Orthodoxy, Christianity → Protestantism → Lutheranism"
+    ],
+    [
+        "Votians",
+        "Uralic → Finnic → Votic",
+        "Ingria (Russia)",
+        "",
+        "Christianity → Eastern Orthodoxy, Christianity → Protestantism → Lutheranism"
+    ],
+    [
+        "Wa",
+        "Austroasiatic → Palaungic → Wa",
+        "Wa State (Myanmar)",
+        "",
+        "Buddhism, Animism"
+    ],
+    [
+        "Walla Walla",
+        "Plateau Penutian → Sahaptin",
+        "Oregon, Washington (United States)",
+        "",
+        "Waashat Religion"
+    ],
+    [
+        "Walloons",
+        "Indo-European → Romance → Walloon, Francosign → Belgian Sign → French Belgian Sign",
+        "Wallonia (Belgium)",
+        "Significant populations in the United States (including Wisconsin) and the Netherlands",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Waropen",
+        "Austronesian → Malayo-Polynesian → Waropen",
+        "Waropen Regency (Indonesia)",
+        "",
+        "Christianity"
+    ],
+    [
+        "Waxiang",
+        "Sino-Tibetan → Sinitic → Waxiang Chinese",
+        "Hunan (China)",
+        "",
+        "Chinese folk religion"
+    ],
+    [
+        "Welayta",
+        "Afroasiatic → Omotic → Wolaitta",
+        "Wolayitia (Ethiopia)",
+        "",
+        "Christianity → Protestantism → P'ent'ay"
+    ],
+    [
+        "Welsh",
+        "Indo-European → Celtic → Welsh, BANZSL → British Sign",
+        "Wales (United Kingdom)",
+        "significant populations in Argentina, the United States, Canada, and Australia.",
+        "Christianity → Protestantism"
+    ],
+    [
+        "Wolof",
+        "Niger–Congo → Atlantic → Senegambian → Wolof",
+        "Senegambia (Senegal, The Gambia)",
+        "Lebu",
+        "Islam → Sunni Islam → Sufism → Mouride"
+    ],
+    [
+        "Wuikinuxv",
+        "Wakashan → Northern Wakashan → Heiltsuk-Oowekyala → Oowekyala",
+        "British Columbia (Canada)",
+        "",
+        "Native American religion"
+    ],
+    [
+        "Xalimegos",
+        "Indo-European → Romance → Fala",
+        "Jálama Valley (Spain)",
+        "",
+        ""
+    ],
+    [
+        "Xavante",
+        "Je → Xavante",
+        "Mato Grosso (Brazil)",
+        "",
+        "Shamanism"
+    ],
+    [
+        "Xhosa",
+        "Niger–Congo → Bantu → Nguni → Xhosa",
+        "Xhosaland (South Africa)",
+        "",
+        "Christianity"
+    ],
+    [
+        "Yaghnobis",
+        "Indo-European → Iranian → Yaghnobi, Indo-European → Iranian → Tajik",
+        "Sughd Region (Tajikistan)",
+        "",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Yakan",
+        "Austronesian → Malayo-Polynesian → Barito → Sama–Bajaw → Yakan",
+        "Basilan (Philippines)",
+        "",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Yakö",
+        "Niger–Congo → Cross River → Yakö",
+        "Yakurr Local Government (Nigeria)",
+        "",
+        "Christianity"
+    ],
+    [
+        "Yakuts",
+        "Turkic → Siberian → Yakut",
+        "Yakutia (Russia)",
+        "",
+        "Christianity → Eastern Orthodoxy"
+    ],
+    [
+        "Yanomami",
+        "Yanomaman",
+        "Southeastern Venezuela, and northern Brazil",
+        "",
+        "Shamanism"
+    ],
+    [
+        "Yao",
+        "Niger–Congo → Bantu → Yao",
+        "Malawi, Mozambique, Tanzania (Ruvuma and Mtwara Regions)",
+        "",
+        "Islam and Animism → Yao Folk Islam"
+    ],
+    [
+        "Yapese",
+        "Austronesian → Malayo-Polynesian → Oceanic → Yapese",
+        "Yap",
+        "",
+        "Christianity"
+    ],
+    [
+        "Yenish",
+        "Indo-European → Germanic → Yenish",
+        "Germany, Austria, Switzerland, Luxembourg, Belgium, and France",
+        "",
+        ""
+    ],
+    [
+        "Yi",
+        "Sino-Tibetan → Loloish",
+        "China (Yunnan, Sichuan, Guizhou, Guangxi)",
+        "Phù Lá, Azha",
+        "Bimoism"
+    ],
+    [
+        "Yoa-Lokpa",
+        "Niger–Congo → Gur → Oti–Volta → Yom, Niger–Congo → Gur → Gurunsi → Lukpa",
+        "Donga Department (Benin)",
+        "",
+        ""
+    ],
+    [
+        "Yoruba",
+        "Niger–Congo → Yoruba, Yoruba Sign",
+        "Yorubaland (Nigeria, Benin, Togo)",
+        "Ijesha, Egba, Yewa, Igbomina, Awori, Akoko, Okun, Ana, Ekiti, Ilaje, Ijebu, Oyo, Ondo, Ife, Nagos, with significant populations in the United States and Canada",
+        "Islam, Christianity, Yoruba religion"
+    ],
+    [
+        "Yugambeh",
+        "Pama-Nyungan → Bandjalangic → Yugambeh",
+        "Queensland (Australia)",
+        "",
+        "Alcheringa"
+    ],
+    [
+        "Yugoslavs",
+        "Indo-European → Slavic → Serbo-Croatian, Indo-European → Slavic → Macedonian, Indo-European → Slavic → Slovene",
+        "Serbia, Bosnia and Herzegovina, Montenegro, Slovenia, North Macedonia, Croatia",
+        "Significant populations in Serbia, Canada, and the United States",
+        ""
+    ],
+    [
+        "Yukaghir",
+        "Yukaghir languages",
+        "Yakutia (Russia)",
+        "Chuvans",
+        "Shamanism"
+    ],
+    [
+        "Yup'ik",
+        "Eskimo–Aleut → Eskimo → Yup'ik",
+        "Alaska (United States)",
+        "Nunivak Cup'ig, Chevak Cup'ik",
+        "Christianity, Shamanism"
+    ],
+    [
+        "Zaghawa",
+        "Nilo-Saharan → Saharan → Zaghawa",
+        "Chad, Sudan",
+        "",
+        "Islam → Sunni Islam"
+    ],
+    [
+        "Zamboangueños",
+        "Indo-European → Romance → Spanish → Chavacano",
+        "Zamboanga City (Philippines)",
+        "",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Zande",
+        "Niger–Congo → Zande",
+        "Democratic Republic of the Congo, Central African Republic, South Sudan",
+        "Barambu",
+        "Christianity"
+    ],
+    [
+        "Zapotecs",
+        "Oto-Manguean → Zapotec",
+        "Oaxaca (Mexico)",
+        "Ixtlán",
+        "Christianity → Catholicism"
+    ],
+    [
+        "Zhuang",
+        "Kra–Dai → Tai → Zhuang",
+        "Zhuangia (China)",
+        "",
+        "Moism"
+    ],
+    [
+        "Zomi",
+        "Sino-Tibetan → Tibeto-Burman → Kuki-Chin–Naga, Sino-Tibetan → Mruic",
+        "Zogam (Myanmar, Bangladesh, India)",
+        "Thadou (including Telngoh), Paite, Zou, Kom, Koireng, Mizo (including Khiangte, Hmar (including Saihriem and Zote), Renthlei, Chawngthu, Miu-Khumi, and Ralte), Aimol, Sukte, Bawm, Lai, Biate, Chin (including Asho, Mro-Khimi, Mru (including Anok, Tshüngma, Dömrong, Dopteng, and Rümma), Anu, Chho, Cumtu Chin, and Hkongso (including Kasang, Htey, Kamu, Ngan, Gwa, Hteikloeh, Ngai, Rahnam, Kapu, Kasah, Namte, Krawktu, and Namluek)), Kuki (including Vaiphei, Khelma, Halam (including Korbong), Mate, and Simte) Gangte, and Bnei Menashe",
+        "Christianity"
+    ],
+    [
+        "Zulu",
+        "Niger–Congo → Bantu → Nguni → Zulu",
+        "KwaZulu-Natal (South Africa)",
+        "Northern Ndebele",
+        "Christianity"
+    ],
+    [
+        "Zuni",
+        "Zuni language",
+        "New Mexico (United States)",
+        "",
+        "Catholicism, Native American Church"
+    ]
+]
