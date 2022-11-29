@@ -15,10 +15,8 @@ class  FillTemplateConfig(object):
     n_predictions: int = 29
     """Number of predictions"""
 
-    dimensions = [
-        'male',
-        'female'
-    ]
+    pos_tag_wanted: str = 'AQ'
+    """Keep only words with this POS tag"""
 
     @property
     def n_dimensions(self): 

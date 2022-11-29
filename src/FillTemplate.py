@@ -89,7 +89,7 @@ class FillTemplate:
         self.export_model_result(model_name)
         self.model_data = pd.DataFrame()
 
-    @log_time
+    # @log_time
     def run_for_dimension(self, tagger: PosTaggerService, pipeline: FillMaskPipeline, model_idx: int, df: pd.DataFrame, dimension: str, mask: str):
         cdf = df.copy()
         cdf = cdf.reset_index()
@@ -146,7 +146,10 @@ class FillTemplate:
         result_container.add_all(records, unique_words, templates, models)
         _write.json(result_container, file_json)
 
-        unique_adjectives = pd.unique(self.data[ (self.data["pos_tag"] == "AQ") & ( ~self.data["word"].str.contains("#", regex = False) ) ]["word"]).tolist()
+        if self.cfg.pos_tag_wanted is '':
+                unique_adjectives = pd.unique(self.data[ ~self.data["word"].str.contains("#", regex = False) ]["word"]).tolist()
+        else:
+            unique_adjectives = pd.unique(self.data[ (self.data["pos_tag"] == self.cfg.pos_tag_wanted) & ( ~self.data["word"].str.contains("#", regex = False) ) ]["word"]).tolist()
         path_adjectives = _project.result_path(self.experiment, "FillTemplate", "Adjectives.json" )
         _write.list_as_json(unique_adjectives, path_adjectives)
 
@@ -161,14 +164,25 @@ args = _cli.args(
     label = 'Spanish Genre 10',
     templates = 'sentences.tsv',
     models = 'models.tsv',
-    n_predictions = 10
+    n_predictions = 10,
+    pos_tag_wanted = 'AQ'
 )
 
+# TODO: Cambiar las dos rutas para poder pillarlas por consola
 cfg = FillTemplateConfig(
     args.label,
     _project.data_path("FillTemplate", args.templates),
     _project.data_path("FillTemplate", args.models),
-    args.n_predictions
+    args.n_predictions,
+    args.pos_tag_wanted
+)
+
+cfg = FillTemplateConfig(
+    "nationalities",
+    _project.result_path("GenerateSentences", "nationalities", "sentences.tsv"),
+    _project.data_path("FillTemplate", args.models),
+    10,
+    ''
 )
 
 FillTemplate(cfg)

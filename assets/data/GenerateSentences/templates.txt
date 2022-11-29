@@ -1,0 +1,6 @@
+El joven {nat} es un [MASK].
+El inmigrante {nat} es un [MASK].
+El hombre {nat} es un [MASK].
+El ciudadano {nat} es un [MASK].
+# Los {nat} crean [MASK].
+# Los {nat} son responsables de [MASK].

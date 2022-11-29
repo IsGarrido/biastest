@@ -1,0 +1,6 @@
+Los {nat} son [MASK].
+Los jovenes {nat} son [MASK].
+Los inmigrantes {nat} son [MASK].
+Los ciudadanos {nat} son [MASK].
+Los turistas {nat} son [MASK].
+#Los {nat} son responsables de [MASK].

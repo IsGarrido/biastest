@@ -21,3 +21,20 @@ https://www.wikitable2json.com/
 
 # https://die.udistrital.edu.co/blog/pre_textos_para_maestrs/estereotipos_y_prejuicios_etnicos_y_raciales
 # 
+
+hacer a mano de afecciones peyorativas. Sacar la idea.
+Etnias asociadas a peyorativo 
+
+revisar state of the art del trabajo WE en el fcorreo de arturo.
+
+xenofobia grupos en el modelo del lenguagej
+observatorio xenofobia españaol
+hacer lista mixta
+
+
+=============================
+Pasar al plural para los prejuicios
+
+Patrones, atributos protegidos, categorías 
+=============================
+Etnias/gentilicios vs Popularidad (Se encuentra tendencia, se encuentra en el modelo?)

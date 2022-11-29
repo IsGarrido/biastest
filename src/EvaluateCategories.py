@@ -118,6 +118,25 @@ args = _cli.args(
 #     categories = 'Yulia.json'
 # )
 
+args = _cli.args(
+    label = 'nationalities',
+    categories = 'nationalities.json',
+    dimensions = [
+        "españoles",
+        "franceses",
+        "británicos",
+        "argentinos",
+        "mejicanos",
+        "peruanos",
+        "marroquíes",
+        "argelinos",
+        "sudafricanos",
+        "chinos",
+        "japoneses",
+        "coreanos",
+    ]
+)
+
 cfg = EvaluateCategoriesConfig(
     args.label,
     _project.data_path("EvaluateCategories", args.categories)

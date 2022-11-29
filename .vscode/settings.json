@@ -6,4 +6,5 @@
         "**/assets/data": true,
         "**/assets/result": true
     },
+    "jupyter.debugJustMyCode": false,
 }
