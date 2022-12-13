@@ -80,25 +80,11 @@ class EvaluateCategoriesDataService():
         return self.__merge(base_df, rsv_df, grouping_columns )
         # return grouped_res[grouped_res.category != 'unknown']
 
+
     def group_by_category_fn(self, df_data: pd.DataFrame) -> pd.DataFrame:
 
         grouping_columns = ['dimension', 'model', 'category']
-
-        base_df = df_data.groupby(grouping_columns, as_index = False).agg(
-            score_sum=('score', 'sum'),
-
-            score_min=('score', 'min'),
-            score_max=('score', 'max'),
-            score_mean=('score', 'mean'),
-
-            count=('rsv', 'count'),
-
-            adj_cnt=('is_adjective', 'sum'),
-            snt_pos_cnt = ('sentiment_pos', 'sum'),
-            snt_neg_cnt = ('sentiment_neg', 'sum')
-
-        )
-
+        base_df = self.__aggregate(df_data, grouping_columns)
         rsv_df = self.__calculate_rsv(df_data, grouping_columns)
 
         return self.__merge(base_df, rsv_df, grouping_columns )
@@ -107,21 +93,7 @@ class EvaluateCategoriesDataService():
     def group_by_dimension_fn(self, df_data: pd.DataFrame) -> pd.DataFrame:
 
         grouping_columns = ['dimension', 'model']
-
-        base_df = df_data.groupby(grouping_columns, as_index = False).agg(
-            score_sum=('score', 'sum'),
-
-            score_min=('score', 'min'),
-            score_max=('score', 'max'),
-            score_mean=('score', 'mean'),
-
-            count=('rsv', 'count'),
-
-            adj_cnt=('is_adjective', 'sum'),
-            snt_pos_cnt = ('sentiment_pos', 'sum'),
-            snt_neg_cnt = ('sentiment_neg', 'sum')
-        )
-
+        base_df = self.__aggregate(df_data, grouping_columns)
         rsv_df = self.__calculate_rsv(df_data, grouping_columns)
 
         return self.__merge(base_df, rsv_df, grouping_columns )
@@ -130,21 +102,7 @@ class EvaluateCategoriesDataService():
     def group_by_model_fn(self, df_data: pd.DataFrame) -> pd.DataFrame:
 
         grouping_columns = ['model']
-
-        base_df = df_data.groupby(grouping_columns, as_index = False).agg(
-            score_sum=('score', 'sum'),
-
-            score_min=('score', 'min'),
-            score_max=('score', 'max'),
-            score_mean=('score', 'mean'),
-
-            count=('rsv', 'count'),
-
-            adj_cnt=('is_adjective', 'sum'),
-            snt_pos_cnt = ('sentiment_pos', 'sum'),
-            snt_neg_cnt = ('sentiment_neg', 'sum')
-        )
-
+        base_df = self.__aggregate(df_data, grouping_columns)
         rsv_df = self.__calculate_rsv(df_data, grouping_columns)
 
         return self.__merge(base_df, rsv_df, grouping_columns )
@@ -153,22 +111,7 @@ class EvaluateCategoriesDataService():
     def group_sentences(self, df_data):
 
         grouping_columns = ['sentence']
-
-        base_df = df_data.groupby(grouping_columns, as_index = False
-        ).agg(
-            score_sum=('score', 'sum'),
-
-            score_min=('score', 'min'),
-            score_max=('score', 'max'),
-            score_mean=('score', 'mean'),
-
-            count=('rsv', 'count'),
-
-            adj_cnt=('is_adjective', 'sum'),
-            snt_pos_cnt = ('sentiment_pos', 'sum'),
-            snt_neg_cnt = ('sentiment_neg', 'sum')
-        )
-
+        base_df = self.__aggregate(df_data, grouping_columns)
         rsv_df = self.__calculate_rsv(df_data, grouping_columns)
 
         return self.__merge(base_df, rsv_df, grouping_columns )
@@ -177,21 +120,7 @@ class EvaluateCategoriesDataService():
     def group_sentences_with_dimensions(self, df_data):
 
         grouping_columns = ['sentence', 'dimension']
-        base_df = df_data.groupby(grouping_columns, as_index = False).agg(
-            score_sum=('score', 'sum'),
-
-            score_min=('score', 'min'),
-            score_max=('score', 'max'),
-            score_mean=('score', 'mean'),
-
-            count=('rsv', 'count'),
-
-            adj_cnt=('is_adjective', 'sum'),
-            snt_pos_cnt = ('sentiment_pos', 'sum'),
-            snt_neg_cnt = ('sentiment_neg', 'sum')
-
-        )
-
+        base_df = self.__aggregate(df_data, grouping_columns)
         rsv_df = self.__calculate_rsv(df_data, grouping_columns)
 
         return self.__merge(base_df, rsv_df, grouping_columns )
@@ -199,23 +128,7 @@ class EvaluateCategoriesDataService():
     def group_model_category(self, df_data):
 
         grouping_columns = ['model', 'category']
-
-        base_df = df_data.groupby(grouping_columns, as_index = False
-        ).agg(
-            score_sum=('score', 'sum'),
-
-            score_min=('score', 'min'),
-            score_max=('score', 'max'),
-            score_mean=('score', 'mean'),
-
-            count=('rsv', 'count'),
-
-            adj_cnt=('is_adjective', 'sum'),
-            snt_pos_cnt = ('sentiment_pos', 'sum'),
-            snt_neg_cnt = ('sentiment_neg', 'sum')
-
-        )
-
+        base_df = self.__aggregate(df_data, grouping_columns)
         rsv_df = self.__calculate_rsv(df_data, grouping_columns)
 
         merged_df = self.__merge(base_df, rsv_df, grouping_columns )
@@ -238,23 +151,7 @@ class EvaluateCategoriesDataService():
     def group_model_category_with_dimension(self, df_data):
 
         grouping_columns = ['model', 'category', 'dimension']
-
-        base_df = df_data.groupby(grouping_columns, as_index = False
-        ).agg(
-            score_sum=('score', 'sum'),
-
-            score_min=('score', 'min'),
-            score_max=('score', 'max'),
-            score_mean=('score', 'mean'),
-
-            count=('rsv', 'count'),
-
-            adj_cnt=('is_adjective', 'sum'),
-            snt_pos_cnt = ('sentiment_pos', 'sum'),
-            snt_neg_cnt = ('sentiment_neg', 'sum')
-
-        )
-
+        base_df = self.__aggregate(df_data, grouping_columns)
         rsv_df = self.__calculate_rsv(df_data, grouping_columns)
 
         merged_df = self.__merge(base_df, rsv_df, grouping_columns )
