@@ -124,10 +124,10 @@ args = _cli.args(
     categories = 'nationalities.json',
 )
 
-args = _cli.args(
-    label = 'nationalities_forced',
-    categories = 'nationalities_forced.json',    
-)
+# args = _cli.args(
+#     label = 'nationalities_forced',
+#     categories = 'nationalities_forced.json',    
+# )
 
 cfg = EvaluateCategoriesConfig(
     args.label,
