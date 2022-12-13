@@ -146,7 +146,7 @@ class FillTemplate:
         result_container.add_all(records, unique_words, templates, models)
         _write.json(result_container, file_json)
 
-        if self.cfg.pos_tag_wanted is '':
+        if self.cfg.pos_tag_wanted == '':
                 unique_adjectives = pd.unique(self.data[ ~self.data["word"].str.contains("#", regex = False) ]["word"]).tolist()
         else:
             unique_adjectives = pd.unique(self.data[ (self.data["pos_tag"] == self.cfg.pos_tag_wanted) & ( ~self.data["word"].str.contains("#", regex = False) ) ]["word"]).tolist()
@@ -180,6 +180,14 @@ cfg = FillTemplateConfig(
 cfg = FillTemplateConfig(
     "nationalities",
     _project.result_path("GenerateSentences", "nationalities", "sentences.tsv"),
+    _project.data_path("FillTemplate", args.models),
+    10,
+    ''
+)
+
+cfg = FillTemplateConfig(
+    "nationalities_forced",
+    _project.result_path("GenerateSentences", "nationalities_forced", "sentences.tsv"),
     _project.data_path("FillTemplate", args.models),
     10,
     ''
