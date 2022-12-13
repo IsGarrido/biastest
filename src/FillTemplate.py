@@ -213,16 +213,16 @@ cfg = FillTemplateConfig(
     _project.data_path("FillTemplate", args.models),
     10,
     '',
-    predict_sentiment = False
-)
-
-cfg = FillTemplateConfig(
-    "nationalities_forced",
-    _project.result_path("GenerateSentences", "nationalities_forced", "sentences.tsv"),
-    _project.data_path("FillTemplate", args.models),
-    10,
-    '',
     predict_sentiment = True
 )
+
+# cfg = FillTemplateConfig(
+#     "nationalities_forced",
+#     _project.result_path("GenerateSentences", "nationalities_forced", "sentences.tsv"),
+#     _project.data_path("FillTemplate", args.models),
+#     10,
+#     '',
+#     predict_sentiment = True
+# )
 
 FillTemplate(cfg)
