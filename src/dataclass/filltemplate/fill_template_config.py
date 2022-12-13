@@ -18,6 +18,12 @@ class  FillTemplateConfig(object):
     pos_tag_wanted: str = 'AQ'
     """Keep only words with this POS tag"""
 
+    predict_sentiment: bool = False
+
     @property
     def n_dimensions(self): 
         return len(self.dimensions)
+
+    @property
+    def predict_pos_tag(self):
+        return self.pos_tag_wanted != ''

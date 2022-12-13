@@ -7,7 +7,8 @@ from dataclass.filltemplate.fill_template_result import FillTemplateResult
 from dataclass.filltemplate.fill_template_config import FillTemplateConfig
 from dataclass.model_config import ModelConfig
 
-from relhelperspy.huggingface.service.PostTagger import PosTaggerService
+from relhelperspy.huggingface.service.PosTaggerService import PosTaggerService
+from relhelperspy.huggingface.service.SentimentAnalysisService import SentimentAnalysisService
 from relhelperspy.io.project_helper import ProjectHelper as _project
 from relhelperspy.huggingface.model_helper import HuggingFaceModelHelper as _hf_model
 from relhelperspy.huggingface.fillmask_helper import FillMaskHelper as _hf_fillmask
@@ -29,6 +30,8 @@ class FillTemplate:
         self.data = pd.DataFrame()
         self.model_data = pd.DataFrame()
         self.experiment = _string.as_file_name(cfg.label)
+
+        self._sentiment = SentimentAnalysisService() if cfg.predict_sentiment else None
 
         # TODO revisar si esto hace falta aún 
         folder = _project.result_path(self.experiment, FillTemplate.__name__)
@@ -109,7 +112,18 @@ class FillTemplate:
         res_df['sentence'] = sentence_index
         res_df['model'] = model_idx    # beto by its index
         res_df['dimension'] = dimension # m/f
-        res_df['pos_tag'] = res_df.apply(lambda row: self.tag_sentence(tagger, mask, sentence, row['token_str'].strip()) , axis = 1)
+
+        # Pos tag if enabled
+        if self.cfg.predict_pos_tag:
+            res_df['pos_tag'] = res_df.apply(lambda row: self.tag_sentence(tagger, mask, sentence, row['token_str'].strip()) , axis = 1)
+        else:
+            res_df['pos_tag'] = res_df.apply(lambda row: '' , axis = 1)
+
+        # Sentence sentiment if enabled
+        if self.cfg.predict_sentiment:
+            res_df['sentiment'] = res_df.apply(lambda row:self.get_sentiment(self._sentiment, row['sequence']), axis = 1)
+        else:
+            res_df['sentiment'] = res_df.apply(lambda row: '' , axis = 1)
         
         res_df.reset_index(inplace=True)
         res_df['rsv'] = [len(res_df)]*len(res_df) - res_df.index 
@@ -127,6 +141,9 @@ class FillTemplate:
     def tag_sentence(self, tagger: PosTaggerService, mask: str, sentence: str, word: str):
         msequence = sentence.replace(mask, word)
         return tagger.tag(msequence, word)
+
+    def get_sentiment(self, service: SentimentAnalysisService, sentence: str):
+        return service.get(sentence)
 
     def export_model_result(self, model_name):
         path = _project.result_path(self.experiment, FillTemplate.__name__, _string.as_file_name(model_name) + ".tsv" )
@@ -176,7 +193,8 @@ args = _cli.args(
     templates = 'sentences.tsv',
     models = 'models.tsv',
     n_predictions = 10,
-    pos_tag_wanted = 'AQ'
+    pos_tag_wanted = 'AQ',
+    predict_sentiment = False
 )
 
 # TODO: Cambiar las dos rutas para poder pillarlas por consola
@@ -185,7 +203,8 @@ cfg = FillTemplateConfig(
     _project.data_path("FillTemplate", args.templates),
     _project.data_path("FillTemplate", args.models),
     args.n_predictions,
-    args.pos_tag_wanted
+    args.pos_tag_wanted,
+    predict_sentiment = False
 )
 
 cfg = FillTemplateConfig(
@@ -193,7 +212,8 @@ cfg = FillTemplateConfig(
     _project.result_path("GenerateSentences", "nationalities", "sentences.tsv"),
     _project.data_path("FillTemplate", args.models),
     10,
-    ''
+    '',
+    predict_sentiment = False
 )
 
 cfg = FillTemplateConfig(
@@ -201,7 +221,8 @@ cfg = FillTemplateConfig(
     _project.result_path("GenerateSentences", "nationalities_forced", "sentences.tsv"),
     _project.data_path("FillTemplate", args.models),
     10,
-    ''
+    '',
+    predict_sentiment = True
 )
 
 FillTemplate(cfg)

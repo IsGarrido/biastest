@@ -6,7 +6,7 @@ from transformers import FillMaskPipeline
 from dataclass.filltemplate.fill_template_result import FillTemplateResult
 from dataclass.model_config import ModelConfig
 
-from relhelperspy.huggingface.service.PostTagger import PosTaggerService
+from relhelperspy.huggingface.service.PosTaggerService import PosTaggerService
 from relhelperspy.io.project_helper import ProjectHelper as _project
 from relhelperspy.huggingface.model_helper import HuggingFaceModelHelper as _hf_model
 from relhelperspy.huggingface.fillmask_helper import FillMaskHelper as _hf_fillmask
