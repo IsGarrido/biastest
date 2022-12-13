@@ -16,6 +16,7 @@ from relhelperspy.primitives.annotations import log_time, log_time_with_counter
 from relhelperspy.primitives.string_helper import StringHelper as _string
 from relhelperspy.io.write_helper import WriteHelper as _write
 from relhelperspy.io.cli_helper import CliHelper as _cli
+from relhelperspy.primitives.list_helper import ListHelper as _list
 
 import warnings
 warnings.filterwarnings("ignore")
@@ -147,9 +148,19 @@ class FillTemplate:
         _write.json(result_container, file_json)
 
         if self.cfg.pos_tag_wanted == '':
-                unique_adjectives = pd.unique(self.data[ ~self.data["word"].str.contains("#", regex = False) ]["word"]).tolist()
+                unique_adjectives = pd.unique(self.data[ 
+                    ~self.data["word"].str.contains("#", regex = False) &
+                    (self.data["word"].str.len().gt(2))
+                ]["word"]).tolist()
         else:
-            unique_adjectives = pd.unique(self.data[ (self.data["pos_tag"] == self.cfg.pos_tag_wanted) & ( ~self.data["word"].str.contains("#", regex = False) ) ]["word"]).tolist()
+            unique_adjectives = pd.unique(self.data[
+                (self.data["pos_tag"] == self.cfg.pos_tag_wanted) &
+                (~self.data["word"].str.contains("#", regex = False)) &
+                (self.data["word"].str.len().gt(2))
+            ]["word"]).tolist()
+        
+        unique_adjectives = _list.sort(unique_adjectives)
+
         path_adjectives = _project.result_path(self.experiment, "FillTemplate", "Adjectives.json" )
         _write.list_as_json(unique_adjectives, path_adjectives)
 

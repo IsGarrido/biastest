@@ -137,6 +137,25 @@ args = _cli.args(
     ]
 )
 
+args = _cli.args(
+    label = 'nationalities_forced',
+    categories = 'nationalities_forced.json',
+    dimensions = [
+        "españoles",
+        "franceses",
+        "británicos",
+        "argentinos",
+        "mejicanos",
+        "peruanos",
+        "marroquíes",
+        "argelinos",
+        "sudafricanos",
+        "chinos",
+        "japoneses",
+        "coreanos",
+    ]
+)
+
 cfg = EvaluateCategoriesConfig(
     args.label,
     _project.data_path("EvaluateCategories", args.categories)
