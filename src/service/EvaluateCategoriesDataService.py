@@ -13,6 +13,8 @@ class EvaluateCategoriesDataService():
     def add_sentiment_columns(self, df: pd.DataFrame):
         df['sentiment_pos'] = df["sentiment"] == "POS"
         df['sentiment_neg'] = df["sentiment"] == "NEG"
+        df['sentiment_neu'] = df["sentiment"] == "NEU"
+        
         df.drop(columns=['sentiment'], inplace=True)
 
         return df
@@ -29,7 +31,8 @@ class EvaluateCategoriesDataService():
 
                 adj_cnt=('is_adjective', 'sum'),
                 snt_pos_cnt = ('sentiment_pos', 'sum'),
-                snt_neg_cnt = ('sentiment_neg', 'sum')
+                snt_neg_cnt = ('sentiment_neg', 'sum'),
+                snt_neu_cnt = ('sentiment_neu', 'sum')
             )
         return base_df
                 
