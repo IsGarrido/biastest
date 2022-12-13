@@ -39,6 +39,7 @@ class EvaluateCategories:
         df_data = pd.DataFrame.from_records(all_data)
         df_data = _service.add_is_adjective_column(df_data)
         df_data = _service.add_category_column(df_data, categories)
+        df_data = _service.add_sentiment_columns(df_data)
 
         self.compute_sentences_statistics(_service, df_data.copy(), dimensions)
         self.compute_model_category_statistics(_service, df_data.copy(), dimensions)
@@ -121,39 +122,11 @@ args = _cli.args(
 args = _cli.args(
     label = 'nationalities',
     categories = 'nationalities.json',
-    dimensions = [
-        "españoles",
-        "franceses",
-        "británicos",
-        "argentinos",
-        "mejicanos",
-        "peruanos",
-        "marroquíes",
-        "argelinos",
-        "sudafricanos",
-        "chinos",
-        "japoneses",
-        "coreanos",
-    ]
 )
 
 args = _cli.args(
     label = 'nationalities_forced',
-    categories = 'nationalities_forced.json',
-    dimensions = [
-        "españoles",
-        "franceses",
-        "británicos",
-        "argentinos",
-        "mejicanos",
-        "peruanos",
-        "marroquíes",
-        "argelinos",
-        "sudafricanos",
-        "chinos",
-        "japoneses",
-        "coreanos",
-    ]
+    categories = 'nationalities_forced.json',    
 )
 
 cfg = EvaluateCategoriesConfig(
